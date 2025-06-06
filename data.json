@@ -5236,6 +5236,355 @@
     "gender": ""
   },
 
+  "1": {
+    "type": "numeral",
+    "germanic": "ainaz",
+    "english1": "one",
+    "english2": "",
+    "gender": "",
+    "options": {
+      "cardinal": "ainaz",
+      "ordinal": "frumô",
+      "multiplier": "ainafalþaz"
+    }
+  },
+  "2": {
+    "type": "numeral",
+    "germanic": "twai",
+    "english1": "two",
+    "english2": "",
+    "gender": "",
+    "options": {
+      "cardinal": "twai",
+      "ordinal": "anþeraz",
+      "multiplier": "twifalþaz"
+    }
+  },
+  "3": {
+    "type": "numeral",
+    "germanic": "þrīz",
+    "english1": "three",
+    "english2": "",
+    "gender": "",
+    "options": {
+      "cardinal": "þrīz",
+      "ordinal": "þridjô",
+      "multiplier": "þrifalþaz"
+    }
+  },
+  "4": {
+    "type": "numeral",
+    "germanic": "fedwōr",
+    "english1": "four",
+    "english2": "",
+    "gender": "",
+    "options": {
+      "cardinal": "fedwōr",
+      "ordinal": "fedurþô",
+      "multiplier": "feþurfalþaz"
+    }
+  },
+  "5": {
+    "type": "numeral",
+    "germanic": "fimf",
+    "english1": "five",
+    "english2": "",
+    "gender": "",
+    "options": {
+      "cardinal": "fimf",
+      "ordinal": "fimftô",
+      "multiplier": "fimffalþaz"
+    }
+  },
+  "6": {
+    "type": "numeral",
+    "germanic": "sehs",
+    "english1": "six",
+    "english2": "",
+    "gender": "",
+    "options": {
+      "cardinal": "sehs",
+      "ordinal": "sehtô",
+      "multiplier": "sehsfalþaz"
+    }
+  },
+  "7": {
+    "type": "numeral",
+    "germanic": "sebun",
+    "english1": "seven",
+    "english2": "",
+    "gender": "",
+    "options": {
+      "cardinal": "sebun",
+      "ordinal": "sebundô",
+      "multiplier": "sebunfalþaz"
+    }
+  },
+  "8": {
+    "type": "numeral",
+    "germanic": "ahtōu",
+    "english1": "eight",
+    "english2": "",
+    "gender": "",
+    "options": {
+      "cardinal": "ahtōu",
+      "ordinal": "ahtudô",
+      "multiplier": "ahtōufalþaz"
+    }
+  },
+  "9": {
+    "type": "numeral",
+    "germanic": "newun",
+    "english1": "nine",
+    "english2": "",
+    "gender": "",
+    "options": {
+      "cardinal": "newun",
+      "ordinal": "newundô",
+      "multiplier": "newunfalþaz"
+    }
+  },
+  "10": {
+    "type": "numeral",
+    "germanic": "tehun",
+    "english1": "ten",
+    "english2": "",
+    "gender": "",
+    "options": {
+      "cardinal": "tehun",
+      "ordinal": "tehundô",
+      "multiplier": "tehunfalþaz"
+    }
+  },
+  "11": {
+    "type": "numeral",
+    "germanic": "ainalif",
+    "english1": "eleven",
+    "english2": "",
+    "gender": "",
+    "options": {
+      "cardinal": "ainalif",
+      "ordinal": "ainaliftô",
+      "multiplier": "ainaliffalþaz"
+    }
+  },
+  "12": {
+    "type": "numeral",
+    "germanic": "twalif",
+    "english1": "twelve",
+    "english2": "",
+    "gender": "",
+    "options": {
+      "cardinal": "twalif",
+      "ordinal": "twaliftô",
+      "multiplier": "twaliffalþaz"
+    }
+  },
+  "13": {
+    "type": "numeral",
+    "germanic": "þritehun",
+    "english1": "thirteen",
+    "english2": "",
+    "gender": "",
+    "options": {
+      "cardinal": "þritehun",
+      "ordinal": "þridjatehundô",
+      "multiplier": "þritehunfalþaz"
+    }
+  },
+  "14": {
+    "type": "numeral",
+    "germanic": "fedurtehun",
+    "english1": "fourteen",
+    "english2": "",
+    "gender": "",
+    "options": {
+      "cardinal": "fedurtehun",
+      "ordinal": "fedurþatehundô",
+      "multiplier": "-"
+    }
+  },
+  "15": {
+    "type": "numeral",
+    "germanic": "fimftehun",
+    "english1": "fifteen",
+    "english2": "",
+    "gender": "",
+    "options": {
+      "cardinal": "fimftehun",
+      "ordinal": "fimftatehundô",
+      "multiplier": "-"
+    }
+  },
+  "16": {
+    "type": "numeral",
+    "germanic": "sehstehun",
+    "english1": "sixteen",
+    "english2": "",
+    "gender": "",
+    "options": {
+      "cardinal": "sehstehun",
+      "ordinal": "sehtatehundô",
+      "multiplier": "-"
+    }
+  },
+  "17": {
+    "type": "numeral",
+    "germanic": "sebuntehun",
+    "english1": "seventeen",
+    "english2": "",
+    "gender": "",
+    "options": {
+      "cardinal": "sebuntehun",
+      "ordinal": "sebundatehundô",
+      "multiplier": "-"
+    }
+  },
+  "18": {
+    "type": "numeral",
+    "germanic": "ahtōutehun",
+    "english1": "eightteen",
+    "english2": "",
+    "gender": "",
+    "options": {
+      "cardinal": "ahtōutehun",
+      "ordinal": "ahtudatehundô",
+      "multiplier": "-"
+    }
+  },
+  "19": {
+    "type": "numeral",
+    "germanic": "newuntehun",
+    "english1": "nineteen",
+    "english2": "",
+    "gender": "",
+    "options": {
+      "cardinal": "newuntehun",
+      "ordinal": "newundatehundô",
+      "multiplier": "-"
+    }
+  },
+  "20": {
+    "type": "numeral",
+    "germanic": "twai tigiwiz",
+    "english1": "twenty",
+    "english2": "",
+    "gender": "",
+    "options": {
+      "cardinal": "twai tigiwiz",
+      "ordinal": "-",
+      "multiplier": "-"
+    }
+  },
+  "30": {
+    "type": "numeral",
+    "germanic": "þrīz tigiwiz",
+    "english1": "thirty",
+    "english2": "",
+    "gender": "",
+    "options": {
+      "cardinal": "þrīz tigiwiz",
+      "ordinal": "-",
+      "multiplier": "-"
+    }
+  },
+  "40": {
+    "type": "numeral",
+    "germanic": "fedwōr tigiwiz",
+    "english1": "fourty",
+    "english2": "",
+    "gender": "",
+    "options": {
+      "cardinal": "fedwōr tigiwiz",
+      "ordinal": "-",
+      "multiplier": "-"
+    }
+  },
+  "50": {
+    "type": "numeral",
+    "germanic": "fimf tigiwiz",
+    "english1": "fifty",
+    "english2": "",
+    "gender": "",
+    "options": {
+      "cardinal": "fimf tigiwiz",
+      "ordinal": "-",
+      "multiplier": "-"
+    }
+  },
+  "60": {
+    "type": "numeral",
+    "germanic": "sehs tigiwiz",
+    "english1": "sixty",
+    "english2": "",
+    "gender": "",
+    "options": {
+      "cardinal": "sehs tigiwiz",
+      "ordinal": "-",
+      "multiplier": "-"
+    }
+  },
+  "70": {
+    "type": "numeral",
+    "germanic": "sebuntēhundą",
+    "english1": "seventy",
+    "english2": "",
+    "gender": "",
+    "options": {
+      "cardinal": "sebuntēhundą",
+      "ordinal": "-",
+      "multiplier": "-"
+    }
+  },
+  "80": {
+    "type": "numeral",
+    "germanic": "ahtōutēhundą",
+    "english1": "eighty",
+    "english2": "",
+    "gender": "",
+    "options": {
+      "cardinal": "ahtōutēhundą",
+      "ordinal": "-",
+      "multiplier": "-"
+    }
+  },
+  "90": {
+    "type": "numeral",
+    "germanic": "newuntēhundą",
+    "english1": "ninety",
+    "english2": "",
+    "gender": "",
+    "options": {
+      "cardinal": "newuntēhundą",
+      "ordinal": "-",
+      "multiplier": "-"
+    }
+  },
+  "100": {
+    "type": "numeral",
+    "germanic": "tehuntēhundą",
+    "english1": "hundred",
+    "english2": "",
+    "gender": "",
+    "options": {
+      "cardinal": "tehuntēhundą",
+      "ordinal": "-",
+      "multiplier": "-"
+    }
+  },
+  "": {
+    "type": "numeral",
+    "germanic": "",
+    "english1": "",
+    "english2": "",
+    "gender": "",
+    "options": {
+      "cardinal": "",
+      "ordinal": "",
+      "multiplier": ""
+    }
+  },
+
   "through": {
     "type": "preposition",
     "germanic": "þurhw",

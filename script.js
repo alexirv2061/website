@@ -525,6 +525,23 @@ function checkWord() {
         tableHTML += ` 
           <h3>${options.addition}</h3>
         `;
+      } else if (type === "numeral") {
+        tableHTML += ` 
+          <table>
+            <tr>
+              <th>cardinal</th>
+              <td>${options.cardinal}</td>
+            </tr>
+            <tr>
+              <th>ordinal</th>
+              <td>${options.ordinal}</td>
+            </tr>
+            <tr>
+              <th>multiplier</th>
+              <td>${options.multiplier}</td>
+            </tr>
+          </table>
+        `; 
       } else {
         tableHTML += `<td>Unknown type</td>`;
       }
