@@ -5,6 +5,7 @@
     "english1": "fruit",
     "english2": "",
     "gender": "masculine",
+    "pronunciation": "/ˈɑp.lɑz/",
     "options": {
       "sing_nomi": "aplaz",
       "plur_nomi": "aplōz, aplōs",
@@ -31,6 +32,7 @@
     "english1": "period",
     "english2": "interval",
     "gender": "feminine",
+    "pronunciation": "/ˈtiː.ðiz/",
     "options": {
       "sing_nomi": "tīdiz",
       "plur_nomi": "tīdīz",
@@ -57,6 +59,7 @@
     "english1": "human",
     "english2": "person",
     "gender": "masculine",
+    "pronunciation": "-",
     "options": {
       "sing_nomi": "mann-, manô, mannô",
       "plur_nomi": "manniz",
@@ -83,6 +86,7 @@
     "english1": "ᛞ",
     "english2": "",
     "gender": "masculine",
+    "pronunciation": "/ˈdɑ.ɣɑz/",
     "options": {
       "sing_nomi": "dagaz",
       "plur_nomi": "dagōz, dagōs",
@@ -109,6 +113,7 @@
     "english1": "",
     "english2": "",
     "gender": "neuter",
+    "pronunciation": "/ˈnɑ.mɔːː/",
     "options": {
       "sing_nomi": "namô",
       "plur_nomi": "namnō",
@@ -135,6 +140,7 @@
     "english1": "",
     "english2": "",
     "gender": "feminine",
+    "pronunciation": "/ˈkʷe.nɔ̃ː/",
     "options": {
       "sing_nomi": "kwenǭ",
       "plur_nomi": "kwenōniz",
@@ -161,6 +167,7 @@
     "english1": "corpse",
     "english2": "",
     "gender": "neuter",
+    "pronunciation": "/ˈliː.kɑ̃/",
     "options": {
       "sing_nomi": "līką",
       "plur_nomi": "līkō",
@@ -187,6 +194,7 @@
     "english1": "",
     "english2": "",
     "gender": "neuter",
+    "pronunciation": "/ˈkin.θɑ̃/",
     "options": {
       "sing_nomi": "kinþą",
       "plur_nomi": "kinþō",
@@ -213,6 +221,7 @@
     "english1": "",
     "english2": "",
     "gender": "feminine",
+    "pronunciation": "/ˈwe.rɑl.diz/",
     "options": {
       "sing_nomi": "weraldiz",
       "plur_nomi": "weraldīz",
@@ -239,6 +248,7 @@
     "english1": "",
     "english2": "",
     "gender": "feminine",
+    "pronunciation": "/ˈxɑn.duz/",
     "options": {
       "sing_nomi": "handuz",
       "plur_nomi": "handiwiz",
@@ -265,6 +275,7 @@
     "english1": "",
     "english2": "",
     "gender": "neuter",
+    "pronunciation": "/ˈxuː.sɑ̃/",
     "options": {
       "sing_nomi": "hūsą",
       "plur_nomi": "hūsō",
@@ -291,6 +302,7 @@
     "english1": "",
     "english2": "",
     "gender": "neuter",
+    "pronunciation": "/ˈwer.kɑ̃/",
     "options": {
       "sing_nomi": "werką",
       "plur_nomi": "werkō",
@@ -317,6 +329,7 @@
     "english1": "",
     "english2": "",
     "gender": "feminine",
+    "pronunciation": "/ˈnɑxts/",
     "options": {
       "sing_nomi": "nahts",
       "plur_nomi": "nahtiz",
@@ -343,6 +356,7 @@
     "english1": "",
     "english2": "",
     "gender": "masculine",
+    "pronunciation": "/ˈxɑi̯.mɑz/",
     "options": {
       "sing_nomi": "haimaz",
       "plur_nomi": "haimōz, haimōs",
@@ -369,6 +383,7 @@
     "english1": "",
     "english2": "",
     "gender": "neuter",
+    "pronunciation": "/ˈwɑ.tɔːr/",
     "options": {
       "sing_nomi": "watōr",
       "plur_nomi": "watnō",
@@ -395,6 +410,7 @@
     "english1": "open space",
     "english2": "",
     "gender": "neuter",
+    "pronunciation": "/ˈruː.mɑ̃/",
     "options": {
       "sing_nomi": "rūmą",
       "plur_nomi": "rūmō",
@@ -421,6 +437,7 @@
     "english1": "",
     "english2": "",
     "gender": "feminine",
+    "pronunciation": "/ˈmɔː.ðɛːr/",
     "options": {
       "sing_nomi": "mōdēr",
       "plur_nomi": "mōdriz",
@@ -447,6 +464,7 @@
     "english1": "area",
     "english2": "",
     "gender": "neuter",
+    "pronunciation": "/ˈlɑn.dɑ̃/",
     "options": {
       "sing_nomi": "landą",
       "plur_nomi": "landō",
@@ -473,6 +491,7 @@
     "english1": "",
     "english2": "",
     "gender": "masculine",
+    "pronunciation": "/ˈmɛː.nɔːθs/",
     "options": {
       "sing_nomi": "mēnōþs",
       "plur_nomi": "mēnōþiz",
@@ -499,6 +518,7 @@
     "english1": "",
     "english2": "",
     "gender": "neuter",
+    "pronunciation": "/ˈɑu̯.ɣɔːː/",
     "options": {
       "sing_nomi": "augô",
       "plur_nomi": "augōnō",
@@ -525,6 +545,7 @@
     "english1": "",
     "english2": "",
     "gender": "neuter",
+    "pronunciation": "/ˈxɑu̯.βu.ðɑ̃/",
     "options": {
       "sing_nomi": "haubudą",
       "plur_nomi": "haubudō",
@@ -551,6 +572,7 @@
     "english1": "loved one",
     "english2": "",
     "gender": "masculine",
+    "pronunciation": "/ˈɸri.jɔːndz/",
     "options": {
       "sing_nomi": "frijōndz",
       "plur_nomi": "frijōndiz",
@@ -577,6 +599,7 @@
     "english1": "",
     "english2": "",
     "gender": "masculine",
+    "pronunciation": "/ˈɸɑ.ðɛːr/",
     "options": {
       "sing_nomi": "fadēr",
       "plur_nomi": "fadriz",
@@ -603,6 +626,7 @@
     "english1": "",
     "english2": "",
     "gender": "masculine",
+    "pronunciation": "/ˈɑn.di.jɑz/",
     "options": {
       "sing_nomi": "andijaz",
       "plur_nomi": "andijōz, andijōs",
@@ -629,6 +653,7 @@
     "english1": "location",
     "english2": "",
     "gender": "masculine",
+    "pronunciation": "/ˈstɑ.ðiz/",
     "options": {
       "sing_nomi": "stadiz",
       "plur_nomi": "stadīz",
@@ -655,6 +680,7 @@
     "english1": "crowd",
     "english2": "",
     "gender": "neuter",
+    "pronunciation": "/ˈθur.pɑ̃/",
     "options": {
       "sing_nomi": "þurpą",
       "plur_nomi": "þurpō",
@@ -681,6 +707,7 @@
     "english1": "",
     "english2": "",
     "gender": "neuter",
+    "pronunciation": "/ˈmim.zɑ̃/",
     "options": {
       "sing_nomi": "mimzą",
       "plur_nomi": "mimzō",
@@ -707,6 +734,7 @@
     "english1": "",
     "english2": "",
     "gender": "masculine",
+    "pronunciation": "/ˈxʷɑi̯.ti.jɑz/",
     "options": {
       "sing_nomi": "hwaitijaz",
       "plur_nomi": "hwaitijōz, hwaitijōs",
@@ -730,6 +758,7 @@
     "english1": "",
     "english2": "",
     "gender": "feminine",
+    "pronunciation": "/ˈɣer.stɔː/",
     "options": {
       "sing_nomi": "gerstō",
       "plur_nomi": "gerstôz",
@@ -756,6 +785,7 @@
     "english1": "",
     "english2": "",
     "gender": "feminine",
+    "pronunciation": "/ˈmur.xɔ̃ː/",
     "options": {
       "sing_nomi": "murhǭ",
       "plur_nomi": "murhōniz",
@@ -782,6 +812,7 @@
     "english1": "",
     "english2": "",
     "gender": "neuter",
+    "pronunciation": "/ˈbrɑu̯.ðɑ̃/",
     "options": {
       "sing_nomi": "braudą",
       "plur_nomi": "braudō",
@@ -808,6 +839,7 @@
     "english1": "",
     "english2": "",
     "gender": "feminine",
+    "pronunciation": "/ˈuw.wɑ.lɔ̃ː/",
     "options": {
       "sing_nomi": "uwwalǭ",
       "plur_nomi": "uwwalōniz",
@@ -834,6 +866,7 @@
     "english1": "hatch",
     "english2": "flap",
     "gender": "feminine",
+    "pronunciation": "/durz/",
     "options": {
       "sing_nomi": "durz",
       "plur_nomi": "duriz",
@@ -860,6 +893,7 @@
     "english1": "fight",
     "english2": "",
     "gender": "masculine",
+    "pronunciation": "/ˈstriː.ðɑz/",
     "options": {
       "sing_nomi": "strīdaz",
       "plur_nomi": "strīdōz, strīdōs",
@@ -886,6 +920,7 @@
     "english1": "chest",
     "english2": "",
     "gender": "neuter",
+    "pronunciation": "/ˈbreu̯s.tɑ̃/",
     "options": {
       "sing_nomi": "breustą",
       "plur_nomi": "breustō",
@@ -912,6 +947,7 @@
     "english1": "",
     "english2": "",
     "gender": "masculine",
+    "pronunciation": "/ˈmun.θɑz/",
     "options": {
       "sing_nomi": "munþaz",
       "plur_nomi": "munþōz, munþōs",
@@ -938,6 +974,7 @@
     "english1": "",
     "english2": "",
     "gender": "masculine",
+    "pronunciation": "/ˈxɑl.sɑz/",
     "options": {
       "sing_nomi": "halsaz",
       "plur_nomi": "halsōz, halsōs",
@@ -964,6 +1001,7 @@
     "english1": "",
     "english2": "",
     "gender": "neuter",
+    "pronunciation": "/ˈxɛː.rɑ̃/",
     "options": {
       "sing_nomi": "hērą",
       "plur_nomi": "hērō",
@@ -990,6 +1028,7 @@
     "english1": "",
     "english2": "",
     "gender": "neuter",
+    "pronunciation": "/ˈɑu̯.sɔːː/",
     "options": {
       "sing_nomi": "ausô",
       "plur_nomi": "ausōnō",
@@ -1016,6 +1055,7 @@
     "english1": "",
     "english2": "",
     "gender": "feminine",
+    "pronunciation": "/ˈnɑ.sɔː/",
     "options": {
       "sing_nomi": "nasō",
       "plur_nomi": "nasôz",
@@ -1042,6 +1082,7 @@
     "english1": "",
     "english2": "",
     "gender": "masculine",
+    "pronunciation": "-",
     "options": {
       "sing_nomi": "lepô",
       "plur_nomi": "lepaniz",
@@ -1068,6 +1109,7 @@
     "english1": "",
     "english2": "",
     "gender": "masculine",
+    "pronunciation": "/ˈɑr.mɑz/",
     "options": {
       "sing_nomi": "armaz",
       "plur_nomi": "armōz, armōs",
@@ -1094,6 +1136,7 @@
     "english1": "",
     "english2": "",
     "gender": "masculine",
+    "pronunciation": "/ˈnɑɣ.lɑz/",
     "options": {
       "sing_nomi": "naglaz",
       "plur_nomi": "naglōz, naglōs",
@@ -1120,6 +1163,7 @@
     "english1": "",
     "english2": "",
     "gender": "masculine",
+    "pronunciation": "/ˈɸiŋ.ɡrɑz/",
     "options": {
       "sing_nomi": "fingraz",
       "plur_nomi": "fingrōz, fingrōs",
@@ -1146,6 +1190,7 @@
     "english1": "",
     "english2": "",
     "gender": "feminine",
+    "pronunciation": "/ˈɸu.θiz/",
     "options": {
       "sing_nomi": "fuþiz",
       "plur_nomi": "fuþīz",
@@ -1172,6 +1217,7 @@
     "english1": "arse",
     "english2": "",
     "gender": "masculine",
+    "pronunciation": "/ˈɑr.sɑz/",
     "options": {
       "sing_nomi": "arsaz",
       "plur_nomi": "arsōz, arsōs",
@@ -1198,6 +1244,7 @@
     "english1": "thigh",
     "english2": "",
     "gender": "masculine",
+    "pronunciation": "-",
     "options": {
       "sing_nomi": "lagjaz",
       "plur_nomi": "lagjōz, lagjōs",
@@ -1224,6 +1271,7 @@
     "english1": "",
     "english2": "",
     "gender": "masculine",
+    "pronunciation": "/ɸɔːts/",
     "options": {
       "sing_nomi": "fōts",
       "plur_nomi": "fōtiz",
@@ -1250,6 +1298,7 @@
     "english1": "stool",
     "english2": "throne",
     "gender": "masculine",
+    "pronunciation": "/ˈstɔː.lɑz/",
     "options": {
       "sing_nomi": "stōlaz",
       "plur_nomi": "stōlōz, stōlōs",
@@ -1276,6 +1325,7 @@
     "english1": "bedding",
     "english2": "cushion",
     "gender": "neuter",
+    "pronunciation": "/ˈbɑð.jɑ̃/",
     "options": {
       "sing_nomi": "badją",
       "plur_nomi": "badjō",
@@ -1302,6 +1352,7 @@
     "english1": "reef",
     "english2": "ridge",
     "gender": "neuter",
+    "pronunciation": "/ˈriβ.jɑ̃/",
     "options": {
       "sing_nomi": "ribją",
       "plur_nomi": "ribjō",
@@ -1328,6 +1379,7 @@
     "english1": "belly",
     "english2": "womb",
     "gender": "masculine",
+    "pronunciation": "-",
     "options": {
       "sing_nomi": "kweþuz",
       "plur_nomi": "kwiþiwiz",
@@ -1354,6 +1406,7 @@
     "english1": "",
     "english2": "",
     "gender": "neuter",
+    "pronunciation": "/ˈxer.tɔːː/",
     "options": {
       "sing_nomi": "hertô",
       "plur_nomi": "hertōnō",
@@ -1380,6 +1433,7 @@
     "english1": "",
     "english2": "",
     "gender": "neuter",
+    "pronunciation": "/ˈluŋ.ɡɔːː/",
     "options": {
       "sing_nomi": "lungô",
       "plur_nomi": "lungōnō",
@@ -1406,6 +1460,7 @@
     "english1": "",
     "english2": "",
     "gender": "feminine",
+    "pronunciation": "/ˈke.lɔ̃ː/",
     "options": {
       "sing_nomi": "kelǭ",
       "plur_nomi": "kelōniz",
@@ -1432,6 +1487,7 @@
     "english1": "speech",
     "english2": "language",
     "gender": "feminine",
+    "pronunciation": "/ˈtuŋ.ɡɔ̃ː/",
     "options": {
       "sing_nomi": "tungǭ",
       "plur_nomi": "tungōniz",
@@ -1458,6 +1514,7 @@
     "english1": "",
     "english2": "",
     "gender": "neuter",
+    "pronunciation": "/ˈbrɑɣ.nɑ̃/",
     "options": {
       "sing_nomi": "bragną",
       "plur_nomi": "bragnō",
@@ -1484,6 +1541,7 @@
     "english1": "chicken",
     "english2": "",
     "gender": "neuter",
+    "pronunciation": "/ˈxɔː.nɑ̃/",
     "options": {
       "sing_nomi": "hōną",
       "plur_nomi": "hōnō",
@@ -1510,6 +1568,7 @@
     "english1": "",
     "english2": "",
     "gender": "neuter",
+    "pronunciation": "/ˈlɑm.bɑz/",
     "options": {
       "sing_nomi": "lambaz",
       "plur_nomi": "lambizō",
@@ -1536,6 +1595,7 @@
     "english1": "",
     "english2": "",
     "gender": "neuter",
+    "pronunciation": "/ˈskɛː.pɑ̃/",
     "options": {
       "sing_nomi": "skēpą",
       "plur_nomi": "skēpō",
@@ -1562,6 +1622,7 @@
     "english1": "",
     "english2": "",
     "gender": "feminine",
+    "pronunciation": "/ɣɑi̯ts/",
     "options": {
       "sing_nomi": "gaits",
       "plur_nomi": "gaitiz",
@@ -1588,6 +1649,7 @@
     "english1": "swine",
     "english2": "",
     "gender": "neuter",
+    "pronunciation": "/ˈswiː.nɑ̃/",
     "options": {
       "sing_nomi": "swīną",
       "plur_nomi": "swīnō",
@@ -1614,6 +1676,7 @@
     "english1": "",
     "english2": "",
     "gender": "feminine",
+    "pronunciation": "/ˈkuːz/",
     "options": {
       "sing_nomi": "kūz",
       "plur_nomi": "kūiz",
@@ -1640,6 +1703,7 @@
     "english1": "",
     "english2": "",
     "gender": "masculine",
+    "pronunciation": "/ˈɸux.sɑz/",
     "options": {
       "sing_nomi": "fuhsaz",
       "plur_nomi": "fuhsōz, fuhsōs",
@@ -1666,6 +1730,7 @@
     "english1": "",
     "english2": "",
     "gender": "masculine",
+    "pronunciation": "/ˈwul.ɸɑz/",
     "options": {
       "sing_nomi": "wulfaz",
       "plur_nomi": "wulfōz, wulfōs",
@@ -1692,6 +1757,7 @@
     "english1": "",
     "english2": "",
     "gender": "masculine",
+    "pronunciation": "/ˈxun.dɑz/",
     "options": {
       "sing_nomi": "hundaz",
       "plur_nomi": "hundōz, hundōs",
@@ -1717,7 +1783,8 @@
     "germanic": "þunraz",
     "english1": "Thor",
     "english2": "",
-    "gender": "",
+    "gender": "masculine",
+    "pronunciation": "/ˈθun.rɑz/",
     "options": {
       "sing_nomi": "þunraz",
       "plur_nomi": "-",
@@ -1744,6 +1811,7 @@
     "english1": "ᚺ",
     "english2": "",
     "gender": "masculine",
+    "pronunciation": "/ˈxɑɣ.laz/",
     "options": {
       "sing_nomi": "haglaz",
       "plur_nomi": "haglōz, haglōs",
@@ -1770,6 +1838,7 @@
     "english1": "",
     "english2": "",
     "gender": "neuter",
+    "pronunciation": "-",
     "options": {
       "sing_nomi": "regną",
       "plur_nomi": "regnō",
@@ -1796,6 +1865,7 @@
     "english1": "haze",
     "english2": "",
     "gender": "masculine",
+    "pronunciation": "/ˈski.wɔːː/",
     "options": {
       "sing_nomi": "skiwô",
       "plur_nomi": "skiwaniz",
@@ -1818,28 +1888,29 @@
   },
   "cloud": {
     "type": "noun",
-    "germanic": "wulkaną",
+    "germanic": "wulkną",
     "english1": "",
     "english2": "",
     "gender": "neuter",
+    "pronunciation": "/ˈwulk.nɑ̃/",
     "options": {
-      "sing_nomi": "wulkaną",
-      "plur_nomi": "wulkanō",
+      "sing_nomi": "wulkną",
+      "plur_nomi": "wulknō",
 
-      "sing_voc": "wulkaną",
-      "plur_voc": "wulkanō",
+      "sing_voc": "wulkną",
+      "plur_voc": "wulknō",
 
-      "sing_acc": "wulkaną",
-      "plur_acc": "wulkanō",
+      "sing_acc": "wulkną",
+      "plur_acc": "wulknō",
 
-      "sing_gen": "wulkanas, wulkanis",
-      "plur_gen": "wulkanǫ̂",
+      "sing_gen": "wulknas, wulknis",
+      "plur_gen": "wulknǫ̂",
 
-      "sing_dat": "wulkanai",
-      "plur_dat": "wulkanamaz",
+      "sing_dat": "wulknai",
+      "plur_dat": "wulknamaz",
 
-      "sing_inst": "wulkanō",
-      "plur_inst": "wulkanamiz"
+      "sing_inst": "wulknō",
+      "plur_inst": "wulknamiz"
     }
   },
   "star": {
@@ -1848,6 +1919,7 @@
     "english1": "",
     "english2": "",
     "gender": "feminine",
+    "pronunciation": "/ˈster.nɔ̃ː/",
     "options": {
       "sing_nomi": "sternǭ",
       "plur_nomi": "sternōniz",
@@ -1874,6 +1946,7 @@
     "english1": "",
     "english2": "",
     "gender": "masculine",
+    "pronunciation": "/ˈmɛː.nɔːː/",
     "options": {
       "sing_nomi": "mēnô",
       "plur_nomi": "mēnaniz",
@@ -1900,6 +1973,7 @@
     "english1": "",
     "english2": "",
     "gender": "masculine",
+    "pronunciation": "/ˈsun.nɔ̃ː/",
     "options": {
       "sing_nomi": "sunnǭ",
       "plur_nomi": "sunnōniz",
@@ -1926,6 +2000,7 @@
     "english1": "",
     "english2": "",
     "gender": "neuter",
+    "pronunciation": "/ˈiː.sɑr.nɑ̃/",
     "options": {
       "sing_nomi": "īsarną",
       "plur_nomi": "īsarnō",
@@ -1952,6 +2027,7 @@
     "english1": "",
     "english2": "",
     "gender": "masculine",
+    "pronunciation": "/ˈstɑi̯.nɑz/",
     "options": {
       "sing_nomi": "stainaz",
       "plur_nomi": "stainōz, stainōs",
@@ -1978,6 +2054,7 @@
     "english1": "",
     "english2": "",
     "gender": "feminine",
+    "pronunciation": "/ˈer.θɔː/",
     "options": {
       "sing_nomi": "erþō",
       "plur_nomi": "erþôz",
@@ -2004,6 +2081,7 @@
     "english1": "",
     "english2": "",
     "gender": "neuter",
+    "pronunciation": "/ˈɣrɑ.sɑ̃/",
     "options": {
       "sing_nomi": "grasą",
       "plur_nomi": "grasō",
@@ -2030,6 +2108,7 @@
     "english1": "current",
     "english2": "",
     "gender": "masculine",
+    "pronunciation": "/ˈstrɑu̯.mɑz/",
     "options": {
       "sing_nomi": "straumaz",
       "plur_nomi": "straumōz, straumōs",
@@ -2056,6 +2135,7 @@
     "english1": "",
     "english2": "",
     "gender": "masculine",
+    "pronunciation": "/ˈriːθɑz/",
     "options": {
       "sing_nomi": "rīþaz",
       "plur_nomi": "rīþōz, rīþōs",
@@ -2082,6 +2162,7 @@
     "english1": "",
     "english2": "",
     "gender": "masculine",
+    "pronunciation": "/ˈwɑl.θuz/",
     "options": {
       "sing_nomi": "walþuz",
       "plur_nomi": "walþiwiz",
@@ -2108,6 +2189,7 @@
     "english1": "",
     "english2": "",
     "gender": "masculine",
+    "pronunciation": "/ˈwi.ðuz/",
     "options": {
       "sing_nomi": "widuz",
       "plur_nomi": "widiwiz",
@@ -2134,6 +2216,7 @@
     "english1": "branch",
     "english2": "",
     "gender": "neuter",
+    "pronunciation": "/ˈtwiː.ɣɑ̃/",
     "options": {
       "sing_nomi": "twīgą",
       "plur_nomi": "twīgō",
@@ -2160,6 +2243,7 @@
     "english1": "",
     "english2": "",
     "gender": "neuter",
+    "pronunciation": "/ˈlɑu̯.βɑ̃/",
     "options": {
       "sing_nomi": "laubą",
       "plur_nomi": "laubō",
@@ -2186,6 +2270,7 @@
     "english1": "",
     "english2": "",
     "gender": "neuter",
+    "pronunciation": "/ˈtre.wɑ̃/",
     "options": {
       "sing_nomi": "trewą",
       "plur_nomi": "trewō",
@@ -2212,6 +2297,7 @@
     "english1": "",
     "english2": "",
     "gender": "feminine",
+    "pronunciation": "/ˈme.luks/",
     "options": {
       "sing_nomi": "meluks",
       "plur_nomi": "melukiz",
@@ -2238,6 +2324,7 @@
     "english1": "Tyr",
     "english2": "ᛏ",
     "gender": "masculine",
+    "pronunciation": "/ˈtiː.wɑz/",
     "options": {
       "sing_nomi": "tīwaz",
       "plur_nomi": "tīwōz, tīwōs",
@@ -2264,6 +2351,7 @@
     "english1": "",
     "english2": "",
     "gender": "masculine",
+    "pronunciation": "/ˈwɔː.ðɑ.nɑz/",
     "options": {
       "sing_nomi": "Wōdanaz",
       "plur_nomi": "-",
@@ -2290,6 +2378,7 @@
     "english1": "",
     "english2": "",
     "gender": "masculine",
+    "pronunciation": "-",
     "options": {
       "sing_nomi": "Baldraz",
       "plur_nomi": "-",
@@ -2316,6 +2405,7 @@
     "english1": "Freyja",
     "english2": "",
     "gender": "feminine",
+    "pronunciation": "/ˈɸrɑw.jɔ̃ː/",
     "options": {
       "sing_nomi": "frawjǭ",
       "plur_nomi": "frawjōniz",
@@ -2342,6 +2432,7 @@
     "english1": "Freyr",
     "english2": "",
     "gender": "masculine",
+    "pronunciation": "/ˈɸrɑu̯.jɔːː/",
     "options": {
       "sing_nomi": "frawjô",
       "plur_nomi": "frawjaniz",
@@ -2368,6 +2459,7 @@
     "english1": "",
     "english2": "",
     "gender": "feminine",
+    "pronunciation": "/ˈɸrij.jɔː/",
     "options": {
       "sing_nomi": "Frijjō",
       "plur_nomi": "-",
@@ -2394,6 +2486,7 @@
     "english1": "ᛜ",
     "english2": "",
     "gender": "masculine",
+    "pronunciation": "-",
     "options": {
       "sing_nomi": "Inguz",
       "plur_nomi": "-",
@@ -2420,6 +2513,7 @@
     "english1": "",
     "english2": "",
     "gender": "masculine",
+    "pronunciation": "/ˈɑn.suz/",
     "options": {
       "sing_nomi": "ansuz",
       "plur_nomi": "ansiwiz",
@@ -2446,6 +2540,7 @@
     "english1": "ᛉ",
     "english2": "",
     "gender": "masculine",
+    "pronunciation": "-",
     "options": {
       "sing_nomi": "algiz",
       "plur_nomi": "algīz",
@@ -2472,6 +2567,7 @@
     "english1": "ᚱ",
     "english2": "",
     "gender": "feminine",
+    "pronunciation": "/ˈrɑi̯.ðɔː/",
     "options": {
       "sing_nomi": "raidō",
       "plur_nomi": "raidôz",
@@ -2498,6 +2594,7 @@
     "english1": "ᛟ",
     "english2": "",
     "gender": "neuter",
+    "pronunciation": "/ˈɔː.θɑ.lɑ̃/",
     "options": {
       "sing_nomi": "ōþalą",
       "plur_nomi": "ōþalō",
@@ -2524,6 +2621,7 @@
     "english1": "(good) harvest",
     "english2": "ᛃ",
     "gender": "neuter",
+    "pronunciation": "/ˈjɛː.rɑ̃/",
     "options": {
       "sing_nomi": "jērą",
       "plur_nomi": "jērō",
@@ -2550,6 +2648,7 @@
     "english1": "ᚷ",
     "english2": "",
     "gender": "feminine",
+    "pronunciation": "/ˈɣe.βɔː/",
     "options": {
       "sing_nomi": "gebō",
       "plur_nomi": "gebôz",
@@ -2576,6 +2675,7 @@
     "english1": "cattle",
     "english2": "ᚠ",
     "gender": "neuter",
+    "pronunciation": "/ˈɸe.xu/",
     "options": {
       "sing_nomi": "fehu",
       "plur_nomi": "-",
@@ -2602,6 +2702,7 @@
     "english1": "ᛖ",
     "english2": "",
     "gender": "masculine",
+    "pronunciation": "/ˈe.xʷɑz/",
     "options": {
       "sing_nomi": "ehwaz",
       "plur_nomi": "ehwōz, ehwōs",
@@ -2628,6 +2729,7 @@
     "english1": "jaw",
     "english2": "abscess",
     "gender": "neuter",
+    "pronunciation": "-",
     "options": {
       "sing_nomi": "kauną",
       "plur_nomi": "kaunō",
@@ -2654,6 +2756,7 @@
     "english1": "ᛒ",
     "english2": "",
     "gender": "feminine",
+    "pronunciation": "-",
     "options": {
       "sing_nomi": "berkō",
       "plur_nomi": "berkôz",
@@ -2674,12 +2777,310 @@
       "plur_inst": "berkōmiz"
     }
   },
+  "summer": {
+    "type": "noun",
+    "germanic": "sumaraz",
+    "english1": "",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "/ˈsu.mɑ.rɑz/",
+    "options": {
+      "sing_nomi": "sumaraz",
+      "plur_nomi": "sumarōz, sumarōs",
+
+      "sing_voc": "sumar",
+      "plur_voc": "sumarōz, sumarōs",
+
+      "sing_acc": "sumarą",
+      "plur_acc": "sumaranz",
+
+      "sing_gen": "sumaras, sumaris",
+      "plur_gen": "sumarǫ̂",
+
+      "sing_dat": "sumarai",
+      "plur_dat": "sumaramaz",
+
+      "sing_inst": "sumarō",
+      "plur_inst": "sumaramiz"
+    }
+  },
+  "winter": {
+    "type": "noun",
+    "germanic": "wintruz",
+    "english1": "",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "/ˈwin.truz/",
+    "options": {
+      "sing_nomi": "wintruz",
+      "plur_nomi": "wintriwiz",
+
+      "sing_voc": "wintru",
+      "plur_voc": "wintriwiz",
+
+      "sing_acc": "wintrų",
+      "plur_acc": "wintrunz",
+
+      "sing_gen": "wintrauz",
+      "plur_gen": "wintriwǫ̂",
+
+      "sing_dat": "wintriwi",
+      "plur_dat": "wintrumaz",
+
+      "sing_inst": "wintrū",
+      "plur_inst": "wintrumiz"
+    }
+  },
+  "helmet": {
+    "type": "noun",
+    "germanic": "helmaz",
+    "english1": "",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "/ˈxel.mɑz/",
+    "options": {
+      "sing_nomi": "helmaz",
+      "plur_nomi": "helmōz, helmōs",
+
+      "sing_voc": "helm",
+      "plur_voc": "helmōz, helmōs",
+
+      "sing_acc": "helmą",
+      "plur_acc": "helmanz",
+
+      "sing_gen": "helmas, hilmis",
+      "plur_gen": "helmǫ̂",
+
+      "sing_dat": "helmai",
+      "plur_dat": "helmamaz",
+
+      "sing_inst": "helmō",
+      "plur_inst": "helmamiz"
+    }
+  },
+  "shield": {
+    "type": "noun",
+    "germanic": "skelduz",
+    "english1": "",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "/ˈskel.duz/",
+    "options": {
+      "sing_nomi": "skelduz",
+      "plur_nomi": "skildiwiz",
+
+      "sing_voc": "skeldu",
+      "plur_voc": "skildiwiz",
+
+      "sing_acc": "skeldų",
+      "plur_acc": "skeldunz",
+
+      "sing_gen": "skeldauz",
+      "plur_gen": "skildiwǫ̂",
+
+      "sing_dat": "skildiwi",
+      "plur_dat": "skeldumaz",
+
+      "sing_inst": "skeldū",
+      "plur_inst": "skeldumiz"
+    }
+  },
+  "sword": {
+    "type": "noun",
+    "germanic": "swerdą",
+    "english1": "",
+    "english2": "",
+    "gender": "neuter",
+    "pronunciation": "/ˈswer.ðɑ̃/",
+    "options": {
+      "sing_nomi": "swerdą",
+      "plur_nomi": "swerdō",
+
+      "sing_voc": "swerdą",
+      "plur_voc": "swerdō",
+
+      "sing_acc": "swerdą",
+      "plur_acc": "swerdō",
+
+      "sing_gen": "swerdas, swirdis",
+      "plur_gen": "swerdǫ̂",
+
+      "sing_dat": "swerdai",
+      "plur_dat": "swerdamaz",
+
+      "sing_inst": "swerdō",
+      "plur_inst": "swerdamiz"
+    }
+  },
+  "fish": {
+    "type": "noun",
+    "germanic": "fiskaz",
+    "english1": "",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "/ˈɸis.kɑz/",
+    "options": {
+      "sing_nomi": "fiskaz",
+      "plur_nomi": "fiskōz, fiskōs",
+
+      "sing_voc": "fisk",
+      "plur_voc": "fiskōz, fiskōs",
+
+      "sing_acc": "fiską",
+      "plur_acc": "fiskanz",
+
+      "sing_gen": "fiskas, fiskis",
+      "plur_gen": "fiskǫ̂",
+
+      "sing_dat": "fiskai",
+      "plur_dat": "fiskamaz",
+
+      "sing_inst": "fiskō",
+      "plur_inst": "fiskamiz"
+    }
+  },
+  "wind": {
+    "type": "noun",
+    "germanic": "windaz",
+    "english1": "",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "/ˈwin.dɑz/",
+    "options": {
+      "sing_nomi": "windaz",
+      "plur_nomi": "windōz, windōs",
+
+      "sing_voc": "wind",
+      "plur_voc": "windōz, windōs",
+
+      "sing_acc": "windą",
+      "plur_acc": "windanz",
+
+      "sing_gen": "windas, windis",
+      "plur_gen": "windǫ̂",
+
+      "sing_dat": "windai",
+      "plur_dat": "windamaz",
+
+      "sing_inst": "windō",
+      "plur_inst": "windamiz"
+    }
+  },
+  "ruler": {
+    "type": "noun",
+    "germanic": "rīks",
+    "english1": "",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "/riːks/",
+    "options": {
+      "sing_nomi": "rīks",
+      "plur_nomi": "rīkiz",
+
+      "sing_voc": "rīk",
+      "plur_voc": "rīkiz",
+
+      "sing_acc": "rīkų",
+      "plur_acc": "rīkunz",
+
+      "sing_gen": "rīkiz",
+      "plur_gen": "rīkǫ̂",
+
+      "sing_dat": "rīki",
+      "plur_dat": "rīkumaz",
+
+      "sing_inst": "rīkē",
+      "plur_inst": "rīkumiz"
+    }
+  },
+  "king": {
+    "type": "noun",
+    "germanic": "kuningaz",
+    "english1": "",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "/ˈku.niŋ.ɡɑz/",
+    "options": {
+      "sing_nomi": "kuningaz",
+      "plur_nomi": "kuningōz, kuningōs",
+
+      "sing_voc": "kuning",
+      "plur_voc": "kuningōz, kuningōs",
+
+      "sing_acc": "kuningą",
+      "plur_acc": "kuninganz",
+
+      "sing_gen": "kuningas, kuningis",
+      "plur_gen": "kuningǫ̂",
+
+      "sing_dat": "kuningai",
+      "plur_dat": "kuningamaz",
+
+      "sing_inst": "kuningō",
+      "plur_inst": "kuningamiz"
+    }
+  },
+  "brother": {
+    "type": "noun",
+    "germanic": "brōþēr",
+    "english1": "",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "/ˈbrɔː.θɛːr/",
+    "options": {
+      "sing_nomi": "brōþēr",
+      "plur_nomi": "brōþriz",
+
+      "sing_voc": "brōþer",
+      "plur_voc": "brōþriz",
+
+      "sing_acc": "brōþerų",
+      "plur_acc": "brōþrunz",
+
+      "sing_gen": "brōþurz",
+      "plur_gen": "brōþrǫ̂",
+
+      "sing_dat": "brōþri",
+      "plur_dat": "brōþrumaz",
+
+      "sing_inst": "brōþrē",
+      "plur_inst": "brōþrumiz"
+    }
+  },
+  "sister": {
+    "type": "noun",
+    "germanic": "swestēr",
+    "english1": "",
+    "english2": "",
+    "gender": "feminine",
+    "pronunciation": "/ˈswes.tɛːr/",
+    "options": {
+      "sing_nomi": "swestēr",
+      "plur_nomi": "swistriz",
+
+      "sing_voc": "swester",
+      "plur_voc": "swistriz",
+
+      "sing_acc": "swesterų",
+      "plur_acc": "swestrunz",
+
+      "sing_gen": "swesturz",
+      "plur_gen": "swestrǫ̂",
+
+      "sing_dat": "swistri",
+      "plur_dat": "swestrumaz",
+
+      "sing_inst": "",
+      "plur_inst": ""
+    }
+  },
   "": {
     "type": "noun",
     "germanic": "",
     "english1": "",
     "english2": "",
     "gender": "",
+    "pronunciation": "",
     "options": {
       "sing_nomi": "",
       "plur_nomi": "",
@@ -2706,6 +3107,7 @@
     "germanic": "walkaną",
     "english1": "to turn",
     "english2": "to trample",
+    "pronunciation": "/ˈwɑl.kɑ.nɑ̃/",
     "options": {
       "act_pres_ind_1st_sing": "walkō",
       "act_pres_sub_1st_sing": "walkaų",
@@ -2796,6 +3198,7 @@
     "germanic": "habjaną",
     "english1": "to hold",
     "english2": "",
+    "pronunciation": "/ˈxɑβ.jɑ.nɑ̃/",
     "options": {
       "act_pres_ind_1st_sing": "habjō",
       "act_pres_sub_1st_sing": "habjaų",
@@ -2886,6 +3289,7 @@
     "germanic": "wesaną",
     "english1": "to remain",
     "english2": "to exist",
+    "pronunciation": "/ˈwe.sɑ.nɑ̃/",
     "options": {
       "act_pres_ind_1st_sing": "immi",
       "act_pres_sub_1st_sing": "sijǭ",
@@ -2976,6 +3380,7 @@
     "germanic": "dōną",
     "english1": "",
     "english2": "",
+    "pronunciation": "/ˈdɔː.nɑ̃/",
     "options": {
       "act_pres_ind_1st_sing": "dōmi",
       "act_pres_sub_1st_sing": "dǭ",
@@ -3066,6 +3471,7 @@
     "germanic": "sagjaną",
     "english1": "",
     "english2": "",
+    "pronunciation": "/ˈsɑɣ.jɑ.nɑ̃/",
     "options": {
       "act_pres_ind_1st_sing": "sagjō",
       "act_pres_sub_1st_sing": "sagjaų",
@@ -3156,6 +3562,7 @@
     "germanic": "gāną",
     "english1": "",
     "english2": "",
+    "pronunciation": "/ˈɣɑː.nɑ̃/",
     "options": {
       "act_pres_ind_1st_sing": "gō",
       "act_pres_sub_1st_sing": "?",
@@ -3246,6 +3653,7 @@
     "germanic": "getaną",
     "english1": "to acquire",
     "english2": "to receive",
+    "pronunciation": "/ˈɣe.tɑ.nɑ̃/",
     "options": {
       "act_pres_ind_1st_sing": "getō",
       "act_pres_sub_1st_sing": "getaų",
@@ -3336,6 +3744,7 @@
     "germanic": "skapjaną",
     "english1": "to shape",
     "english2": "",
+    "pronunciation": "/ˈskɑp.jɑ.nɑ̃/",
     "options": {
       "act_pres_ind_1st_sing": "skapjō",
       "act_pres_sub_1st_sing": "skapjaų",
@@ -3426,6 +3835,7 @@
     "germanic": "knēaną",
     "english1": "to understand",
     "english2": "to recognise",
+    "pronunciation": "/ˈknɛː.ɑ.nɑ̃/",
     "options": {
       "act_pres_ind_1st_sing": "knēō",
       "act_pres_sub_1st_sing": "knēaų",
@@ -3516,6 +3926,7 @@
     "germanic": "wlītaną",
     "english1": "to look",
     "english2": "",
+    "pronunciation": "/ˈwliː.tɑ.nɑ̃/",
     "options": {
       "act_pres_ind_1st_sing": "wlītō",
       "act_pres_sub_1st_sing": "wlītaų",
@@ -3606,6 +4017,7 @@
     "germanic": "wiljaną",
     "english1": "",
     "english2": "",
+    "pronunciation": "/ˈwil.jɑ.nɑ̃/",
     "options": {
       "act_pres_ind_1st_sing": "-",
       "act_pres_sub_1st_sing": "wiljų",
@@ -3696,6 +4108,7 @@
     "germanic": "finþaną",
     "english1": "to discover",
     "english2": "",
+    "pronunciation": "/ˈɸin.θɑ.nɑ̃/",
     "options": {
       "act_pres_ind_1st_sing": "finþō",
       "act_pres_sub_1st_sing": "finþaų",
@@ -3786,6 +4199,7 @@
     "germanic": "gebaną",
     "english1": "",
     "english2": "",
+    "pronunciation": "/ˈɣe.βɑ.nɑ̃/",
     "options": {
       "act_pres_ind_1st_sing": "gebō",
       "act_pres_sub_1st_sing": "gebaų",
@@ -3876,6 +4290,7 @@
     "germanic": "werkōną",
     "english1": "",
     "english2": "",
+    "pronunciation": "/ˈwɛr.kɔː.nɑ̃/",
     "options": {
       "act_pres_ind_1st_sing": "werkō",
       "act_pres_sub_1st_sing": "werkǭ",
@@ -3966,6 +4381,7 @@
     "germanic": "kalzōną",
     "english1": "to shout",
     "english2": "",
+    "pronunciation": "/ˈkɑl.zɔː.nɑ̃/",
     "options": {
       "act_pres_ind_1st_sing": "kalzō",
       "act_pres_sub_1st_sing": "kalzǭ",
@@ -4056,6 +4472,7 @@
     "germanic": "fraisōną",
     "english1": "to attempt",
     "english2": "",
+    "pronunciation": "/ˈɸrɑi̯.sɔː.nɑ̃/",
     "options": {
       "act_pres_ind_1st_sing": "fraisō",
       "act_pres_sub_1st_sing": "fraisǭ",
@@ -4146,6 +4563,7 @@
     "germanic": "sinnaną",
     "english1": "to sense",
     "english2": "to consider",
+    "pronunciation": "/ˈsin.nɑ.nɑ̃/",
     "options": {
       "act_pres_ind_1st_sing": "sinnō",
       "act_pres_sub_1st_sing": "sinnaų",
@@ -4236,6 +4654,7 @@
     "germanic": "libjaną",
     "english1": "to be alive",
     "english2": "",
+    "pronunciation": "/ˈliβ.jɑ.nɑ̃/",
     "options": {
       "act_pres_ind_1st_sing": "libjō",
       "act_pres_sub_1st_sing": "libjaų",
@@ -4326,6 +4745,7 @@
     "germanic": "hauzijaną",
     "english1": "",
     "english2": "",
+    "pronunciation": "/ˈxɑu̯.zi.jɑ.nɑ̃/",
     "options": {
       "act_pres_ind_1st_sing": "hauzijō",
       "act_pres_sub_1st_sing": "hauzijaų",
@@ -4416,6 +4836,7 @@
     "germanic": "etaną",
     "english1": "",
     "english2": "",
+    "pronunciation": "/ˈe.tɑ.nɑ̃/",
     "options": {
       "act_pres_ind_1st_sing": "etō",
       "act_pres_sub_1st_sing": "etaų",
@@ -4506,6 +4927,7 @@
     "germanic": "sitjaną",
     "english1": "",
     "english2": "",
+    "pronunciation": "/ˈsit.jɑ.nɑ̃/",
     "options": {
       "act_pres_ind_1st_sing": "sitjō",
       "act_pres_sub_1st_sing": "sitjaų",
@@ -4596,6 +5018,7 @@
     "germanic": "slēpaną",
     "english1": "",
     "english2": "",
+    "pronunciation": "/ˈslɛː.pɑ.nɑ̃/",
     "options": {
       "act_pres_ind_1st_sing": "slēpō",
       "act_pres_sub_1st_sing": "slēpaų",
@@ -4686,6 +5109,7 @@
     "germanic": "murþijaną",
     "english1": "to murder",
     "english2": "",
+    "pronunciation": "/ˈmur.θi.jɑ.nɑ̃/",
     "options": {
       "act_pres_ind_1st_sing": "murþijō",
       "act_pres_sub_1st_sing": "murþijaų",
@@ -4776,6 +5200,7 @@
     "germanic": "þankijaną",
     "english1": "to perceive",
     "english2": "",
+    "pronunciation": "/ˈθɑŋ.ki.jɑ.nɑ̃/",
     "options": {
       "act_pres_ind_1st_sing": "þankijō",
       "act_pres_sub_1st_sing": "þankijaų",
@@ -4866,6 +5291,7 @@
     "germanic": "þakwōną",
     "english1": "to pat",
     "english2": "to tap",
+    "pronunciation": "/ˈθɑ.kʷɔː.nɑ̃/",
     "options": {
       "act_pres_ind_1st_sing": "þakwō",
       "act_pres_sub_1st_sing": "þakwǭ",
@@ -5048,6 +5474,7 @@
     "english1": "",
     "english2": "",
     "gender": "",
+    "pronunciation": "/ˈrɑu̯.ðɑz/",
     "options": {
       "strong_sing_masc_nom": "raudaz",
       "strong_sing_fem_nom": "raudō",
@@ -5137,6 +5564,7 @@
     "english1": "",
     "english2": "",
     "gender": "",
+    "pronunciation": "/sɑ/",
     "options": {
       "sing_masc_nomi": "sa",
       "sing_fem_nomi": "sō",
@@ -5185,6 +5613,7 @@
     "english1": "",
     "english2": "",
     "gender": "",
+    "pronunciation": "",
     "options": {
       "sing_masc_nomi": "iz",
       "sing_fem_nomi": "sī",
@@ -5233,7 +5662,8 @@
     "germanic": "personal pronouns",
     "english1": "",
     "english2": "",
-    "gender": ""
+    "gender": "",
+    "pronunciation": ""
   },
 
   "1": {
@@ -5242,6 +5672,7 @@
     "english1": "one",
     "english2": "",
     "gender": "",
+    "pronunciation": "/ˈɑi̯.nɑz/",
     "options": {
       "cardinal": "ainaz",
       "ordinal": "frumô",
@@ -5254,6 +5685,7 @@
     "english1": "two",
     "english2": "",
     "gender": "",
+    "pronunciation": "/twɑi̯/",
     "options": {
       "cardinal": "twai",
       "ordinal": "anþeraz",
@@ -5266,6 +5698,7 @@
     "english1": "three",
     "english2": "",
     "gender": "",
+    "pronunciation": "/θriːz/",
     "options": {
       "cardinal": "þrīz",
       "ordinal": "þridjô",
@@ -5278,6 +5711,7 @@
     "english1": "four",
     "english2": "",
     "gender": "",
+    "pronunciation": "/ˈɸeð.wɔːr/",
     "options": {
       "cardinal": "fedwōr",
       "ordinal": "fedurþô",
@@ -5290,6 +5724,7 @@
     "english1": "five",
     "english2": "",
     "gender": "",
+    "pronunciation": "/ɸimɸ/",
     "options": {
       "cardinal": "fimf",
       "ordinal": "fimftô",
@@ -5302,6 +5737,7 @@
     "english1": "six",
     "english2": "",
     "gender": "",
+    "pronunciation": "/sexs/",
     "options": {
       "cardinal": "sehs",
       "ordinal": "sehtô",
@@ -5314,6 +5750,7 @@
     "english1": "seven",
     "english2": "",
     "gender": "",
+    "pronunciation": "/ˈse.βun/",
     "options": {
       "cardinal": "sebun",
       "ordinal": "sebundô",
@@ -5326,6 +5763,7 @@
     "english1": "eight",
     "english2": "",
     "gender": "",
+    "pronunciation": "/ˈɑx.tɔːu̯/",
     "options": {
       "cardinal": "ahtōu",
       "ordinal": "ahtudô",
@@ -5338,6 +5776,7 @@
     "english1": "nine",
     "english2": "",
     "gender": "",
+    "pronunciation": "/ˈne.wun/",
     "options": {
       "cardinal": "newun",
       "ordinal": "newundô",
@@ -5350,6 +5789,7 @@
     "english1": "ten",
     "english2": "",
     "gender": "",
+    "pronunciation": "/ˈte.xun/",
     "options": {
       "cardinal": "tehun",
       "ordinal": "tehundô",
@@ -5362,6 +5802,7 @@
     "english1": "eleven",
     "english2": "",
     "gender": "",
+    "pronunciation": "/ˈɑi̯.nɑ.liɸ/",
     "options": {
       "cardinal": "ainalif",
       "ordinal": "ainaliftô",
@@ -5374,6 +5815,7 @@
     "english1": "twelve",
     "english2": "",
     "gender": "",
+    "pronunciation": "/ˈtwɑ.liɸ/",
     "options": {
       "cardinal": "twalif",
       "ordinal": "twaliftô",
@@ -5386,6 +5828,7 @@
     "english1": "thirteen",
     "english2": "",
     "gender": "",
+    "pronunciation": "/ˈθri.te.xun/",
     "options": {
       "cardinal": "þritehun",
       "ordinal": "þridjatehundô",
@@ -5398,6 +5841,7 @@
     "english1": "fourteen",
     "english2": "",
     "gender": "",
+    "pronunciation": "/ˈɸe.ður.te.xun/",
     "options": {
       "cardinal": "fedurtehun",
       "ordinal": "fedurþatehundô",
@@ -5410,6 +5854,7 @@
     "english1": "fifteen",
     "english2": "",
     "gender": "",
+    "pronunciation": "/ˈɸimɸ.te.xun/",
     "options": {
       "cardinal": "fimftehun",
       "ordinal": "fimftatehundô",
@@ -5422,6 +5867,7 @@
     "english1": "sixteen",
     "english2": "",
     "gender": "",
+    "pronunciation": "/ˈsexs.te.xun/",
     "options": {
       "cardinal": "sehstehun",
       "ordinal": "sehtatehundô",
@@ -5434,6 +5880,7 @@
     "english1": "seventeen",
     "english2": "",
     "gender": "",
+    "pronunciation": "/ˈse.βun.te.xun/",
     "options": {
       "cardinal": "sebuntehun",
       "ordinal": "sebundatehundô",
@@ -5446,6 +5893,7 @@
     "english1": "eightteen",
     "english2": "",
     "gender": "",
+    "pronunciation": "/ˈɑx.tɔːu̯.te.xun/",
     "options": {
       "cardinal": "ahtōutehun",
       "ordinal": "ahtudatehundô",
@@ -5458,6 +5906,7 @@
     "english1": "nineteen",
     "english2": "",
     "gender": "",
+    "pronunciation": "/ˈne.wun.te.xun/",
     "options": {
       "cardinal": "newuntehun",
       "ordinal": "newundatehundô",
@@ -5470,6 +5919,7 @@
     "english1": "twenty",
     "english2": "",
     "gender": "",
+    "pronunciation": "/twɑi̯ ˈti.ɣi.wiz/",
     "options": {
       "cardinal": "twai tigiwiz",
       "ordinal": "-",
@@ -5482,6 +5932,7 @@
     "english1": "thirty",
     "english2": "",
     "gender": "",
+    "pronunciation": "/ˈθriːz ˈti.ɣi.wiz/",
     "options": {
       "cardinal": "þrīz tigiwiz",
       "ordinal": "-",
@@ -5494,6 +5945,7 @@
     "english1": "fourty",
     "english2": "",
     "gender": "",
+    "pronunciation": "/ˈɸeð.wɔːr ˈti.ɣi.wiz/",
     "options": {
       "cardinal": "fedwōr tigiwiz",
       "ordinal": "-",
@@ -5506,6 +5958,7 @@
     "english1": "fifty",
     "english2": "",
     "gender": "",
+    "pronunciation": "/ˈɸimɸ ˈti.ɣi.wiz/",
     "options": {
       "cardinal": "fimf tigiwiz",
       "ordinal": "-",
@@ -5518,6 +5971,7 @@
     "english1": "sixty",
     "english2": "",
     "gender": "",
+    "pronunciation": "/ˈsexs ˈti.ɣi.wiz/",
     "options": {
       "cardinal": "sehs tigiwiz",
       "ordinal": "-",
@@ -5530,6 +5984,7 @@
     "english1": "seventy",
     "english2": "",
     "gender": "",
+    "pronunciation": "/ˈse.βun.tɛːˌxun.dɑ̃/",
     "options": {
       "cardinal": "sebuntēhundą",
       "ordinal": "-",
@@ -5542,6 +5997,7 @@
     "english1": "eighty",
     "english2": "",
     "gender": "",
+    "pronunciation": "/ˈɑx.tɔːu̯.tɛːˌxun.dɑ̃/",
     "options": {
       "cardinal": "ahtōutēhundą",
       "ordinal": "-",
@@ -5554,6 +6010,7 @@
     "english1": "ninety",
     "english2": "",
     "gender": "",
+    "pronunciation": "/ˈne.wunˌtɛː.xun.dɑ̃/",
     "options": {
       "cardinal": "newuntēhundą",
       "ordinal": "-",
@@ -5566,6 +6023,7 @@
     "english1": "hundred",
     "english2": "",
     "gender": "",
+    "pronunciation": "/ˈte.xun.tɛːˌxun.dɑ̃/",
     "options": {
       "cardinal": "tehuntēhundą",
       "ordinal": "-",
@@ -5578,6 +6036,7 @@
     "english1": "",
     "english2": "",
     "gender": "",
+    "pronunciation": "",
     "options": {
       "cardinal": "",
       "ordinal": "",
@@ -5591,6 +6050,7 @@
     "english1": "",
     "english2": "",
     "gender": "",
+    "pronunciation": "/θurxʷ/",
     "options": {
       "addition": "(+accusative)"
     }
@@ -5601,6 +6061,7 @@
     "english1": "",
     "english2": "",
     "gender": "",
+    "pronunciation": "/uz/",
     "options": {
       "addition": "(+dative)"
     }
@@ -5611,6 +6072,7 @@
     "english1": "",
     "english2": "",
     "gender": "",
+    "pronunciation": "/ˈun.de.rɔːː/",
     "options": {
       "addition": "(+dative)"
     }
@@ -5618,9 +6080,10 @@
   "until": {
     "type": "preposition",
     "germanic": "und",
-    "english1": "",
-    "english2": "",
+    "english1": "unto",
+    "english2": "up to",
     "gender": "",
+    "pronunciation": "/und/",
     "options": {
       "addition": "(+accusative)"
     }
@@ -5631,6 +6094,7 @@
     "english1": "",
     "english2": "",
     "gender": "",
+    "pronunciation": "",
     "options": {
       "addition": "(+accusative)"
     }
@@ -5638,9 +6102,10 @@
   "with": {
     "type": "preposition",
     "germanic": "midi",
-    "english1": "",
+    "english1": "along",
     "english2": "",
     "gender": "",
+    "pronunciation": "/ˈmi.ði/",
     "options": {
       "addition": ""
     }
@@ -5648,9 +6113,10 @@
   "near": {
     "type": "preposition",
     "germanic": "bi",
-    "english1": "",
-    "english2": "",
+    "english1": "by",
+    "english2": "at",
     "gender": "",
+    "pronunciation": "/bi/",
     "options": {
       "addition": "(+accusative or +dative)"
     }
@@ -5661,6 +6127,7 @@
     "english1": "",
     "english2": "",
     "gender": "",
+    "pronunciation": "-",
     "options": {
       "addition": "(+instrumental)"
     }

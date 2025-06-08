@@ -565,6 +565,7 @@ function checkWord() {
         <h2>1: ${englishWord}</h2>
         ${englishOutput}
         <h2>Germanic word: ${entry.germanic}</h2>
+        <h2>Pronunciation: ${entry.pronunciation}</h2>
         ${tableHTML}
       `;
 
