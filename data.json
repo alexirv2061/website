@@ -5377,11 +5377,103 @@
       "past_participle": "þakwōdaz"
     }
   },
+  "to love": {
+    "type": "verb",
+    "germanic": "frijōną",
+    "english1": "to like",
+    "english2": "",
+    "pronunciation": "/ˈɸri.jɔː.nɑ̃/",
+    "options": {
+      "act_pres_ind_1st_sing": "frijō",
+      "act_pres_sub_1st_sing": "frijǭ",
+      "act_pres_imp_1st_sing": "-",
+      
+      "act_pres_ind_2nd_sing": "frijōsi",
+      "act_pres_sub_2nd_sing": "frijōs",
+      "act_pres_imp_2nd_sing": "frijō",
+      
+      "act_pres_ind_3rd_sing": "frijōþi",
+      "act_pres_sub_3rd_sing": "frijō",
+      "act_pres_imp_3rd_sing": "frijōþau",
+      
+      "act_pres_ind_1st_dual": "frijōs",
+      "act_pres_sub_1st_dual": "frijōw",
+      "act_pres_imp_1st_dual": "-",
+      
+      "act_pres_ind_2nd_dual": "frijōþiz",
+      "act_pres_sub_2nd_dual": "frijōþiz",
+      "act_pres_imp_2nd_dual": "frijōþiz",
+      
+      "act_pres_ind_1st_plural": "frijōmaz",
+      "act_pres_sub_1st_plural": "frijōm",
+      "act_pres_imp_1st_plural": "-",
+      
+      "act_pres_ind_2nd_plural": "frijōþ",
+      "act_pres_sub_2nd_plural": "frijōþ",
+      "act_pres_imp_2nd_plural": "frijōþ",
+      
+      "act_pres_ind_3rd_plural": "frijōnþi",
+      "act_pres_sub_3rd_plural": "frijōn",
+      "act_pres_imp_3rd_plural": "frijōnþau",
+      
+      "pass_pres_ind_1st_sing": "frijōi",
+      "pass_pres_sub_1st_sing": "?",
+      
+      "pass_pres_ind_2nd_sing": "frijōsai",
+      "pass_pres_sub_2nd_sing": "frijōsau",
+      
+      "pass_pres_ind_3rd_sing": "frijōþai",
+      "pass_pres_sub_3rd_sing": "frijōþau",
+      
+      "pass_pres_ind_1st_dual": "-",
+      "pass_pres_sub_1st_dual": "-",
+      
+      "pass_pres_ind_2nd_dual": "-",
+      "pass_pres_sub_2nd_dual": "-",
+      
+      "pass_pres_ind_1st_plural": "frijōnþai",
+      "pass_pres_sub_1st_plural": "frijōnþau",
+      
+      "pass_pres_ind_2nd_plural": "frijōnþai",
+      "pass_pres_sub_2nd_plural": "frijōnþau",
+      
+      "pass_pres_ind_3rd_plural": "frijōnþai",
+      "pass_pres_sub_3rd_plural": "frijōnþau",
+      
+      "act_past_ind_1st_sing": "frijōdǭ",
+      "act_past_sub_1st_sing": "frijōdēdį̄",
+      
+      "act_past_ind_2nd_sing": "frijōdēz",
+      "act_past_sub_2nd_sing": "frijōdēdīz",
+      
+      "act_past_ind_3rd_sing": "frijōdē",
+      "act_past_sub_3rd_sing": "frijōdēdī",
+      
+      "act_past_ind_1st_dual": "frijōdēdū",
+      "act_past_sub_1st_dual": "frijōdēdīw",
+      
+      "act_past_ind_2nd_dual": "frijōdēdudiz",
+      "act_past_sub_2nd_dual": "frijōdēdīdiz",
+      
+      "act_past_ind_1st_plural": "frijōdēdum",
+      "act_past_sub_1st_plural": "frijōdēdīm",
+      
+      "act_past_ind_2nd_plural": "frijōdēdud",
+      "act_past_sub_2nd_plural": "frijōdēdīd",
+      
+      "act_past_ind_3rd_plural": "frijōdēdun",
+      "act_past_sub_3rd_plural": "frijōdēdīn",
+      
+      "present_participle": "frijōndz",
+      "past_participle": "frijōdaz"
+    }
+  },
   "": {
     "type": "verb",
     "germanic": "",
     "english1": "",
     "english2": "",
+    "pronunciation": "",
     "options": {
       "act_pres_ind_1st_sing": "",
       "act_pres_sub_1st_sing": "",
