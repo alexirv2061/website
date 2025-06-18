@@ -12,6 +12,235 @@ window.onload = function () {
     });
 };
 
+function personal_pronouns() {
+  const outputDiv = document.getElementById("output");
+  tableHTML = ""
+  tableHTML += `
+    <table border='1'>
+      <tr>
+        <th></th>
+        <th></th>
+        <th>nominative</th>
+        <th>accusative</th>
+        <th>dative/instr</th>
+        <th>possessive</th>
+      </tr>
+      <tr>
+        <th rowspan="2">singular</th>
+        <th>first person</th>
+        <td> <p>ek</p> <p>(unstressed ik)</p> </td>
+        <td> <p>mek</p> <p>(unstressed mik)</p> </td>
+        <td>miz</td>
+        <td>mīnaz</td>
+      </tr>
+      <tr>
+        <th>second person</th>
+        <td>þū</td>
+        <td> <p>þek</p> <p>(unstressed þik)</p> </td>
+        <td>þiz</td>
+        <td>þīnaz</td>
+      </tr>
+      <tr>
+        <th rowspan="2">dual</th>
+        <th>first person</th>
+        <td> <p>wet</p> <p>(unstressed wit)</p> </td>
+        <td>unk</td>
+        <td>unkiz</td>
+        <td>unkeraz</td>
+      </tr>
+      <tr>
+        <th>second person</th>
+        <td><p>jut, jit</p></td>
+        <td>inkw</td>
+        <td>inkwiz</td>
+        <td>inkweraz</td>
+      </tr>
+      <tr>
+        <th rowspan="2">plural</th>
+        <th>first person</th>
+        <td> <p>wīz</p> <p>(unstressed wiz)</p> </td>
+        <td>uns</td>
+        <td>unsiz</td>
+        <td>unseraz</td>
+      </tr>
+      <tr>
+        <th>second person</th>
+        <td><p>jūz, jīz</p></td>
+        <td>izwiz</td>
+        <td>izwiz</td>
+        <td>izweraz</td>
+      </tr>
+      <tr>
+        <th colspan="2">reflexive</th>
+        <td>se-</td>
+        <td><p>sek</p> <p>(unstressed sik)</p></td>
+        <td>siz</td>
+        <td>sinaz</td>
+      </tr>
+    </table>
+  `; 
+
+  tableHTML += "</table>";
+
+  outputDiv.innerHTML = `
+        ${tableHTML}
+    `;
+
+  found = true;
+}
+
+function third_person_pronouns() {
+  const outputDiv = document.getElementById("output");
+  tableHTML = ""
+  tableHTML += `
+    <table border='1'>
+      <tr>
+        <th></th>
+        <th colspan="3">singular</th>
+        <th colspan="3">plural</th>
+      </tr>
+      <tr>
+        <th></th>
+        <th>masculine</th>
+        <th>feminine</th>
+        <th>neuter</th>
+        <th>masculine</th>
+        <th>feminine</th>
+        <th>neuter</th>
+      </tr>
+      <tr>
+        <th>nominative</th>
+        <td>iz</td>
+        <td>sī</td>
+        <td>it</td>
+        <td>īz</td>
+        <td>ijôz</td>
+        <td>ijō</td>
+      </tr>
+      <tr>
+        <th>accusative</th>
+        <td>inǭ</td>
+        <td>ijǭ</td>
+        <td>it</td>
+        <td>inz</td>
+        <td>ijōz</td>
+        <td>ijō</td>
+      </tr>
+      <tr>
+        <th>genitive</th>
+        <td>es</td>
+        <td>ezōz</td>
+        <td>es</td>
+        <td>ezǫ̂</td>
+        <td>ezǫ̂</td>
+        <td>ezǫ̂</td>
+      </tr>
+      <tr>
+        <th>dative</th>
+        <td>immai</td>
+        <td>ezōi</td>
+        <td>immai</td>
+        <td>imaz</td>
+        <td>imaz</td>
+        <td>imaz</td>
+      </tr>
+      <tr>
+        <th>instrumental</th>
+        <td>inō</td>
+        <td>ezō</td>
+        <td>inō</td>
+        <td>imiz</td>
+        <td>imiz</td>
+        <td>imiz</td>
+      </tr>
+    </table>
+  `; 
+
+  tableHTML += "</table>";
+
+  outputDiv.innerHTML = `
+        ${tableHTML}
+    `;
+
+  found = true;
+}
+
+function third_person_possessive_pronouns() {
+  const outputDiv = document.getElementById("output");
+  tableHTML = ""
+  tableHTML += `
+    <table border='1'>
+      <tr>
+        <th></th>
+        <th colspan="3">singular</th>
+        <th colspan="3">plural</th>
+      </tr>
+      <tr>
+        <th></th>
+        <th>masculine</th>
+        <th>feminine</th>
+        <th>neuter</th>
+        <th>masculine</th>
+        <th>feminine</th>
+        <th>neuter</th>
+      </tr>
+      <tr>
+        <th>nominative</th>
+        <td>sīnaz</td>
+        <td>sīnō</td>
+        <td>sīną, -at(ō)</td>
+        <td>sīnai</td>
+        <td>sīnôz</td>
+        <td>sīnō</td>
+      </tr>
+      <tr>
+        <th>accusative</th>
+        <td>sīnanǭ</td>
+        <td>sīnǭ</td>
+        <td>sīną, -at(ō)</td>
+        <td>sīnanz</td>
+        <td>sīnōz</td>
+        <td>sīnō</td>
+      </tr>
+      <tr>
+        <th>genitive</th>
+        <td>sīnas, sīnis</td>
+        <td>sīnaizōz</td>
+        <td>sīnas, sīnis</td>
+        <td>sīnaizǫ̂</td>
+        <td>sīnaizǫ̂</td>
+        <td>sīnaizǫ̂</td>
+      </tr>
+      <tr>
+        <th>dative</th>
+        <td>sīnammai</td>
+        <td>sīnaizōi</td>
+        <td>sīnammai</td>
+        <td>sīnaimaz</td>
+        <td>sīnaimaz</td>
+        <td>sīnaimaz</td>
+      </tr>
+      <tr>
+        <th>instrumental</th>
+        <td>sīnanō</td>
+        <td>sīnaizō</td>
+        <td>sīnanō</td>
+        <td>sīnaimiz</td>
+        <td>sīnaimiz</td>
+        <td>sīnaimiz</td>
+      </tr>
+    </table>
+  `; 
+
+  tableHTML += "</table>";
+
+  outputDiv.innerHTML = `
+        ${tableHTML}
+    `;
+
+  found = true;
+}
+
 function checkWord() {
   const input = document.getElementById("wordInput").value.trim().toLowerCase();
   const outputDiv = document.getElementById("output");
@@ -49,7 +278,7 @@ function checkWord() {
               <td>${options.plur_voc}</td>
             </tr>
             <tr>
-              <th>accusatie</th>
+              <th>accusative</th>
               <td>${options.sing_acc}</td>
               <td>${options.plur_acc}</td>
             </tr>
@@ -373,7 +602,7 @@ function checkWord() {
             </tr>
           </table>
         `;
-      } else if (type === "personal_pronoun") {
+      } else if (type === "personal_pronouns") {
         tableHTML += `
           <table border='1'>
             <tr>
@@ -435,6 +664,70 @@ function checkWord() {
               <td><p>sek</p> <p>(unstressed sik)</p></td>
               <td>siz</td>
               <td>sinaz</td>
+            </tr>
+          </table>
+        `; 
+      } else if (type === "3rd_possessive_pronouns") {
+        tableHTML += `
+          <table border='1'>
+            <tr>
+              <th></th>
+              <th colspan="3">singular</th>
+              <th colspan="3">plural</th>
+            </tr>
+            <tr>
+              <th></th>
+              <th>masculine</th>
+              <th>feminine</th>
+              <th>neuter</th>
+              <th>masculine</th>
+              <th>feminine</th>
+              <th>neuter</th>
+            </tr>
+            <tr>
+              <th>nominative</th>
+              <td>sīnaz</td>
+              <td>sīnō</td>
+              <td>sīną, -at(ō)</td>
+              <td>sīnai</td>
+              <td>sīnôz</td>
+              <td>sīnō</td>
+            </tr>
+            <tr>
+              <th>accusative</th>
+              <td>sīnanǭ</td>
+              <td>sīnǭ</td>
+              <td>sīną, -at(ō)</td>
+              <td>sīnanz</td>
+              <td>sīnōz</td>
+              <td>sīnō</td>
+            </tr>
+            <tr>
+              <th>genitive</th>
+              <td>sīnas, sīnis</td>
+              <td>sīnaizōz</td>
+              <td>sīnas, sīnis</td>
+              <td>sīnaizǫ̂</td>
+              <td>sīnaizǫ̂</td>
+              <td>sīnaizǫ̂</td>
+            </tr>
+            <tr>
+              <th>dative</th>
+              <td>sīnammai</td>
+              <td>sīnaizōi</td>
+              <td>sīnammai</td>
+              <td>sīnaimaz</td>
+              <td>sīnaimaz</td>
+              <td>sīnaimaz</td>
+            </tr>
+            <tr>
+              <th>instrumental</th>
+              <td>sīnanō</td>
+              <td>sīnaizō</td>
+              <td>sīnanō</td>
+              <td>sīnaimiz</td>
+              <td>sīnaimiz</td>
+              <td>sīnaimiz</td>
             </tr>
           </table>
         `; 
@@ -557,7 +850,7 @@ function checkWord() {
         englishOutput += `<h2>3: ${entry.english2}</h2>`;
       }
       if (entry.gender) {
-        englishOutput += `<h2>gender: ${entry.gender}</h2>`;
+        englishOutput += `<h2>Gender: ${entry.gender}</h2>`;
       }
 
       outputDiv.innerHTML = `

@@ -3965,60 +3965,6 @@
       "plur_inst": ""
     }
   },
-  "": {
-    "type": "noun",
-    "germanic": "",
-    "english1": "",
-    "english2": "",
-    "gender": "",
-    "pronunciation": "",
-    "options": {
-      "sing_nomi": "",
-      "plur_nomi": "",
-
-      "sing_voc": "",
-      "plur_voc": "",
-
-      "sing_acc": "",
-      "plur_acc": "",
-
-      "sing_gen": "",
-      "plur_gen": "",
-
-      "sing_dat": "",
-      "plur_dat": "",
-
-      "sing_inst": "",
-      "plur_inst": ""
-    }
-  },
-  "": {
-    "type": "noun",
-    "germanic": "",
-    "english1": "",
-    "english2": "",
-    "gender": "",
-    "pronunciation": "",
-    "options": {
-      "sing_nomi": "",
-      "plur_nomi": "",
-
-      "sing_voc": "",
-      "plur_voc": "",
-
-      "sing_acc": "",
-      "plur_acc": "",
-
-      "sing_gen": "",
-      "plur_gen": "",
-
-      "sing_dat": "",
-      "plur_dat": "",
-
-      "sing_inst": "",
-      "plur_inst": ""
-    }
-  },
 
   "to walk": {
     "type": "verb",
@@ -7033,36 +6979,6 @@
       
     }
   },
-  "": {
-    "type": "verb",
-    "germanic": "",
-    "english1": "",
-    "english2": "",
-    "pronunciation": "",
-    "options": {
-      
-    }
-  },
-  "": {
-    "type": "verb",
-    "germanic": "",
-    "english1": "",
-    "english2": "",
-    "pronunciation": "",
-    "options": {
-      
-    }
-  },
-  "": {
-    "type": "verb",
-    "germanic": "",
-    "english1": "",
-    "english2": "",
-    "pronunciation": "",
-    "options": {
-      
-    }
-  },
 
   "red": {
     "type": "adjective",
@@ -7202,64 +7118,6 @@
       "plur_fem_inst": "þaimiz",
       "plur_neut_inst": "þaimiz"
     }
-  },
-  "3rd person pronouns": {
-    "type": "word",
-    "germanic": "",
-    "english1": "",
-    "english2": "",
-    "gender": "",
-    "pronunciation": "",
-    "options": {
-      "sing_masc_nomi": "iz",
-      "sing_fem_nomi": "sī",
-      "sing_neut_nomi": "it",
-
-      "sing_masc_acc": "inǭ",
-      "sing_fem_acc": "ijǭ",
-      "sing_neut_acc": "it",
-
-      "sing_masc_gen": "es",
-      "sing_fem_gen": "ezōz",
-      "sing_neut_gen": "es",
-
-      "sing_masc_dat": "immai",
-      "sing_fem_dat": "ezōi",
-      "sing_neut_dat": "immai",
-
-      "sing_masc_inst": "inō",
-      "sing_fem_inst": "ezō",
-      "sing_neut_inst": "inō",
-
-      "plur_masc_nomi": "īz",
-      "plur_fem_nomi": "ijôz",
-      "plur_neut_nomi": "ijō",
-
-      "plur_masc_acc": "inz",
-      "plur_fem_acc": "ijōz",
-      "plur_neut_acc": "ijō",
-
-      "plur_masc_gen": "ezǫ̂",
-      "plur_fem_gen": "ezǫ̂",
-      "plur_neut_gen": "ezǫ̂",
-
-      "plur_masc_dat": "imaz",
-      "plur_fem_dat": "imaz",
-      "plur_neut_dat": "imaz",
-
-      "plur_masc_inst": "imiz",
-      "plur_fem_inst": "imiz",
-      "plur_neut_inst": "imiz"
-    }
-  },
-
-  "pronouns": {
-    "type": "personal_pronoun",
-    "germanic": "personal pronouns",
-    "english1": "",
-    "english2": "",
-    "gender": "",
-    "pronunciation": ""
   },
 
   "1": {
