@@ -241,6 +241,158 @@ function third_person_possessive_pronouns() {
   found = true;
 }
 
+function first_person_possessive_pronouns() {
+  const outputDiv = document.getElementById("output");
+  tableHTML = ""
+  tableHTML += `
+    <table border='1'>
+      <tr>
+        <th></th>
+        <th colspan="3">singular</th>
+        <th colspan="3">plural</th>
+      </tr>
+      <tr>
+        <th></th>
+        <th>masculine</th>
+        <th>feminine</th>
+        <th>neuter</th>
+        <th>masculine</th>
+        <th>feminine</th>
+        <th>neuter</th>
+      </tr>
+      <tr>
+        <th>nominative</th>
+        <td>mīnaz</td>
+        <td>mīnō</td>
+        <td>mīną, -at(ō)</td>
+        <td>mīnai</td>
+        <td>mīnôz</td>
+        <td>mīnō</td>
+      </tr>
+      <tr>
+        <th>accusative</th>
+        <td>mīnanǭ</td>
+        <td>mīnǭ</td>
+        <td>mīną, -at(ō)</td>
+        <td>mīnanz</td>
+        <td>mīnōz</td>
+        <td>mīnō</td>
+      </tr>
+      <tr>
+        <th>genitive</th>
+        <td>mīnas, mīnis</td>
+        <td>mīnaizōz</td>
+        <td>mīnas, mīnis</td>
+        <td>mīnaizǫ̂</td>
+        <td>mīnaizǫ̂</td>
+        <td>mīnaizǫ̂</td>
+      </tr>
+      <tr>
+        <th>dative</th>
+        <td>mīnammai</td>
+        <td>mīnaizōi</td>
+        <td>mīnammai</td>
+        <td>mīnaimaz</td>
+        <td>mīnaimaz</td>
+        <td>mīnaimaz</td>
+      </tr>
+      <tr>
+        <th>instrumental</th>
+        <td>mīnanō</td>
+        <td>mīnaizō</td>
+        <td>mīnanō</td>
+        <td>mīnaimiz</td>
+        <td>mīnaimiz</td>
+        <td>mīnaimiz</td>
+      </tr>
+    </table>
+  `; 
+
+  tableHTML += "</table>";
+
+  outputDiv.innerHTML = `
+        ${tableHTML}
+    `;
+
+  found = true;
+}
+
+function second_person_possessive_pronouns() {
+  const outputDiv = document.getElementById("output");
+  tableHTML = ""
+  tableHTML += `
+    <table border='1'>
+      <tr>
+        <th></th>
+        <th colspan="3">singular</th>
+        <th colspan="3">plural</th>
+      </tr>
+      <tr>
+        <th></th>
+        <th>masculine</th>
+        <th>feminine</th>
+        <th>neuter</th>
+        <th>masculine</th>
+        <th>feminine</th>
+        <th>neuter</th>
+      </tr>
+      <tr>
+        <th>nominative</th>
+        <td>þīnaz</td>
+        <td>þīnō</td>
+        <td>þīną, -at(ō)</td>
+        <td>þīnai</td>
+        <td>þīnôz</td>
+        <td>þīnō</td>
+      </tr>
+      <tr>
+        <th>accusative</th>
+        <td>þīnanǭ</td>
+        <td>þīnǭ</td>
+        <td>þīną, -at(ō)</td>
+        <td>þīnanz</td>
+        <td>þīnōz</td>
+        <td>þīnō</td>
+      </tr>
+      <tr>
+        <th>genitive</th>
+        <td>þīnas, þīnis</td>
+        <td>þīnaizōz</td>
+        <td>þīnas, þīnis</td>
+        <td>þīnaizǫ̂</td>
+        <td>þīnaizǫ̂</td>
+        <td>þīnaizǫ̂</td>
+      </tr>
+      <tr>
+        <th>dative</th>
+        <td>þīnammai</td>
+        <td>þīnaizōi</td>
+        <td>þīnammai</td>
+        <td>þīnaimaz</td>
+        <td>þīnaimaz</td>
+        <td>þīnaimaz</td>
+      </tr>
+      <tr>
+        <th>instrumental</th>
+        <td>þīnanō</td>
+        <td>þīnaizō</td>
+        <td>þīnanō</td>
+        <td>þīnaimiz</td>
+        <td>þīnaimiz</td>
+        <td>þīnaimiz</td>
+      </tr>
+    </table>
+  `; 
+
+  tableHTML += "</table>";
+
+  outputDiv.innerHTML = `
+        ${tableHTML}
+    `;
+
+  found = true;
+}
+
 function checkWord() {
   const input = document.getElementById("wordInput").value.trim().toLowerCase();
   const outputDiv = document.getElementById("output");
