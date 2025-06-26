@@ -393,6 +393,12 @@ function second_person_possessive_pronouns() {
   found = true;
 }
 
+document.getElementById("wordInput").addEventListener("keydown", function(event) {
+  if (event.key === "Enter") {
+    checkWord(); // Call your function
+  }
+});
+
 function checkWord() {
   const input = document.getElementById("wordInput").value.trim().toLowerCase();
   const outputDiv = document.getElementById("output");
@@ -448,6 +454,40 @@ function checkWord() {
               <th>instrumental</th>
               <td>${options.sing_inst}</td>
               <td>${options.plur_inst}</td>
+            </tr>
+          </table>
+        `;
+
+      } else if (type === "proper_noun") {
+        tableHTML += `
+          <table border='1'>
+            <tr>
+              <th></th>
+              <th>singular</th>
+            </tr>
+            <tr>
+              <th>nominative</th>
+              <td>${options.nomi}</td>
+            </tr>
+            <tr>
+              <th>vocative</th>
+              <td>${options.voc}</td>
+            </tr>
+            <tr>
+              <th>accusative</th>
+              <td>${options.acc}</td>
+            </tr>
+            <tr>
+              <th>genitive</th>
+              <td>${options.gen}</td>
+            </tr>
+            <tr>
+              <th>dative</th>
+              <td>${options.dat}</td>
+            </tr>
+            <tr>
+              <th>instrumental</th>
+              <td>${options.inst}</td>
             </tr>
           </table>
         `;
