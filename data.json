@@ -59,7 +59,7 @@
     "english1": "human",
     "english2": "person",
     "gender": "masculine",
-    "pronunciation": "-",
+    
     "options": {
       "sing_nomi": "mann-, manô, mannô",
       "plur_nomi": "manniz",
@@ -1082,7 +1082,7 @@
     "english1": "",
     "english2": "",
     "gender": "masculine",
-    "pronunciation": "-",
+    
     "options": {
       "sing_nomi": "lepô",
       "plur_nomi": "lepaniz",
@@ -1244,7 +1244,7 @@
     "english1": "thigh",
     "english2": "",
     "gender": "masculine",
-    "pronunciation": "-",
+    
     "options": {
       "sing_nomi": "lagjaz",
       "plur_nomi": "lagjōz, lagjōs",
@@ -1379,7 +1379,7 @@
     "english1": "belly",
     "english2": "womb",
     "gender": "masculine",
-    "pronunciation": "-",
+    
     "options": {
       "sing_nomi": "kweþuz",
       "plur_nomi": "kwiþiwiz",
@@ -1838,7 +1838,7 @@
     "english1": "",
     "english2": "",
     "gender": "neuter",
-    "pronunciation": "-",
+    
     "options": {
       "sing_nomi": "regną",
       "plur_nomi": "regnō",
@@ -2378,7 +2378,7 @@
     "english1": "",
     "english2": "",
     "gender": "masculine",
-    "pronunciation": "-",
+    
     "options": {
       "sing_nomi": "Baldraz",
       "plur_nomi": "-",
@@ -2486,7 +2486,7 @@
     "english1": "ᛜ",
     "english2": "",
     "gender": "masculine",
-    "pronunciation": "-",
+    
     "options": {
       "sing_nomi": "Inguz",
       "plur_nomi": "-",
@@ -2540,7 +2540,7 @@
     "english1": "ᛉ",
     "english2": "",
     "gender": "masculine",
-    "pronunciation": "-",
+    
     "options": {
       "sing_nomi": "algiz",
       "plur_nomi": "algīz",
@@ -2729,7 +2729,7 @@
     "english1": "jaw",
     "english2": "abscess",
     "gender": "neuter",
-    "pronunciation": "-",
+    
     "options": {
       "sing_nomi": "kauną",
       "plur_nomi": "kaunō",
@@ -2756,7 +2756,7 @@
     "english1": "ᛒ",
     "english2": "",
     "gender": "feminine",
-    "pronunciation": "-",
+    
     "options": {
       "sing_nomi": "berkō",
       "plur_nomi": "berkôz",
@@ -3080,7 +3080,7 @@
     "english1": "",
     "english2": "",
     "gender": "neuter",
-    "pronunciation": "-",
+    
     "options": {
       "sing_nomi": "hunagą",
       "plur_nomi": "hunagō",
@@ -3188,7 +3188,7 @@
     "english1": "",
     "english2": "",
     "gender": "masculine",
-    "pronunciation": "-",
+    
     "options": {
       "sing_nomi": "hamaraz",
       "plur_nomi": "hamarōz, hamarōs",
@@ -3404,7 +3404,7 @@
     "english1": "",
     "english2": "",
     "gender": "neuter",
-    "pronunciation": "-",
+    
     "options": {
       "sing_nomi": "knīfą",
       "plur_nomi": "knīfō",
@@ -3512,7 +3512,7 @@
     "english1": "",
     "english2": "",
     "gender": "feminine",
-    "pronunciation": "-",
+    
     "options": {
       "sing_nomi": "akwisī",
       "plur_nomi": "akuzijôz",
@@ -3963,6 +3963,1239 @@
 
       "sing_inst": "",
       "plur_inst": ""
+    }
+  },
+
+  "Monday": {
+    "type": "proper_noun",
+    "germanic": "Mēndagaz",
+    "english1": "",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "/ˈmɛːn.dɑ.ɣɑz/",
+    "options": {
+      "nomi": "Mēndagaz",
+      "voc": "Mēndag",
+      "acc": "Mēndagą",
+      "gen": "Mēndagas, Mēndagis",
+      "dat": "Mēndagai",
+      "inst": "Mēndagō"
+    }
+  },
+  "Tuesday": {
+    "type": "proper_noun",
+    "germanic": "Tīwdagaz",
+    "english1": "",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "/ˈtiːw.dɑ.ɣɑz/",
+    "options": {
+      "nomi": "Tīwdagaz",
+      "voc": "Tīwdag",
+      "acc": "Tīwdagą",
+      "gen": "Tīwdagas, tīwdagis",
+      "dat": "Tīwdagai",
+      "inst": "Tīwdagō"
+    }
+  },
+  "Wednesday": {
+    "type": "proper_noun",
+    "germanic": "Wōdandagaz",
+    "english1": "",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "/ˈwɔː.ðɑ.n.dɑ.ɣɑz/",
+    "options": {
+      "nomi": "Wōdandagaz",
+      "voc": "Wōdandag",
+      "acc": "Wōdandagą",
+      "gen": "Wōdandagas, Wōdandagis",
+      "dat": "Wōdandagai",
+      "inst": "Wōdandagō"
+    }
+  },
+  "Thursday": {
+    "type": "proper_noun",
+    "germanic": "Þunrdagaz",
+    "english1": "",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "/ˈθun.r.dɑ.ɣɑz/",
+    "options": {
+      "nomi": "Þunrdagaz",
+      "voc": "Þunrdag",
+      "acc": "Þunrdagą",
+      "gen": "Þunrdagas, Þunrdagis",
+      "dat": "Þunrdagai",
+      "inst": "Þunrdagō"
+    }
+  },
+  "Friday": {
+    "type": "proper_noun",
+    "germanic": "Frijjōdagaz",
+    "english1": "",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "/ˈɸrij.jɔː.dɑ.ɣɑz/",
+    "options": {
+      "nomi": "Frijjōdagaz",
+      "voc": "Frijjōdag",
+      "acc": "Frijjōdagą",
+      "gen": "Frijjōdagas, Frijjōdagis",
+      "dat": "Frijjōdagai",
+      "inst": "Frijjōdagō"
+    }
+  },
+  "Saturday": {
+    "type": "proper_noun",
+    "germanic": "Sāturdagaz",
+    "english1": "",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "/ˈsaː.tur.dɑ.ɣɑz/",
+    "options": {
+      "nomi": "Sāturdagaz",
+      "voc": "Sāturdag",
+      "acc": "Sāturdagą",
+      "gen": "Sāturdagas, Sāturdagis",
+      "dat": "Sāturdagai",
+      "inst": "Sāturdagō"
+    }
+  },
+  "Sunday": {
+    "type": "proper_noun",
+    "germanic": "Sunnǭdagaz",
+    "english1": "",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "/ˈsun.nɔ̃ː.dɑ.ɣɑz/",
+    "options": {
+      "nomi": "Sunnǭdagaz",
+      "voc": "Sunnǭdag",
+      "acc": "Sunnǭdagą",
+      "gen": "Sunnǭdagas, Sunnǭdagis",
+      "dat": "Sunnǭdagai",
+      "inst": "Sunnǭdagō"
+    }
+  },
+  "Meuse": {
+    "type": "proper_noun",
+    "germanic": "Masō",
+    "english1": "",
+    "english2": "",
+    "gender": "feminine",
+    "pronunciation": "/ˈmɑ.sɔː/",
+    "options": {
+      "nomi": "Masō",
+      "voc": "Masō",
+      "acc": "Masǭ",
+      "gen": "Masōz",
+      "dat": "Masōi",
+      "inst": "Masō"
+    }
+  },
+  "Ems": {
+    "type": "proper_noun",
+    "germanic": "Amisī",
+    "english1": "",
+    "english2": "",
+    "gender": "feminine",
+    
+    "options": {
+      "nomi": "Amisī",
+      "voc": "Amisī",
+      "acc": "Amisjǭ",
+      "gen": "Amisjōz",
+      "dat": "Amisjōi",
+      "inst": "Amisjō"
+    }
+  },
+  "Rhine": {
+    "type": "proper_noun",
+    "germanic": "Rīnaz",
+    "english1": "",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "/ˈriː.nɑz/",
+    "options": {
+      "nomi": "Rīnaz",
+      "voc": "Rīn",
+      "acc": "Rīną",
+      "gen": "Rīnas, Rīnis",
+      "dat": "Rīnai",
+      "inst": "Rīnō"
+    }
+  },
+  "Weser": {
+    "type": "proper_noun",
+    "germanic": "Waisǭ",
+    "english1": "",
+    "english2": "",
+    "gender": "feminine",
+    "pronunciation": "",
+    "options": {
+      "nomi": "Waisǭ",
+      "voc": "Waisǭ",
+      "acc": "Waisōnų",
+      "gen": "Waisōniz",
+      "dat": "Waisōni",
+      "inst": "Waisōnē"
+    }
+  },
+  "Waal": {
+    "type": "proper_noun",
+    "germanic": "Wahalaz",
+    "english1": "",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "",
+    "options": {
+      "nomi": "Wahalaz",
+      "voc": "Wahal",
+      "acc": "Wahalą",
+      "gen": "Wahalas, Wahalis",
+      "dat": "Wahalai",
+      "inst": "Wahalō"
+    }
+  },
+  "Rome": {
+    "type": "proper_noun",
+    "germanic": "Rūmō",
+    "english1": "",
+    "english2": "",
+    "gender": "feminine",
+    "pronunciation": "/ˈruː.mɔː/",
+    "options": {
+      "nomi": "Rūmō",
+      "voc": "Rūmō",
+      "acc": "Rūmǭ",
+      "gen": "Rūmōz",
+      "dat": "Rūmōi",
+      "inst": "Rūmō"
+    }
+  },
+  "Hase": {
+    "type": "proper_noun",
+    "germanic": "Haswaz",
+    "english1": "",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "",
+    "options": {
+      "nomi": "Haswaz",
+      "voc": "Hasw",
+      "acc": "Haswą",
+      "gen": "Haswas, Haswis",
+      "dat": "Haswai",
+      "inst": "Haswō"
+    }
+  },
+  "Segestes": {
+    "type": "proper_noun",
+    "germanic": "Sigigastiz",
+    "english1": "",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "",
+    "options": {
+      "nomi": "Sigigastiz",
+      "voc": "Sigigasti",
+      "acc": "Sigigastį",
+      "gen": "Sigigastīz",
+      "dat": "Sigigastī",
+      "inst": "Sigigastī"
+    }
+  },
+  "Njord": {
+    "type": "proper_noun",
+    "germanic": "Nerþuz",
+    "english1": "Nerthus",
+    "english2": "",
+    "gender": "feminine or masculine",
+    "pronunciation": "/ˈner.θuz/",
+    "options": {
+      "nomi": "Nerþuz",
+      "voc": "Nerþu",
+      "acc": "Nerþų",
+      "gen": "Nerþauz",
+      "dat": "Nirþiwi",
+      "inst": "Nerþū"
+    }
+  },
+  "Mannus": {
+    "type": "proper_noun",
+    "germanic": "Mannz",
+    "english1": "",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "",
+    "options": {
+      "nomi": "Mannz",
+      "voc": "Mann",
+      "acc": "Mannų",
+      "gen": "Manniz",
+      "dat": "Manni",
+      "inst": "Mannē"
+    }
+  },
+  "Trenčín": {
+    "type": "proper_noun",
+    "germanic": "Laugōrīkiją",
+    "english1": "",
+    "english2": "",
+    "gender": "neuter",
+    "pronunciation": "/ˈlɑu̯.ɣɔːˈriː.ki.jɑ̃/",
+    "options": {
+      "nomi": "Laugōrīkiją",
+      "voc": "Laugōrīkiją",
+      "acc": "Laugōrīkiją",
+      "gen": "Laugōrīkijas, Laugōrīkīs",
+      "dat": "Laugōrīkijai",
+      "inst": "Laugōrīkijō"
+    }
+  },
+  "Danube": {
+    "type": "proper_noun",
+    "germanic": "Dōnawjaz",
+    "english1": "",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "/ˈdɔː.ˌnɑu̯.jɑz/",
+    "options": {
+      "nomi": "Dōnawjaz",
+      "voc": "Dōnawi",
+      "acc": "Dōnawją",
+      "gen": "Dōnawjas, Dōnawis",
+      "dat": "Dōnawjai",
+      "inst": "Dōnawjō"
+    }
+  },
+  "Batavia": {
+    "type": "proper_noun",
+    "germanic": "Batawjō",
+    "english1": "",
+    "english2": "",
+    "gender": "feminine",
+    "pronunciation": "/ˈbɑt.ˌɑu̯.jɔː/",
+    "options": {
+      "nomi": "Batawjō",
+      "voc": "Batawjō",
+      "acc": "Batawjǭ",
+      "gen": "Batawjōz",
+      "dat": "Batawjōi",
+      "inst": "Batawjō"
+    }
+  },
+  "Bohemia": {
+    "type": "proper_noun",
+    "germanic": "Bajahaimaz",
+    "english1": "",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "",
+    "options": {
+      "nomi": "Bajahaimaz",
+      "voc": "Bajahaim",
+      "acc": "Bajahaimą",
+      "gen": "Bajahaimas, Bajahaimis",
+      "dat": "Bajahaimai",
+      "inst": "Bajahaimō"
+    }
+  },
+  "Baduhenna": {
+    "type": "proper_noun",
+    "germanic": "Badwinjō",
+    "english1": "",
+    "english2": "",
+    "gender": "feminine",
+    "pronunciation": "",
+    "options": {
+      "nomi": "Badwinjō",
+      "voc": "Badwinjō",
+      "acc": "Badwinjǭ",
+      "gen": "Badwinjōz",
+      "dat": "Badwinjōi",
+      "inst": "Badwinjō"
+    }
+  },
+  "Aurvandill": {
+    "type": "proper_noun",
+    "germanic": "Auziwandilaz",
+    "english1": "morning star",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "/ˈɑu̯.zi.ˌwɑn.di.lɑz/",
+    "options": {
+      "nomi": "Auziwandilaz",
+      "voc": "Auziwandil",
+      "acc": "Auziwandilą",
+      "gen": "Auziwandilas, Auziwandilis",
+      "dat": "Auziwandilai",
+      "inst": "Auziwandilō"
+    }
+  },
+  "Egil": {
+    "type": "proper_noun",
+    "germanic": "Agilaz",
+    "english1": "",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "/ˈɑ.ɣi.lɑz/",
+    "options": {
+      "nomi": "Agilaz",
+      "voc": "Agil",
+      "acc": "Agilą",
+      "gen": "Agilas, *Agilis",
+      "dat": "Agilai",
+      "inst": "Agilō"
+    }
+  },
+  "Wayland": {
+    "type": "proper_noun",
+    "germanic": "Wēlanduz",
+    "english1": "",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "",
+    "options": {
+      "nomi": "Wēlanduz",
+      "voc": "Wēlandu",
+      "acc": "Wēlandų",
+      "gen": "Wēlandauz",
+      "dat": "Wēlandiwi",
+      "inst": "Wēlandū"
+    }
+  },
+  "Tuisco": {
+    "type": "proper_noun",
+    "germanic": "Twiskô",
+    "english1": "",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "",
+    "options": {
+      "nomi": "Twiskô",
+      "voc": "Twiskô",
+      "acc": "Twiskanų",
+      "gen": "Twiskiniz",
+      "dat": "Twiskini",
+      "inst": "Twiskinē"
+    }
+  },
+  "Scandinavia": {
+    "type": "proper_noun",
+    "germanic": "Skadinawjō",
+    "english1": "Scania",
+    "english2": "",
+    "gender": "feminine",
+    "pronunciation": "/ˈskɑ.ðinˌɑu̯.jɔː/",
+    "options": {
+      "nomi": "Skadinawjō",
+      "voc": "Skadinawjō",
+      "acc": "Skadinawjǭ",
+      "gen": "Skadinawjōz",
+      "dat": "Skadinawjōi",
+      "inst": "Skadinawjō"
+    }
+  },
+  "Alaric": {
+    "type": "proper_noun",
+    "germanic": "Alarīks",
+    "english1": "",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "/ˈɑ.lɑ.ˌriːks/",
+    "options": {
+      "nomi": "Alarīks",
+      "voc": "Alarīk",
+      "acc": "Alarīkų",
+      "gen": "Alarīkiz",
+      "dat": "Alarīki",
+      "inst": "Alarīkē"
+    }
+  },
+  "Elgar": {
+    "type": "proper_noun",
+    "germanic": "Albigaizaz",
+    "english1": "",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "/ˈɑl.βi.ˌɣɑi̯.zɑz/",
+    "options": {
+      "nomi": "Albigaizaz",
+      "voc": "Albigaiz",
+      "acc": "Albigaizą",
+      "gen": "Albigaizas, Albigaizis",
+      "dat": "Albigaizai",
+      "inst": "Albigaizō"
+    }
+  },
+  "Oswald": {
+    "type": "proper_noun",
+    "germanic": "Ansuwaldaz",
+    "english1": "",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "/ˈɑn.su.ˌwɑl.dɑz/",
+    "options": {
+      "nomi": "Ansuwaldaz",
+      "voc": "Ansuwald",
+      "acc": "Ansuwaldą",
+      "gen": "Ansuwaldas, Ansuwaldis",
+      "dat": "Ansuwaldai",
+      "inst": "Ansuwaldō"
+    }
+  },
+  "Olaf": {
+    "type": "proper_noun",
+    "germanic": "Anulaibaz",
+    "english1": "",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "/ˈɑnu.lɑi̯.βaz/",
+    "options": {
+      "nomi": "Anulaibaz",
+      "voc": "Anulaib",
+      "acc": "Anulaibą",
+      "gen": "Anulaibas, Anulaibis",
+      "dat": "Anulaibai",
+      "inst": "Anulaibō"
+    }
+  },
+  "Arnulf": {
+    "type": "proper_noun",
+    "germanic": "Arnuwulfaz",
+    "english1": "",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "",
+    "options": {
+      "nomi": "Arnuwulfaz",
+      "voc": "Arnuwulf",
+      "acc": "Arnuwulfą",
+      "gen": "Arnuwulfas, Arnuwulfis",
+      "dat": "Arnuwulfai",
+      "inst": "Arnuwulfō"
+    }
+  },
+  "Edmund": {
+    "type": "proper_noun",
+    "germanic": "Audamunduz",
+    "english1": "",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "/ˈɑu̯.ðɑˌmun.duz/",
+    "options": {
+      "nomi": "Audamunduz",
+      "voc": "Audamundu",
+      "acc": "Audamundų",
+      "gen": "Audamundauz",
+      "dat": "Audamundiwi",
+      "inst": "Audamundū"
+    }
+  },
+  "Edric": {
+    "type": "proper_noun",
+    "germanic": "Audarīks",
+    "english1": "Edrick",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "/ˈɑu̯.ðɑ.ˌriːks/",
+    "options": {
+      "nomi": "Audarīks",
+      "voc": "Audarīk",
+      "acc": "Audarīkų",
+      "gen": "Audarīkiz",
+      "dat": "Audarīki",
+      "inst": "Audarīkē"
+    }
+  },
+  "Odoacer": {
+    "type": "proper_noun",
+    "germanic": "Audawakraz",
+    "english1": "",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "/ˈɑu̯.ðɑ.ˌwɑk.rɑz/",
+    "options": {
+      "nomi": "Audawakraz",
+      "voc": "Audawakr",
+      "acc": "Audawakrą",
+      "gen": "Audawakras, Audawakris",
+      "dat": "Audawakrai",
+      "inst": "Audawakrō"
+    }
+  },
+  "Edward": {
+    "type": "proper_noun",
+    "germanic": "Audawarduz",
+    "english1": "",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "/ˈɑu̯.ðɑ.ˌwɑr.ðuz/",
+    "options": {
+      "nomi": "Audawarduz",
+      "voc": "Audawardu",
+      "acc": "Audawardų",
+      "gen": "Audawardauz",
+      "dat": "Audawardiwi",
+      "inst": "Audawardū"
+    }
+  },
+  "Edwin": {
+    "type": "proper_noun",
+    "germanic": "Audawiniz",
+    "english1": "",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "",
+    "options": {
+      "nomi": "Audawiniz",
+      "voc": "Audawini",
+      "acc": "Audawinį",
+      "gen": "Audawinīz",
+      "dat": "Audawinī",
+      "inst": "Audawinī"
+    }
+  },
+  "Adolf": {
+    "type": "proper_noun",
+    "germanic": "Aþalawulfaz",
+    "english1": "",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "/ˈɑ.θɑ.lɑ.ˌwul.ɸɑz/",
+    "options": {
+      "nomi": "Aþalawulfaz",
+      "voc": "Aþalawulf",
+      "acc": "Aþalawulfą",
+      "gen": "Aþalawulfas, Aþalawulfis",
+      "dat": "Aþalawulfai",
+      "inst": "Aþalawulfō"
+    }
+  },
+  "Baldwin": {
+    "type": "proper_noun",
+    "germanic": "Balþawiniz",
+    "english1": "",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "/ˈbɑl.θɑ.ˌwi.niz/",
+    "options": {
+      "nomi": "Balþawiniz",
+      "voc": "Balþawini",
+      "acc": "Balþawinį",
+      "gen": "Balþawinīz",
+      "dat": "Balþawinī",
+      "inst": "Balþawinī"
+    }
+  },
+  "Bernard": {
+    "type": "proper_noun",
+    "germanic": "Bernuharduz",
+    "english1": "",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "/ˈber.nuˌxɑr.ðuz/",
+    "options": {
+      "nomi": "Bernuharduz",
+      "voc": "Bernuhardu",
+      "acc": "Bernuhardų",
+      "gen": "Bernuhardauz",
+      "dat": "Bernuhardiwi",
+      "inst": "Bernuhardū"
+    }
+  },
+  "Brunhild": {
+    "type": "proper_noun",
+    "germanic": "Brunjōhildiz",
+    "english1": "",
+    "english2": "",
+    "gender": "feminine",
+    "pronunciation": "/ˈbrun.jɔː.ˌxil.diz/",
+    "options": {
+      "nomi": "Brunjōhildiz",
+      "voc": "Brunjōhildi",
+      "acc": "Brunjōhildį",
+      "gen": "Brunjōhildīz",
+      "dat": "Brunjōhildī",
+      "inst": "Brunjōhildī"
+    }
+  },
+  "Dowyard": {
+    "type": "proper_noun",
+    "germanic": "Daugardaz",
+    "english1": "",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "/ˈdɑu̯ˌɣɑr.ðɑz/",
+    "options": {
+      "nomi": "Daugardaz",
+      "voc": "Daugard",
+      "acc": "Daugardą",
+      "gen": "Daugardas, Daugardis",
+      "dat": "Daugardai",
+      "inst": "Daugardō"
+    }
+  },
+  "Fredbert": {
+    "type": "proper_noun",
+    "germanic": "Friþuberhtaz",
+    "english1": "",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "",
+    "options": {
+      "nomi": "Friþuberhtaz",
+      "voc": "Friþuberht",
+      "acc": "Friþuberhtą",
+      "gen": "Friþuberhtas, Friþubirhtis",
+      "dat": "Friþuberhtai",
+      "inst": "Friþuberhtō"
+    }
+  },
+  "Fredmund": {
+    "type": "proper_noun",
+    "germanic": "Friþumundō",
+    "english1": "",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "",
+    "options": {
+      "nomi": "Friþumundō",
+      "voc": "Friþumundō",
+      "acc": "Friþumundǭ",
+      "gen": "Friþumundōz",
+      "dat": "Friþumundōi",
+      "inst": "Friþumundō"
+    }
+  },
+  "Frederick": {
+    "type": "proper_noun",
+    "germanic": "Friþurīks",
+    "english1": "",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "/ˈɸri.θu.ˌriːks/",
+    "options": {
+      "nomi": "Friþurīks",
+      "voc": "Friþurīk",
+      "acc": "Friþurīkų",
+      "gen": "Friþurīkiz",
+      "dat": "Friþurīki",
+      "inst": "Friþurīkē"
+    }
+  },
+  "Frodo": {
+    "type": "proper_noun",
+    "germanic": "Frōdô",
+    "english1": "",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "/ˈɸrɔː.ðɔːː/",
+    "options": {
+      "nomi": "Frōdô",
+      "voc": "Frōdô",
+      "acc": "Frōdanų",
+      "gen": "Frōdiniz",
+      "dat": "Frōdini",
+      "inst": "Frōdinē"
+    }
+  },
+  "Gerard": {
+    "type": "proper_noun",
+    "germanic": "Gaizaharduz",
+    "english1": "",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "",
+    "options": {
+      "nomi": "Gaizaharduz",
+      "voc": "Gaizahardu",
+      "acc": "Gaizahardų",
+      "gen": "Gaizahardauz",
+      "dat": "Gaizahardiwi",
+      "inst": "Gaizahardū"
+    }
+  },
+  "Garrick": {
+    "type": "proper_noun",
+    "germanic": "Gaizarīks",
+    "english1": "",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "",
+    "options": {
+      "nomi": "Gaizarīks",
+      "voc": "Gaizarīk",
+      "acc": "Gaizarīkų",
+      "gen": "Gaizarīkiz",
+      "dat": "Gaizarīki",
+      "inst": "Gaizarīkē"
+    }
+  },
+  "Gerald": {
+    "type": "proper_noun",
+    "germanic": "Gaizawaldaz",
+    "english1": "",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "",
+    "options": {
+      "nomi": "Gaizawaldaz",
+      "voc": "Gaizawald",
+      "acc": "Gaizawaldą",
+      "gen": "Gaizawaldas, Gaizawaldis",
+      "dat": "Gaizawaldai",
+      "inst": "Gaizawaldō"
+    }
+  },
+  "Godiva": {
+    "type": "proper_noun",
+    "germanic": "Gudagebō",
+    "english1": "",
+    "english2": "",
+    "gender": "feminine",
+    "pronunciation": "/ˈɣu.ðɑ.ɣe.βɔː/",
+    "options": {
+      "nomi": "Gudagebō",
+      "voc": "Gudagebō",
+      "acc": "Gudagebǭ",
+      "gen": "Gudagebōz",
+      "dat": "Gudagebōi",
+      "inst": "Gudagebō"
+    }
+  },
+  "Gunter": {
+    "type": "proper_noun",
+    "germanic": "Gunþiharjaz",
+    "english1": "Gunther",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "/ˈɣun.θi.ˌxɑr.jɑz/",
+    "options": {
+      "nomi": "Gunþiharjaz",
+      "voc": "Gunþihari",
+      "acc": "Gunþiharją",
+      "gen": "Gunþiharjas, Gunþiharis",
+      "dat": "Gunþiharjai",
+      "inst": "Gunþiharjō"
+    }
+  },
+  "Henry": {
+    "type": "proper_noun",
+    "germanic": "Haimarīks",
+    "english1": "",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "/ˈxɑi̯.mɑ.ˌriːks/",
+    "options": {
+      "nomi": "Haimarīks",
+      "voc": "Haimarīk",
+      "acc": "Haimarīkų",
+      "gen": "Haimarīkiz",
+      "dat": "Haimarīki",
+      "inst": "Haimarīkē"
+    }
+  },
+  "Harold": {
+    "type": "proper_noun",
+    "germanic": "Harjawaldaz",
+    "english1": "",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "",
+    "options": {
+      "nomi": "Harjawaldaz",
+      "voc": "Harjawald",
+      "acc": "Harjawaldą",
+      "gen": "Harjawaldas, Harjawaldis",
+      "dat": "Harjawaldai",
+      "inst": "Harjawaldō"
+    }
+  },
+  "Hathulf": {
+    "type": "proper_noun",
+    "germanic": "Haþuwulfaz",
+    "english1": "",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "/ˈxɑ.θu.ˌwul.ɸɑz/",
+    "options": {
+      "nomi": "Haþuwulfaz",
+      "voc": "Haþuwulf",
+      "acc": "Haþuwulfą",
+      "gen": "Haþuwulfas, Haþuwulfis",
+      "dat": "Haþuwulfai",
+      "inst": "Haþuwulfō"
+    }
+  },
+  "Chilperic": {
+    "type": "proper_noun",
+    "germanic": "Helparīks",
+    "english1": "",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "/ˈxel.pɑ.ˌriːks/",
+    "options": {
+      "nomi": "Helparīks",
+      "voc": "Helparīk",
+      "acc": "Helparīkų",
+      "gen": "Helparīkiz",
+      "dat": "Helparīki",
+      "inst": "Helparīkē"
+    }
+  },
+  "Hildebrand": {
+    "type": "proper_noun",
+    "germanic": "Hildibrandaz",
+    "english1": "",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "/ˈxil.di.ˌbrɑn.dɑz/",
+    "options": {
+      "nomi": "Hildibrandaz",
+      "voc": "Hildibrand",
+      "acc": "Hildibrandą",
+      "gen": "Hildibrandas, Hildibrandis",
+      "dat": "Hildibrandai",
+      "inst": "Hildibrandō"
+    }
+  },
+  "Clotilda": {
+    "type": "proper_noun",
+    "germanic": "Hlūdahildiz",
+    "english1": "",
+    "english2": "",
+    "gender": "feminine",
+    "pronunciation": "/ˈxluː.ða.ˌxil.diz/",
+    "options": {
+      "nomi": "Hlūdahildiz",
+      "voc": "Hlūdahildi",
+      "acc": "Hlūdahildį",
+      "gen": "Hlūdahildīz",
+      "dat": "Hlūdahildī",
+      "inst": "Hlūdahildī"
+    }
+  },
+  "Rupert": {
+    "type": "proper_noun",
+    "germanic": "Hrōþiberhtaz",
+    "english1": "",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "/ˈxrɔː.θi.ˌberx.tɑz/",
+    "options": {
+      "nomi": "Hrōþiberhtaz",
+      "voc": "Hrōþiberht",
+      "acc": "Hrōþiberhtą",
+      "gen": "Hrōþiberhtas, Hrōþibirhtis",
+      "dat": "Hrōþiberhtai",
+      "inst": "Hrōþiberhtō"
+    }
+  },
+  "Hrothgar": {
+    "type": "proper_noun",
+    "germanic": "Hrōþigaizaz",
+    "english1": "Rothgar",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "/ˈxrɔː.θi.ˌɣɑi̯.zɑz/",
+    "options": {
+      "nomi": "Hrōþigaizaz",
+      "voc": "Hrōþigaiz",
+      "acc": "Hrōþigaizą",
+      "gen": "Hrōþigaizas, Hrōþigaizis",
+      "dat": "Hrōþigaizai",
+      "inst": "Hrōþigaizō"
+    }
+  },
+  "Roderick": {
+    "type": "proper_noun",
+    "germanic": "Hrōþirīks",
+    "english1": "Hrethric",
+    "english2": "Rurik",
+    "gender": "masculine",
+    "pronunciation": "",
+    "options": {
+      "nomi": "Hrōþirīks",
+      "voc": "Hrōþirīk",
+      "acc": "Hrōþirīkų",
+      "gen": "Hrōþirīkiz",
+      "dat": "Hrōþirīki",
+      "inst": "Hrōþirīkē"
+    }
+  },
+  "Rolf": {
+    "type": "proper_noun",
+    "germanic": "Hrōþiwulfaz",
+    "english1": "Rudolf",
+    "english2": "Rudy",
+    "gender": "masculine",
+    "pronunciation": "/ˈxrɔː.θi.ˌwul.ɸɑz/",
+    "options": {
+      "nomi": "Hrōþiwulfaz",
+      "voc": "Hrōþiwulf",
+      "acc": "Hrōþiwulfą",
+      "gen": "Hrōþiwulfas, Hrōþiwulfis",
+      "dat": "Hrōþiwulfai",
+      "inst": "Hrōþiwulfō"
+    }
+  },
+  "Maud": {
+    "type": "proper_noun",
+    "germanic": "Mahtihildiz",
+    "english1": "Matilda",
+    "english2": "",
+    "gender": "feminine",
+    "pronunciation": "/ˈmɑx.ti.ˌxil.diz/",
+    "options": {
+      "nomi": "Mahtihildiz",
+      "voc": "Mahtihildi",
+      "acc": "Mahtihildį",
+      "gen": "Mahtihildīz",
+      "dat": "Mahtihildī",
+      "inst": "Mahtihildī"
+    }
+  },
+  "Reynard": {
+    "type": "proper_noun",
+    "germanic": "Raginaharduz",
+    "english1": "",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "/ˈrɑ.ɣi.nɑ.ˌxɑr.ðuz/",
+    "options": {
+      "nomi": "Raginaharduz",
+      "voc": "Raginahardu",
+      "acc": "Raginahardų",
+      "gen": "Raginahardauz",
+      "dat": "Raginahardiwi",
+      "inst": "Raginahardū"
+    }
+  },
+  "Rayner": {
+    "type": "proper_noun",
+    "germanic": "Raginaharjaz",
+    "english1": "Rainer",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "/ˈrɑ.ɣi.nɑˌxɑr.jɑz/",
+    "options": {
+      "nomi": "Raginaharjaz",
+      "voc": "Raginahari",
+      "acc": "Raginaharją",
+      "gen": "Raginaharjas, Raginaharis",
+      "dat": "Raginaharjai",
+      "inst": "Raginaharjō"
+    }
+  },
+  "Reginald": {
+    "type": "proper_noun",
+    "germanic": "Raginawaldaz",
+    "english1": "Ronald",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "/ˈrɑ.ɣi.nɑ.ˌwɑl.dɑz/",
+    "options": {
+      "nomi": "Raginawaldaz",
+      "voc": "Raginawald",
+      "acc": "Raginawaldą",
+      "gen": "Raginawaldas, Raginawaldis",
+      "dat": "Raginawaldai",
+      "inst": "Raginawaldō"
+    }
+  },
+  "Ralph": {
+    "type": "proper_noun",
+    "germanic": "Rēdawulfaz",
+    "english1": "",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "/ˈrɛː.ðɑ.ˌwul.ɸɑz/",
+    "options": {
+      "nomi": "Rēdawulfaz",
+      "voc": "Rēdawulf",
+      "acc": "Rēdawulfą",
+      "gen": "Rēdawulfas, Rēdawulfis",
+      "dat": "Rēdawulfai",
+      "inst": "Rēdawulfō"
+    }
+  },
+  "Richard": {
+    "type": "proper_noun",
+    "germanic": "Rīkaharduz",
+    "english1": "",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "/ˈriː.kɑ.ˌxɑr.ðuz/",
+    "options": {
+      "nomi": "Rīkaharduz",
+      "voc": "Rīkahardu",
+      "acc": "Rīkahardų",
+      "gen": "Rīkahardauz",
+      "dat": "Rīkahardiwi",
+      "inst": "Rīkahardū"
+    }
+  },
+  "Simon": {
+    "type": "proper_noun",
+    "germanic": "Sigimunduz",
+    "english1": "Sigmund",
+    "english2": "Sigismund",
+    "gender": "masculine",
+    "pronunciation": "/ˈsi.ɣi.ˌmun.duz/",
+    "options": {
+      "nomi": "Sigimunduz",
+      "voc": "Sigimundu",
+      "acc": "Sigimundų",
+      "gen": "Sigimundauz",
+      "dat": "Sigimundiwi",
+      "inst": "Sigimundū"
+    }
+  },
+  "Seward": {
+    "type": "proper_noun",
+    "germanic": "Sigiwarduz",
+    "english1": "",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "/ˈsi.ɣi.ˌwɑr.ðuz/",
+    "options": {
+      "nomi": "Sigiwarduz",
+      "voc": "Sigiwardu",
+      "acc": "Sigiwardų",
+      "gen": "Sigiwardauz",
+      "dat": "Sigiwardiwi",
+      "inst": "Sigiwardū"
+    }
+  },
+  "Walter": {
+    "type": "proper_noun",
+    "germanic": "Waldaharjaz",
+    "english1": "",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "",
+    "options": {
+      "nomi": "Waldaharjaz",
+      "voc": "Waldahari",
+      "acc": "Waldaharją",
+      "gen": "Waldaharjas, Waldaharis",
+      "dat": "Waldaharjai",
+      "inst": "Waldaharjō"
+    }
+  },
+  "William": {
+    "type": "proper_noun",
+    "germanic": "Wiljahelmaz",
+    "english1": "Wilhelm",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "/ˈwil.jɑ.ˌxel.mɑz/",
+    "options": {
+      "nomi": "Wiljahelmaz",
+      "voc": "Wiljahelm",
+      "acc": "Wiljahelmą",
+      "gen": "Wiljahelmas, Wiljahilmis",
+      "dat": "Wiljahelmai",
+      "inst": "Wiljahelmō"
+    }
+  },
+  "Theobald": {
+    "type": "proper_noun",
+    "germanic": "Þeudōbalþaz",
+    "english1": "",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "/ˈθeu̯.ðɔː.ˌbɑl.θɑz/",
+    "options": {
+      "nomi": "Þeudōbalþaz",
+      "voc": "Þeudōbalþ",
+      "acc": "Þeudōbalþą",
+      "gen": "Þeudōbalþas, Þeudōbalþis",
+      "dat": "Þeudōbalþai",
+      "inst": "Þeudōbalþō"
+    }
+  },
+  "Theudebert": {
+    "type": "proper_noun",
+    "germanic": "Þeudōberhtaz",
+    "english1": "",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "/ˈθeu̯.ðɔː.ˌberx.tɑz/",
+    "options": {
+      "nomi": "Þeudōberhtaz",
+      "voc": "Þeudōberht",
+      "acc": "Þeudōberhtą",
+      "gen": "Þeudōberhtas, Þeudōbirhtis",
+      "dat": "Þeudōberhtai",
+      "inst": "Þeudōberhtō"
+    }
+  },
+  "Theodemer": {
+    "type": "proper_noun",
+    "germanic": "Þeudōmēraz",
+    "english1": "",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "/ˈθeu̯.ðɔː.ˌmɛː.rɑz/",
+    "options": {
+      "nomi": "Þeudōmēraz",
+      "voc": "Þeudōmēr",
+      "acc": "Þeudōmērą",
+      "gen": "Þeudōmēras, Þeudōmēris",
+      "dat": "Þeudōmērai",
+      "inst": "Þeudōmērō"
+    }
+  },
+  "Theodoric": {
+    "type": "proper_noun",
+    "germanic": "Þeudōrīks",
+    "english1": "",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "/ˈθeu̯.ðɔː.ˌriːks/",
+    "options": {
+      "nomi": "Þeudōrīks",
+      "voc": "Þeudōrīk",
+      "acc": "Þeudōrīkų",
+      "gen": "Þeudōrīkiz",
+      "dat": "Þeudōrīki",
+      "inst": "Þeudōrīkē"
+    }
+  },
+  "Thusnelda": {
+    "type": "proper_noun",
+    "germanic": "Þursahildiz",
+    "english1": "",
+    "english2": "",
+    "gender": "feminine",
+    "pronunciation": "",
+    "options": {
+      "nomi": "Þursahildiz",
+      "voc": "Þursahildi",
+      "acc": "Þursahildį",
+      "gen": "Þursahildīz",
+      "dat": "Þursahildī",
+      "inst": "Þursahildī"
+    }
+  },
+  "": {
+    "type": "proper_noun",
+    "germanic": "",
+    "english1": "",
+    "english2": "",
+    "gender": "",
+    "pronunciation": "",
+    "options": {
+      "nomi": "",
+      "voc": "",
+      "acc": "",
+      "gen": "",
+      "dat": "",
+      "inst": ""
     }
   },
 
@@ -7575,13 +8808,123 @@
       "addition": "(+accusative or +dative)"
     }
   },
+  "up to": {
+    "type": "preposition",
+    "germanic": "und",
+    "english1": "unto",
+    "english2": "until",
+    "gender": "",
+    "pronunciation": "/und/",
+    "options": {
+      "addition": "(+accusative)"
+    }
+  },
+  "among": {
+    "type": "preposition",
+    "germanic": "under",
+    "english1": "between",
+    "english2": "beneath",
+    "gender": "",
+    "pronunciation": "/ˈun.der/",
+    "options": {
+      "addition": "(+dative)"
+    }
+  },
+  "above": {
+    "type": "preposition",
+    "germanic": "uber",
+    "english1": "",
+    "english2": "",
+    "gender": "",
+    "pronunciation": "/ˈu.βer/",
+    "options": {
+      "addition": "(+dative)"
+    }
+  },
+  "in": {
+    "type": "preposition",
+    "germanic": "in",
+    "english1": "into",
+    "english2": "",
+    "gender": "",
+    "pronunciation": "/in/",
+    "options": {
+      "addition": "in (+dative) into (+accusative)"
+    }
+  },
+  "behind": {
+    "type": "preposition",
+    "germanic": "hinder",
+    "english1": "beyond",
+    "english2": "",
+    "gender": "",
+    "pronunciation": "/ˈxin.der/",
+    "options": {
+      "addition": "(+accusative or +dative)"
+    }
+  },
+  "around": {
+    "type": "preposition",
+    "germanic": "umbi",
+    "english1": "about",
+    "english2": "",
+    "gender": "",
+    "pronunciation": "/ˈum.bi/",
+    "options": {
+      "addition": "(+accusative)"
+    }
+  },
+  "towards": {
+    "type": "preposition",
+    "germanic": "gagin",
+    "english1": "against",
+    "english2": "",
+    "gender": "",
+    "pronunciation": "/ˈɣɑ.ɣin/",
+    "options": {
+      "addition": "towards (+dative) against (+accusative)"
+    }
+  },
+  "before": {
+    "type": "preposition",
+    "germanic": "furi",
+    "english1": "for",
+    "english2": "",
+    "gender": "",
+    "pronunciation": "/ˈɸu.ri/",
+    "options": {
+      "addition": "(+accusative)"
+    }
+  },
+  "by": {
+    "type": "preposition",
+    "germanic": "fram",
+    "english1": "due to",
+    "english2": "",
+    "gender": "",
+    "pronunciation": "/ɸrɑm/",
+    "options": {
+      "addition": "(+dative)"
+    }
+  },
+  "from": {
+    "type": "preposition",
+    "germanic": "fanē",
+    "english1": "",
+    "english2": "",
+    "gender": "",
+    "pronunciation": "/ˈɸɑ.nɛː/",
+    "options": {
+      "addition": "(+dative)"
+    }
+  },
   "without": {
     "type": "preposition",
     "germanic": "ēnu",
     "english1": "",
     "english2": "",
     "gender": "",
-    "pronunciation": "-",
+    
     "options": {
       "addition": "(+instrumental)"
     }
