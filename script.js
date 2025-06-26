@@ -1044,13 +1044,17 @@ function checkWord() {
       if (entry.gender) {
         englishOutput += `<h2>Gender: ${entry.gender}</h2>`;
       }
+      if (entry.germanic) {
+        englishOutput += `<h2>Germanic word: ${entry.germanic}</h2>`;
+      }
+      if (entry.pronunciation) {
+        englishOutput += `<h2>Pronunciation: ${entry.pronunciation}</h2>`;
+      }
 
       outputDiv.innerHTML = `
         <h2>English word: </h2> 
         <h2>1: ${englishWord}</h2>
         ${englishOutput}
-        <h2>Germanic word: ${entry.germanic}</h2>
-        <h2>Pronunciation: ${entry.pronunciation}</h2>
         ${tableHTML}
       `;
 
