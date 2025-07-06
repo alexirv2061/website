@@ -2642,10 +2642,10 @@
       "plur_inst": "jēramiz"
     }
   },
-  "gift": {
+  "ᚷ": {
     "type": "noun",
     "germanic": "gebō",
-    "english1": "ᚷ",
+    "english1": "",
     "english2": "",
     "gender": "feminine",
     "pronunciation": "/ˈɣe.βɔː/",
@@ -3936,6 +3936,843 @@
 
       "sing_inst": "telifisō",
       "plur_inst": "telifisamiz"
+    }
+  },
+  "dream": {
+    "type": "noun",
+    "germanic": "draumaz",
+    "english1": "",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "/ˈdrɑu̯.mɑz/",
+    "options": {
+      "sing_nomi": "draumaz",
+      "plur_nomi": "draumōz, draumōs",
+
+      "sing_voc": "draum",
+      "plur_voc": "draumōz, draumōs",
+
+      "sing_acc": "draumą",
+      "plur_acc": "draumanz",
+
+      "sing_gen": "draumas, draumis",
+      "plur_gen": "draumǫ̂",
+
+      "sing_dat": "draumai",
+      "plur_dat": "draumamaz",
+
+      "sing_inst": "draumō",
+      "plur_inst": "draumamiz"
+    }
+  },
+  "bitch": {
+    "type": "noun",
+    "germanic": "bikjǭ",
+    "english1": "",
+    "english2": "",
+    "gender": "feminine",
+    "pronunciation": "/ˈbik.jɔ̃ː/",
+    "options": {
+      "sing_nomi": "bikjǭ",
+      "plur_nomi": "bikjōniz",
+
+      "sing_voc": "bikjǭ",
+      "plur_voc": "bikjōniz",
+
+      "sing_acc": "bikjōnų",
+      "plur_acc": "bikjōnunz",
+
+      "sing_gen": "bikjōniz",
+      "plur_gen": "bikjōnǫ̂",
+
+      "sing_dat": "bikjōni",
+      "plur_dat": "bikjōmaz",
+
+      "sing_inst": "bikjōnē",
+      "plur_inst": "bikjōmiz"
+    }
+  },
+  "wife": {
+    "type": "noun",
+    "germanic": "wībą",
+    "english1": "",
+    "english2": "",
+    "gender": "feminine",
+    "pronunciation": "/ˈwiː.βɑ̃/",
+    "options": {
+      "sing_nomi": "wībą",
+      "plur_nomi": "wībō",
+
+      "sing_voc": "wībą",
+      "plur_voc": "wībō",
+
+      "sing_acc": "wībą",
+      "plur_acc": "wībō",
+
+      "sing_gen": "wības, wībis",
+      "plur_gen": "wībǫ̂",
+
+      "sing_dat": "wībai",
+      "plur_dat": "wībamaz",
+
+      "sing_inst": "wībō",
+      "plur_inst": "wībamiz"
+    }
+  },
+  "hat": {
+    "type": "noun",
+    "germanic": "hattuz",
+    "english1": "",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "/ˈxɑt.tuz/",
+    "options": {
+      "sing_nomi": "hattuz",
+      "plur_nomi": "hattiwiz",
+
+      "sing_voc": "hattu",
+      "plur_voc": "hattiwiz",
+
+      "sing_acc": "hattų",
+      "plur_acc": "hattunz",
+
+      "sing_gen": "hattauz",
+      "plur_gen": "hattiwǫ̂",
+
+      "sing_dat": "hattiwi",
+      "plur_dat": "hattumaz",
+
+      "sing_inst": "hattū",
+      "plur_inst": "hattumiz"
+    }
+  },
+  "beer": {
+    "type": "noun",
+    "germanic": "beuzą",
+    "english1": "",
+    "english2": "",
+    "gender": "neuter",
+    "pronunciation": "/ˈbeu̯.zɑ̃/",
+    "options": {
+      "sing_nomi": "beuzą",
+      "plur_nomi": "beuzō",
+
+      "sing_voc": "beuzą",
+      "plur_voc": "beuzō",
+
+      "sing_acc": "beuzą",
+      "plur_acc": "beuzō",
+
+      "sing_gen": "beuzas, biuzis",
+      "plur_gen": "beuzǫ̂",
+
+      "sing_dat": "beuzai",
+      "plur_dat": "beuzamaz",
+
+      "sing_inst": "beuzō",
+      "plur_inst": "beuzamiz"
+    }
+  },
+  "ale": {
+    "type": "noun",
+    "germanic": "alu",
+    "english1": "",
+    "english2": "",
+    "gender": "neuter",
+    "pronunciation": "/ˈɑ.lu/",
+    "options": {
+      "sing_nomi": "alu",
+      "plur_nomi": "aluþ",
+
+      "sing_voc": "alu",
+      "plur_voc": "aluþ",
+
+      "sing_acc": "alu",
+      "plur_acc": "aluþ",
+
+      "sing_gen": "aluþiz",
+      "plur_gen": "aluþǫ̂",
+
+      "sing_dat": "aluþi",
+      "plur_dat": "aluþumaz",
+
+      "sing_inst": "aluþē",
+      "plur_inst": "aluþumiz"
+    }
+  },
+  "mead": {
+    "type": "noun",
+    "germanic": "meduz",
+    "english1": "",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "/ˈme.ðuz/",
+    "options": {
+      "sing_nomi": "meduz",
+      "plur_nomi": "midiwiz",
+
+      "sing_voc": "medu",
+      "plur_voc": "midiwiz",
+
+      "sing_acc": "medų",
+      "plur_acc": "medunz",
+
+      "sing_gen": "medauz",
+      "plur_gen": "midiwǫ̂",
+
+      "sing_dat": "midiwi",
+      "plur_dat": "medumaz",
+
+      "sing_inst": "medū",
+      "plur_inst": "medumiz"
+    }
+  },
+  "wine": {
+    "type": "noun",
+    "germanic": "wīną",
+    "english1": "",
+    "english2": "",
+    "gender": "neuter",
+    "pronunciation": "/ˈwiː.nɑ̃/",
+    "options": {
+      "sing_nomi": "wīną",
+      "plur_nomi": "wīnō",
+
+      "sing_voc": "wīną",
+      "plur_voc": "wīnō",
+
+      "sing_acc": "wīną",
+      "plur_acc": "wīnō",
+
+      "sing_gen": "wīnas, wīnis",
+      "plur_gen": "wīnǫ̂",
+
+      "sing_dat": "wīnai",
+      "plur_dat": "wīnamaz",
+
+      "sing_inst": "wīnō",
+      "plur_inst": "wīnamiz"
+    }
+  },
+  "gift": {
+    "type": "noun",
+    "germanic": "giftiz",
+    "english1": "",
+    "english2": "",
+    "gender": "feminine",
+    "pronunciation": "/ˈɣiɸ.tiz/",
+    "options": {
+      "sing_nomi": "giftiz",
+      "plur_nomi": "giftīz",
+
+      "sing_voc": "gifti",
+      "plur_voc": "giftīz",
+
+      "sing_acc": "giftį",
+      "plur_acc": "giftinz",
+
+      "sing_gen": "giftīz",
+      "plur_gen": "giftijǫ̂",
+
+      "sing_dat": "giftī",
+      "plur_dat": "giftimaz",
+
+      "sing_inst": "giftī",
+      "plur_inst": "giftimiz"
+    }
+  },
+  "path": {
+    "type": "noun",
+    "germanic": "paþaz",
+    "english1": "",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "/ˈpɑθɑz/",
+    "options": {
+      "sing_nomi": "paþaz",
+      "plur_nomi": "paþōz, paþōs",
+
+      "sing_voc": "paþ",
+      "plur_voc": "paþōz, paþōs",
+
+      "sing_acc": "paþą",
+      "plur_acc": "paþanz",
+
+      "sing_gen": "paþas, paþis",
+      "plur_gen": "paþǫ̂",
+
+      "sing_dat": "paþai",
+      "plur_dat": "paþamaz",
+
+      "sing_inst": "paþō",
+      "plur_inst": "paþamiz"
+    }
+  },
+  "bridegroom": {
+    "type": "noun",
+    "germanic": "brūdigumô",
+    "english1": "",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "/ˈbruː.ði.ˌɣu.mɔːː/",
+    "options": {
+      "sing_nomi": "brūdigumô",
+      "plur_nomi": "brūdigumaniz",
+
+      "sing_voc": "brūdigumô",
+      "plur_voc": "brūdigumaniz",
+
+      "sing_acc": "brūdigumanų",
+      "plur_acc": "brūdigumanunz",
+
+      "sing_gen": "brūdiguminiz",
+      "plur_gen": "brūdigumanǫ̂",
+
+      "sing_dat": "brūdigumini",
+      "plur_dat": "brūdigumammaz",
+
+      "sing_inst": "brūdiguminē",
+      "plur_inst": "brūdigumammiz"
+    }
+  },
+  "bride": {
+    "type": "noun",
+    "germanic": "brūdiz",
+    "english1": "",
+    "english2": "",
+    "gender": "feminine",
+    "pronunciation": "/ˈbruː.ðiz/",
+    "options": {
+      "sing_nomi": "brūdiz",
+      "plur_nomi": "brūdīz",
+
+      "sing_voc": "brūdi",
+      "plur_voc": "brūdīz",
+
+      "sing_acc": "brūdį",
+      "plur_acc": "brūdinz",
+
+      "sing_gen": "brūdīz",
+      "plur_gen": "brūdijǫ̂",
+
+      "sing_dat": "brūdī",
+      "plur_dat": "brūdimaz",
+
+      "sing_inst": "brūdī",
+      "plur_inst": "brūdimiz"
+    }
+  },
+  "wedding": {
+    "type": "noun",
+    "germanic": "brūdihlaupą",
+    "english1": "",
+    "english2": "",
+    "gender": "neuter",
+    "pronunciation": "/ˈbruː.ði.ˌxlɑu̯.pɑ̃/",
+    "options": {
+      "sing_nomi": "brūdihlaupą",
+      "plur_nomi": "brūdihlaupō",
+
+      "sing_voc": "brūdihlaupą",
+      "plur_voc": "brūdihlaupō",
+
+      "sing_acc": "brūdihlaupą",
+      "plur_acc": "brūdihlaupō",
+
+      "sing_gen": "brūdihlaupas, brūdihlaupis",
+      "plur_gen": "brūdihlaupǫ̂",
+
+      "sing_dat": "brūdihlaupai",
+      "plur_dat": "brūdihlaupamaz",
+
+      "sing_inst": "brūdihlaupō",
+      "plur_inst": "brūdihlaupamiz"
+    }
+  },
+  "fire": {
+    "type": "noun",
+    "germanic": "fōr",
+    "english1": "",
+    "english2": "",
+    "gender": "neuter",
+    "pronunciation": "/ˈɸɔːr/",
+    "options": {
+      "sing_nomi": "fōr",
+      "plur_nomi": "-",
+
+      "sing_voc": "fōr",
+      "plur_voc": "-",
+
+      "sing_acc": "fōr",
+      "plur_acc": "-",
+
+      "sing_gen": "funiz",
+      "plur_gen": "-",
+
+      "sing_dat": "funi",
+      "plur_dat": "-",
+
+      "sing_inst": "funē",
+      "plur_inst": "-"
+    }
+  },
+  "ice": {
+    "type": "noun",
+    "germanic": "īsą",
+    "english1": "",
+    "english2": "",
+    "gender": "neuter",
+    "pronunciation": "/ˈiː.sɑ̃/",
+    "options": {
+      "sing_nomi": "īsą",
+      "plur_nomi": "īsō",
+
+      "sing_voc": "īsą",
+      "plur_voc": "īsō",
+
+      "sing_acc": "īsą",
+      "plur_acc": "īsō",
+
+      "sing_gen": "īsas, īsis",
+      "plur_gen": "īsǫ̂",
+
+      "sing_dat": "īsai",
+      "plur_dat": "īsamaz",
+
+      "sing_inst": "īsō",
+      "plur_inst": "īsamiz"
+    }
+  },
+  "frost": {
+    "type": "noun",
+    "germanic": "frustaz",
+    "english1": "",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "/ˈɸrus.tɑz/",
+    "options": {
+      "sing_nomi": "frustaz",
+      "plur_nomi": "frustōz, frustōs",
+
+      "sing_voc": "frust",
+      "plur_voc": "frustōz, frustōs",
+
+      "sing_acc": "frustą",
+      "plur_acc": "frustanz",
+
+      "sing_gen": "frustas, frustis",
+      "plur_gen": "frustǫ̂",
+
+      "sing_dat": "frustai",
+      "plur_dat": "frustamaz",
+
+      "sing_inst": "frustō",
+      "plur_inst": "frustamiz"
+    }
+  },
+  "message": {
+    "type": "noun",
+    "germanic": "airundiją",
+    "english1": "errand",
+    "english2": "",
+    "gender": "neuter",
+    "pronunciation": "/ˈɑi̯.run.di.jɑ̃/",
+    "options": {
+      "sing_nomi": "airundiją",
+      "plur_nomi": "airundijō",
+
+      "sing_voc": "airundiją",
+      "plur_voc": "airundijō",
+
+      "sing_acc": "airundiją",
+      "plur_acc": "airundijō",
+
+      "sing_gen": "airundijas, airundīs",
+      "plur_gen": "airundijǫ̂",
+
+      "sing_dat": "airundijai",
+      "plur_dat": "airundijamaz",
+
+      "sing_inst": "airundijō",
+      "plur_inst": "airundijamiz"
+    }
+  },
+  "messenger": {
+    "type": "noun",
+    "germanic": "airuz",
+    "english1": "herald",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "/ˈɑi̯.ruz/",
+    "options": {
+      "sing_nomi": "airuz",
+      "plur_nomi": "airiwiz",
+
+      "sing_voc": "airu",
+      "plur_voc": "airiwiz",
+
+      "sing_acc": "airų",
+      "plur_acc": "airunz",
+
+      "sing_gen": "airauz",
+      "plur_gen": "airiwǫ̂",
+
+      "sing_dat": "airiwi",
+      "plur_dat": "airumaz",
+
+      "sing_inst": "airū",
+      "plur_inst": "airumiz"
+    }
+  },
+  "death": {
+    "type": "noun",
+    "germanic": "dauþuz",
+    "english1": "",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "/ˈdɑu̯.θuz/",
+    "options": {
+      "sing_nomi": "dauþuz",
+      "plur_nomi": "dauþiwiz",
+
+      "sing_voc": "dauþu",
+      "plur_voc": "dauþiwiz",
+
+      "sing_acc": "dauþų",
+      "plur_acc": "dauþunz",
+
+      "sing_gen": "dauþauz",
+      "plur_gen": "dauþiwǫ̂",
+
+      "sing_dat": "dauþiwi",
+      "plur_dat": "dauþumaz",
+
+      "sing_inst": "dauþū",
+      "plur_inst": "dauþumiz"
+    }
+  },
+  "daughter": {
+    "type": "noun",
+    "germanic": "duhtēr",
+    "english1": "",
+    "english2": "",
+    "gender": "feminine",
+    "pronunciation": "/ˈdux.tɛːr/",
+    "options": {
+      "sing_nomi": "duhtēr",
+      "plur_nomi": "duhtriz",
+
+      "sing_voc": "duhter",
+      "plur_voc": "duhtriz",
+
+      "sing_acc": "duhterų",
+      "plur_acc": "duhtrunz",
+
+      "sing_gen": "duhturz",
+      "plur_gen": "duhtrǫ̂",
+
+      "sing_dat": "duhtri",
+      "plur_dat": "duhtrumaz",
+
+      "sing_inst": "duhtrē",
+      "plur_inst": "duhtrumiz"
+    }
+  },
+  "son": {
+    "type": "noun",
+    "germanic": "sunuz",
+    "english1": "",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "/ˈsu.nuz/",
+    "options": {
+      "sing_nomi": "sunuz",
+      "plur_nomi": "suniwiz",
+
+      "sing_voc": "sunu",
+      "plur_voc": "suniwiz",
+
+      "sing_acc": "sunų",
+      "plur_acc": "sununz",
+
+      "sing_gen": "sunauz",
+      "plur_gen": "suniwǫ̂",
+
+      "sing_dat": "suniwi",
+      "plur_dat": "sunumaz",
+
+      "sing_inst": "sunū",
+      "plur_inst": "sunumiz"
+    }
+  },
+  "fodder": {
+    "type": "noun",
+    "germanic": "fōdrą",
+    "english1": "",
+    "english2": "",
+    "gender": "neuter",
+    "pronunciation": "/ˈɸɔːð.rɑ̃/",
+    "options": {
+      "sing_nomi": "fōdrą",
+      "plur_nomi": "fōdrō",
+
+      "sing_voc": "fōdrą",
+      "plur_voc": "fōdrō",
+
+      "sing_acc": "fōdrą",
+      "plur_acc": "fōdrō",
+
+      "sing_gen": "fōdras, fōdris",
+      "plur_gen": "fōdrǫ̂",
+
+      "sing_dat": "fōdrai",
+      "plur_dat": "fōdramaz",
+
+      "sing_inst": "fōdrō",
+      "plur_inst": "fōdramiz"
+    }
+  },
+  "food": {
+    "type": "noun",
+    "germanic": "fōdô",
+    "english1": "nourishment",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "/ˈɸɔːðɔːː/",
+    "options": {
+      "sing_nomi": "fōdô",
+      "plur_nomi": "fōdaniz",
+
+      "sing_voc": "fōdô",
+      "plur_voc": "fōdaniz",
+
+      "sing_acc": "fōdanų",
+      "plur_acc": "fōdanunz",
+
+      "sing_gen": "fōdiniz",
+      "plur_gen": "fōdanǫ̂",
+
+      "sing_dat": "fōdini",
+      "plur_dat": "fōdammaz",
+
+      "sing_inst": "fōdinē",
+      "plur_inst": "fōdammiz"
+    }
+  },
+  "ball": {
+    "type": "noun",
+    "germanic": "balluz",
+    "english1": "",
+    "english2": "",
+    "gender": "masculine",
+    "pronunciation": "/ˈbɑl.luz/",
+    "options": {
+      "sing_nomi": "balluz",
+      "plur_nomi": "balliwiz",
+
+      "sing_voc": "ballu",
+      "plur_voc": "balliwiz",
+
+      "sing_acc": "ballų",
+      "plur_acc": "ballunz",
+
+      "sing_gen": "ballauz",
+      "plur_gen": "balliwǫ̂",
+
+      "sing_dat": "balliwi",
+      "plur_dat": "ballumaz",
+
+      "sing_inst": "ballū",
+      "plur_inst": "ballumiz"
+    }
+  },
+  "bell": {
+    "type": "noun",
+    "germanic": "bellǭ",
+    "english1": "",
+    "english2": "",
+    "gender": "feminine",
+    "pronunciation": "/ˈbel.lɔ̃ː/",
+    "options": {
+      "sing_nomi": "bellǭ",
+      "plur_nomi": "bellōniz",
+
+      "sing_voc": "bellǭ",
+      "plur_voc": "bellōniz",
+
+      "sing_acc": "bellōnų",
+      "plur_acc": "bellōnunz",
+
+      "sing_gen": "bellōniz",
+      "plur_gen": "bellōnǫ̂",
+
+      "sing_dat": "bellōni",
+      "plur_dat": "bellōmaz",
+
+      "sing_inst": "bellōnē",
+      "plur_inst": "bellōmiz"
+    }
+  },
+  "line": {
+    "type": "noun",
+    "germanic": "līnǭ",
+    "english1": "",
+    "english2": "",
+    "gender": "feminine",
+    "pronunciation": "/ˈliː.nɔ̃ː/",
+    "options": {
+      "sing_nomi": "līnǭ",
+      "plur_nomi": "līnōniz",
+
+      "sing_voc": "līnǭ",
+      "plur_voc": "līnōniz",
+
+      "sing_acc": "līnōnų",
+      "plur_acc": "līnōnunz",
+
+      "sing_gen": "līnōniz",
+      "plur_gen": "līnōnǫ̂",
+
+      "sing_dat": "līnōni",
+      "plur_dat": "līnōmaz",
+
+      "sing_inst": "līnōnē",
+      "plur_inst": "līnōmiz"
+    }
+  },
+  "love": {
+    "type": "noun",
+    "germanic": "lubō",
+    "english1": "affection",
+    "english2": "",
+    "gender": "feminine",
+    "pronunciation": "/ˈlu.βɔː/",
+    "options": {
+      "sing_nomi": "lubō",
+      "plur_nomi": "lubôz",
+
+      "sing_voc": "lubō",
+      "plur_voc": "lubôz",
+
+      "sing_acc": "lubǭ",
+      "plur_acc": "lubōz",
+
+      "sing_gen": "lubōz",
+      "plur_gen": "lubǫ̂",
+
+      "sing_dat": "lubōi",
+      "plur_dat": "lubōmaz",
+
+      "sing_inst": "lubō",
+      "plur_inst": "lubōmiz"
+    }
+  },
+  "praise": {
+    "type": "noun",
+    "germanic": "lubą",
+    "english1": "",
+    "english2": "",
+    "gender": "neuter",
+    "pronunciation": "/ˈlu.βɑ̃/",
+    "options": {
+      "sing_nomi": "lubą",
+      "plur_nomi": "lubō",
+
+      "sing_voc": "lubą",
+      "plur_voc": "lubō",
+
+      "sing_acc": "lubą",
+      "plur_acc": "lubō",
+
+      "sing_gen": "lubas, lubis",
+      "plur_gen": "lubǫ̂",
+
+      "sing_dat": "lubai",
+      "plur_dat": "lubamaz",
+
+      "sing_inst": "lubō",
+      "plur_inst": "lubamiz"
+    }
+  },
+  "question": {
+    "type": "noun",
+    "germanic": "frēgō",
+    "english1": "",
+    "english2": "",
+    "gender": "feminine",
+    "pronunciation": "/ˈɸrɛː.ɣɔː/",
+    "options": {
+      "sing_nomi": "frēgō",
+      "plur_nomi": "frēgôz",
+
+      "sing_voc": "frēgō",
+      "plur_voc": "frēgôz",
+
+      "sing_acc": "frēgǭ",
+      "plur_acc": "frēgōz",
+
+      "sing_gen": "frēgōz",
+      "plur_gen": "frēgǫ̂",
+
+      "sing_dat": "frēgōi",
+      "plur_dat": "frēgōmaz",
+
+      "sing_inst": "frēgō",
+      "plur_inst": "frēgōmiz"
+    }
+  },
+  "strength": {
+    "type": "noun",
+    "germanic": "kraftuz",
+    "english1": "power",
+    "english2": "",
+    "gender": "feminine",
+    "pronunciation": "/ˈkrɑɸ.tuz/",
+    "options": {
+      "sing_nomi": "kraftuz",
+      "plur_nomi": "kraftiwiz",
+
+      "sing_voc": "kraftu",
+      "plur_voc": "kraftiwiz",
+
+      "sing_acc": "kraftų",
+      "plur_acc": "kraftunz",
+
+      "sing_gen": "kraftauz",
+      "plur_gen": "kraftiwǫ̂",
+
+      "sing_dat": "kraftiwi",
+      "plur_dat": "kraftumaz",
+
+      "sing_inst": "kraftū",
+      "plur_inst": "kraftumiz"
+    }
+  },
+  "might": {
+    "type": "noun",
+    "germanic": "mahtiz",
+    "english1": "",
+    "english2": "",
+    "gender": "feminine",
+    "pronunciation": "/ˈmɑx.tiz/",
+    "options": {
+      "sing_nomi": "mahtiz",
+      "plur_nomi": "mahtīz",
+
+      "sing_voc": "mahti",
+      "plur_voc": "mahtīz",
+
+      "sing_acc": "mahtį",
+      "plur_acc": "mahtinz",
+
+      "sing_gen": "mahtīz",
+      "plur_gen": "mahtijǫ̂",
+
+      "sing_dat": "mahtī",
+      "plur_dat": "mahtimaz",
+
+      "sing_inst": "mahtī",
+      "plur_inst": "mahtimiz"
     }
   },
   "": {
