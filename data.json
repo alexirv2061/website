@@ -9039,6 +9039,2190 @@
       "past_participle": "fukkōdaz"
     }
   },
+  "to be able to": {
+    "type": "verb",
+    "germanic": "kunnaną",
+    "english1": "to know how",
+    "english2": "",
+    "pronunciation": "/ˈkun.nɑ.nɑ̃/",
+    "options": {
+      "act_pres_ind_1st_sing": "kann",
+      "act_pres_sub_1st_sing": "kunnį̄",
+      "act_pres_imp_1st_sing": "-",
+      
+      "act_pres_ind_2nd_sing": "kannt",
+      "act_pres_sub_2nd_sing": "kunnīz",
+      "act_pres_imp_2nd_sing": "—",
+      
+      "act_pres_ind_3rd_sing": "kann",
+      "act_pres_sub_3rd_sing": "kunnī",
+      "act_pres_imp_3rd_sing": "—",
+      
+      "act_pres_ind_1st_dual": "kunnū",
+      "act_pres_sub_1st_dual": "kunnīw",
+      "act_pres_imp_1st_dual": "-",
+      
+      "act_pres_ind_2nd_dual": "kunnudiz",
+      "act_pres_sub_2nd_dual": "kunnīdiz",
+      "act_pres_imp_2nd_dual": "—",
+      
+      "act_pres_ind_1st_plural": "kunnum",
+      "act_pres_sub_1st_plural": "kunnīm",
+      "act_pres_imp_1st_plural": "-",
+      
+      "act_pres_ind_2nd_plural": "kunnud",
+      "act_pres_sub_2nd_plural": "kunnīd",
+      "act_pres_imp_2nd_plural": "—",
+      
+      "act_pres_ind_3rd_plural": "kunnun",
+      "act_pres_sub_3rd_plural": "kunnīn",
+      "act_pres_imp_3rd_plural": "—",
+      
+      "pass_pres_ind_1st_sing": "—",
+      "pass_pres_sub_1st_sing": "?",
+      
+      "pass_pres_ind_2nd_sing": "—",
+      "pass_pres_sub_2nd_sing": "—",
+      
+      "pass_pres_ind_3rd_sing": "—",
+      "pass_pres_sub_3rd_sing": "—",
+      
+      "pass_pres_ind_1st_dual": "-",
+      "pass_pres_sub_1st_dual": "-",
+      
+      "pass_pres_ind_2nd_dual": "-",
+      "pass_pres_sub_2nd_dual": "-",
+      
+      "pass_pres_ind_1st_plural": "—",
+      "pass_pres_sub_1st_plural": "—",
+      
+      "pass_pres_ind_2nd_plural": "—",
+      "pass_pres_sub_2nd_plural": "—",
+      
+      "pass_pres_ind_3rd_plural": "—",
+      "pass_pres_sub_3rd_plural": "—",
+      
+      "act_past_ind_1st_sing": "kunþǭ",
+      "act_past_sub_1st_sing": "kunþēdį̄",
+      
+      "act_past_ind_2nd_sing": "kunþēz",
+      "act_past_sub_2nd_sing": "kunþēdīz",
+      
+      "act_past_ind_3rd_sing": "kunþē",
+      "act_past_sub_3rd_sing": "kunþēdī",
+      
+      "act_past_ind_1st_dual": "kunþēdū",
+      "act_past_sub_1st_dual": "kunþēdīw",
+      
+      "act_past_ind_2nd_dual": "kunþēdudiz",
+      "act_past_sub_2nd_dual": "kunþēdīdiz",
+      
+      "act_past_ind_1st_plural": "kunþēdum",
+      "act_past_sub_1st_plural": "kunþēdīm",
+      
+      "act_past_ind_2nd_plural": "kunþēdud",
+      "act_past_sub_2nd_plural": "kunþēdīd",
+      
+      "act_past_ind_3rd_plural": "kunþēdun",
+      "act_past_sub_3rd_plural": "kunþēdīn",
+      
+      "present_participle": "kunnandz",
+      "past_participle": "kunþaz"
+    }
+  },
+  "to worry": {
+    "type": "verb",
+    "germanic": "surgāną",
+    "english1": "to be concerned",
+    "english2": "",
+    "pronunciation": "",
+    "options": {
+      "act_pres_ind_1st_sing": "surgō",
+      "act_pres_sub_1st_sing": "?",
+      "act_pres_imp_1st_sing": "-",
+      
+      "act_pres_ind_2nd_sing": "surgaisi",
+      "act_pres_sub_2nd_sing": "?",
+      "act_pres_imp_2nd_sing": "surgai",
+      
+      "act_pres_ind_3rd_sing": "surgaiþi",
+      "act_pres_sub_3rd_sing": "?",
+      "act_pres_imp_3rd_sing": "surgāþau",
+      
+      "act_pres_ind_1st_dual": "surgōs",
+      "act_pres_sub_1st_dual": "?",
+      "act_pres_imp_1st_dual": "-",
+      
+      "act_pres_ind_2nd_dual": "surgāþiz",
+      "act_pres_sub_2nd_dual": "?",
+      "act_pres_imp_2nd_dual": "surgāþiz",
+      
+      "act_pres_ind_1st_plural": "surgāmaz",
+      "act_pres_sub_1st_plural": "?",
+      "act_pres_imp_1st_plural": "-",
+      
+      "act_pres_ind_2nd_plural": "surgaiþ",
+      "act_pres_sub_2nd_plural": "?",
+      "act_pres_imp_2nd_plural": "surgaiþ",
+      
+      "act_pres_ind_3rd_plural": "surgānþi",
+      "act_pres_sub_3rd_plural": "?",
+      "act_pres_imp_3rd_plural": "surgānþau",
+      
+      "pass_pres_ind_1st_sing": "?",
+      "pass_pres_sub_1st_sing": "?",
+      
+      "pass_pres_ind_2nd_sing": "surgāsai",
+      "pass_pres_sub_2nd_sing": "?",
+      
+      "pass_pres_ind_3rd_sing": "surgāþai",
+      "pass_pres_sub_3rd_sing": "?",
+      
+      "pass_pres_ind_1st_dual": "-",
+      "pass_pres_sub_1st_dual": "-",
+      
+      "pass_pres_ind_2nd_dual": "-",
+      "pass_pres_sub_2nd_dual": "-",
+      
+      "pass_pres_ind_1st_plural": "surgānþai",
+      "pass_pres_sub_1st_plural": "?",
+      
+      "pass_pres_ind_2nd_plural": "surgānþai",
+      "pass_pres_sub_2nd_plural": "?",
+      
+      "pass_pres_ind_3rd_plural": "surgānþai",
+      "pass_pres_sub_3rd_plural": "?",
+      
+      "act_past_ind_1st_sing": "surgadǭ",
+      "act_past_sub_1st_sing": "surgadēdį̄",
+      
+      "act_past_ind_2nd_sing": "surgadēz",
+      "act_past_sub_2nd_sing": "surgadēdīz",
+      
+      "act_past_ind_3rd_sing": "surgadē",
+      "act_past_sub_3rd_sing": "surgadēdī",
+      
+      "act_past_ind_1st_dual": "surgadēdū",
+      "act_past_sub_1st_dual": "surgadēdīw",
+      
+      "act_past_ind_2nd_dual": "surgadēdudiz",
+      "act_past_sub_2nd_dual": "surgadēdīdiz",
+      
+      "act_past_ind_1st_plural": "surgadēdum",
+      "act_past_sub_1st_plural": "surgadēdīm",
+      
+      "act_past_ind_2nd_plural": "surgadēdud",
+      "act_past_sub_2nd_plural": "surgadēdīd",
+      
+      "act_past_ind_3rd_plural": "surgadēdun",
+      "act_past_sub_3rd_plural": "surgadēdīn",
+      
+      "present_participle": "surgāndz",
+      "past_participle": "surgadaz"
+    }
+  },
+  "to buy": {
+    "type": "verb",
+    "germanic": "kaupōną",
+    "english1": "to trade",
+    "english2": "",
+    "pronunciation": "/ˈkɑu̯.pɔː.nɑ̃/",
+    "options": {
+      "act_pres_ind_1st_sing": "kaupō",
+      "act_pres_sub_1st_sing": "kaupǭ",
+      "act_pres_imp_1st_sing": "-",
+      
+      "act_pres_ind_2nd_sing": "kaupōsi",
+      "act_pres_sub_2nd_sing": "kaupōs",
+      "act_pres_imp_2nd_sing": "kaupō",
+      
+      "act_pres_ind_3rd_sing": "kaupōþi",
+      "act_pres_sub_3rd_sing": "kaupō",
+      "act_pres_imp_3rd_sing": "kaupōþau",
+      
+      "act_pres_ind_1st_dual": "kaupōs",
+      "act_pres_sub_1st_dual": "kaupōw",
+      "act_pres_imp_1st_dual": "-",
+      
+      "act_pres_ind_2nd_dual": "kaupōþiz",
+      "act_pres_sub_2nd_dual": "kaupōþiz",
+      "act_pres_imp_2nd_dual": "kaupōþiz",
+      
+      "act_pres_ind_1st_plural": "kaupōmaz",
+      "act_pres_sub_1st_plural": "kaupōm",
+      "act_pres_imp_1st_plural": "-",
+      
+      "act_pres_ind_2nd_plural": "kaupōþ",
+      "act_pres_sub_2nd_plural": "kaupōþ",
+      "act_pres_imp_2nd_plural": "kaupōþ",
+      
+      "act_pres_ind_3rd_plural": "kaupōnþi",
+      "act_pres_sub_3rd_plural": "kaupōn",
+      "act_pres_imp_3rd_plural": "kaupōnþau",
+      
+      "pass_pres_ind_1st_sing": "kaupōi",
+      "pass_pres_sub_1st_sing": "?",
+      
+      "pass_pres_ind_2nd_sing": "kaupōsai",
+      "pass_pres_sub_2nd_sing": "kaupōsau",
+      
+      "pass_pres_ind_3rd_sing": "kaupōþai",
+      "pass_pres_sub_3rd_sing": "kaupōþau",
+      
+      "pass_pres_ind_1st_dual": "-",
+      "pass_pres_sub_1st_dual": "-",
+      
+      "pass_pres_ind_2nd_dual": "-",
+      "pass_pres_sub_2nd_dual": "-",
+      
+      "pass_pres_ind_1st_plural": "kaupōnþai",
+      "pass_pres_sub_1st_plural": "kaupōnþau",
+      
+      "pass_pres_ind_2nd_plural": "kaupōnþai",
+      "pass_pres_sub_2nd_plural": "kaupōnþau",
+      
+      "pass_pres_ind_3rd_plural": "kaupōnþai",
+      "pass_pres_sub_3rd_plural": "kaupōnþau",
+      
+      "act_past_ind_1st_sing": "kaupōdǭ",
+      "act_past_sub_1st_sing": "kaupōdēdį̄",
+      
+      "act_past_ind_2nd_sing": "kaupōdēz",
+      "act_past_sub_2nd_sing": "kaupōdēdīz",
+      
+      "act_past_ind_3rd_sing": "kaupōdē",
+      "act_past_sub_3rd_sing": "kaupōdēdī",
+      
+      "act_past_ind_1st_dual": "kaupōdēdū",
+      "act_past_sub_1st_dual": "kaupōdēdīw",
+      
+      "act_past_ind_2nd_dual": "kaupōdēdudiz",
+      "act_past_sub_2nd_dual": "kaupōdēdīdiz",
+      
+      "act_past_ind_1st_plural": "kaupōdēdum",
+      "act_past_sub_1st_plural": "kaupōdēdīm",
+      
+      "act_past_ind_2nd_plural": "kaupōdēdud",
+      "act_past_sub_2nd_plural": "kaupōdēdīd",
+      
+      "act_past_ind_3rd_plural": "kaupōdēdun",
+      "act_past_sub_3rd_plural": "kaupōdēdīn",
+      
+      "present_participle": "kaupōndz",
+      "past_participle": "kaupōdaz"
+    }
+  },
+  "to use": {
+    "type": "verb",
+    "germanic": "brūkaną",
+    "english1": "to make use of",
+    "english2": "",
+    "pronunciation": "/ˈbruː.kɑ.nɑ̃/",
+    "options": {
+      "act_pres_ind_1st_sing": "brūkō",
+      "act_pres_sub_1st_sing": "brūkaų",
+      "act_pres_imp_1st_sing": "-",
+      
+      "act_pres_ind_2nd_sing": "brūkizi",
+      "act_pres_sub_2nd_sing": "brūkaiz",
+      "act_pres_imp_2nd_sing": "brūk",
+      
+      "act_pres_ind_3rd_sing": "brūkidi",
+      "act_pres_sub_3rd_sing": "brūkai",
+      "act_pres_imp_3rd_sing": "brūkadau",
+      
+      "act_pres_ind_1st_dual": "brūkōz",
+      "act_pres_sub_1st_dual": "brūkaiw",
+      "act_pres_imp_1st_dual": "-",
+      
+      "act_pres_ind_2nd_dual": "brūkadiz",
+      "act_pres_sub_2nd_dual": "brūkaidiz",
+      "act_pres_imp_2nd_dual": "brūkadiz",
+      
+      "act_pres_ind_1st_plural": "brūkamaz",
+      "act_pres_sub_1st_plural": "brūkaim",
+      "act_pres_imp_1st_plural": "-",
+      
+      "act_pres_ind_2nd_plural": "brūkid",
+      "act_pres_sub_2nd_plural": "brūkaid",
+      "act_pres_imp_2nd_plural": "brūkid",
+      
+      "act_pres_ind_3rd_plural": "brūkandi",
+      "act_pres_sub_3rd_plural": "brūkain",
+      "act_pres_imp_3rd_plural": "brūkandau",
+      
+      "pass_pres_ind_1st_sing": "brūkai",
+      "pass_pres_sub_1st_sing": "?",
+      
+      "pass_pres_ind_2nd_sing": "brūkazai",
+      "pass_pres_sub_2nd_sing": "brūkaizau",
+      
+      "pass_pres_ind_3rd_sing": "brūkadai",
+      "pass_pres_sub_3rd_sing": "brūkaidau",
+      
+      "pass_pres_ind_1st_dual": "-",
+      "pass_pres_sub_1st_dual": "-",
+      
+      "pass_pres_ind_2nd_dual": "-",
+      "pass_pres_sub_2nd_dual": "-",
+      
+      "pass_pres_ind_1st_plural": "brūkandai",
+      "pass_pres_sub_1st_plural": "brūkaindau",
+      
+      "pass_pres_ind_2nd_plural": "brūkandai",
+      "pass_pres_sub_2nd_plural": "brūkaindau",
+      
+      "pass_pres_ind_3rd_plural": "brūkandai",
+      "pass_pres_sub_3rd_plural": "brūkaindau",
+      
+      "act_past_ind_1st_sing": "brūhtǭ",
+      "act_past_sub_1st_sing": "brūhtēdį̄",
+      
+      "act_past_ind_2nd_sing": "brūhtēz",
+      "act_past_sub_2nd_sing": "brūhtēdīz",
+      
+      "act_past_ind_3rd_sing": "brūhtē",
+      "act_past_sub_3rd_sing": "brūhtēdī",
+      
+      "act_past_ind_1st_dual": "brūhtēdū",
+      "act_past_sub_1st_dual": "brūhtēdīw",
+      
+      "act_past_ind_2nd_dual": "brūhtēdudiz",
+      "act_past_sub_2nd_dual": "brūhtēdīdiz",
+      
+      "act_past_ind_1st_plural": "brūhtēdum",
+      "act_past_sub_1st_plural": "brūhtēdīm",
+      
+      "act_past_ind_2nd_plural": "brūhtēdud",
+      "act_past_sub_2nd_plural": "brūhtēdīd",
+      
+      "act_past_ind_3rd_plural": "brūhtēdun",
+      "act_past_sub_3rd_plural": "brūhtēdīn",
+      
+      "present_participle": "brūkandz",
+      "past_participle": "brūhtaz"
+    }
+  },
+  "to thank": {
+    "type": "verb",
+    "germanic": "þankōną",
+    "english1": "",
+    "english2": "",
+    "pronunciation": "/ˈθɑŋ.kɔː.nɑ̃/",
+    "options": {
+      "act_pres_ind_1st_sing": "þankō",
+      "act_pres_sub_1st_sing": "þankǭ",
+      "act_pres_imp_1st_sing": "-",
+      
+      "act_pres_ind_2nd_sing": "þankōsi",
+      "act_pres_sub_2nd_sing": "þankōs",
+      "act_pres_imp_2nd_sing": "þankō",
+      
+      "act_pres_ind_3rd_sing": "þankōþi",
+      "act_pres_sub_3rd_sing": "þankō",
+      "act_pres_imp_3rd_sing": "þankōþau",
+      
+      "act_pres_ind_1st_dual": "þankōs",
+      "act_pres_sub_1st_dual": "þankōw",
+      "act_pres_imp_1st_dual": "-",
+      
+      "act_pres_ind_2nd_dual": "þankōþiz",
+      "act_pres_sub_2nd_dual": "þankōþiz",
+      "act_pres_imp_2nd_dual": "þankōþiz",
+      
+      "act_pres_ind_1st_plural": "þankōmaz",
+      "act_pres_sub_1st_plural": "þankōm",
+      "act_pres_imp_1st_plural": "-",
+      
+      "act_pres_ind_2nd_plural": "þankōþ",
+      "act_pres_sub_2nd_plural": "þankōþ",
+      "act_pres_imp_2nd_plural": "þankōþ",
+      
+      "act_pres_ind_3rd_plural": "þankōnþi",
+      "act_pres_sub_3rd_plural": "þankōn",
+      "act_pres_imp_3rd_plural": "þankōnþau",
+      
+      "pass_pres_ind_1st_sing": "þankōi",
+      "pass_pres_sub_1st_sing": "?",
+      
+      "pass_pres_ind_2nd_sing": "þankōsai",
+      "pass_pres_sub_2nd_sing": "þankōsau",
+      
+      "pass_pres_ind_3rd_sing": "þankōþai",
+      "pass_pres_sub_3rd_sing": "þankōþau",
+      
+      "pass_pres_ind_1st_dual": "-",
+      "pass_pres_sub_1st_dual": "-",
+      
+      "pass_pres_ind_2nd_dual": "-",
+      "pass_pres_sub_2nd_dual": "-",
+      
+      "pass_pres_ind_1st_plural": "þankōnþai",
+      "pass_pres_sub_1st_plural": "þankōnþau",
+      
+      "pass_pres_ind_2nd_plural": "þankōnþai",
+      "pass_pres_sub_2nd_plural": "þankōnþau",
+      
+      "pass_pres_ind_3rd_plural": "þankōnþai",
+      "pass_pres_sub_3rd_plural": "þankōnþau",
+      
+      "act_past_ind_1st_sing": "þankōdǭ",
+      "act_past_sub_1st_sing": "þankōdēdį̄",
+      
+      "act_past_ind_2nd_sing": "þankōdēz",
+      "act_past_sub_2nd_sing": "þankōdēdīz",
+      
+      "act_past_ind_3rd_sing": "þankōdē",
+      "act_past_sub_3rd_sing": "þankōdēdī",
+      
+      "act_past_ind_1st_dual": "þankōdēdū",
+      "act_past_sub_1st_dual": "þankōdēdīw",
+      
+      "act_past_ind_2nd_dual": "þankōdēdudiz",
+      "act_past_sub_2nd_dual": "þankōdēdīdiz",
+      
+      "act_past_ind_1st_plural": "þankōdēdum",
+      "act_past_sub_1st_plural": "þankōdēdīm",
+      
+      "act_past_ind_2nd_plural": "þankōdēdud",
+      "act_past_sub_2nd_plural": "þankōdēdīd",
+      
+      "act_past_ind_3rd_plural": "þankōdēdun",
+      "act_past_sub_3rd_plural": "þankōdēdīn",
+      
+      "present_participle": "þankōndz",
+      "past_participle": "þankōdaz"
+    }
+  },
+  "to listen": {
+    "type": "verb",
+    "germanic": "hliuþijaną",
+    "english1": "",
+    "english2": "",
+    "pronunciation": "/ˈxliu̯.θi.jɑ.nɑ̃/",
+    "options": {
+      "act_pres_ind_1st_sing": "hliuþijō",
+      "act_pres_sub_1st_sing": "hliuþijaų",
+      "act_pres_imp_1st_sing": "-",
+      
+      "act_pres_ind_2nd_sing": "hliuþīsi",
+      "act_pres_sub_2nd_sing": "hliuþijais",
+      "act_pres_imp_2nd_sing": "hliuþī",
+      
+      "act_pres_ind_3rd_sing": "hliuþīþi",
+      "act_pres_sub_3rd_sing": "hliuþijai",
+      "act_pres_imp_3rd_sing": "hliuþijaþau",
+      
+      "act_pres_ind_1st_dual": "hliuþijōs",
+      "act_pres_sub_1st_dual": "hliuþijaiw",
+      "act_pres_imp_1st_dual": "-",
+      
+      "act_pres_ind_2nd_dual": "hliuþijaþiz",
+      "act_pres_sub_2nd_dual": "hliuþijaiþiz",
+      "act_pres_imp_2nd_dual": "hliuþijaþiz",
+      
+      "act_pres_ind_1st_plural": "hliuþijamaz",
+      "act_pres_sub_1st_plural": "hliuþijaim",
+      "act_pres_imp_1st_plural": "-",
+      
+      "act_pres_ind_2nd_plural": "hliuþīþ",
+      "act_pres_sub_2nd_plural": "hliuþijaiþ",
+      "act_pres_imp_2nd_plural": "hliuþīþ",
+      
+      "act_pres_ind_3rd_plural": "hliuþijanþi",
+      "act_pres_sub_3rd_plural": "hliuþijain",
+      "act_pres_imp_3rd_plural": "hliuþijanþau",
+      
+      "pass_pres_ind_1st_sing": "hliuþijai",
+      "pass_pres_sub_1st_sing": "?",
+      
+      "pass_pres_ind_2nd_sing": "hliuþijasai",
+      "pass_pres_sub_2nd_sing": "hliuþijaisau",
+      
+      "pass_pres_ind_3rd_sing": "hliuþijaþai",
+      "pass_pres_sub_3rd_sing": "hliuþijaiþau",
+      
+      "pass_pres_ind_1st_dual": "-",
+      "pass_pres_sub_1st_dual": "-",
+      
+      "pass_pres_ind_2nd_dual": "-",
+      "pass_pres_sub_2nd_dual": "-",
+      
+      "pass_pres_ind_1st_plural": "hliuþijanþai",
+      "pass_pres_sub_1st_plural": "hliuþijainþau",
+      
+      "pass_pres_ind_2nd_plural": "hliuþijanþai",
+      "pass_pres_sub_2nd_plural": "hliuþijainþau",
+      
+      "pass_pres_ind_3rd_plural": "hliuþijanþai",
+      "pass_pres_sub_3rd_plural": "hliuþijainþau",
+      
+      "act_past_ind_1st_sing": "hliuþidǭ",
+      "act_past_sub_1st_sing": "hliuþidēdį̄",
+      
+      "act_past_ind_2nd_sing": "hliuþidēz",
+      "act_past_sub_2nd_sing": "hliuþidēdīz",
+      
+      "act_past_ind_3rd_sing": "hliuþidē",
+      "act_past_sub_3rd_sing": "hliuþidēdī",
+      
+      "act_past_ind_1st_dual": "hliuþidēdū",
+      "act_past_sub_1st_dual": "hliuþidēdīw",
+      
+      "act_past_ind_2nd_dual": "hliuþidēdudiz",
+      "act_past_sub_2nd_dual": "hliuþidēdīdiz",
+      
+      "act_past_ind_1st_plural": "hliuþidēdum",
+      "act_past_sub_1st_plural": "hliuþidēdīm",
+      
+      "act_past_ind_2nd_plural": "hliuþidēdud",
+      "act_past_sub_2nd_plural": "hliuþidēdīd",
+      
+      "act_past_ind_3rd_plural": "hliuþidēdun",
+      "act_past_sub_3rd_plural": "hliuþidēdīn",
+      
+      "present_participle": "hliuþijandz",
+      "past_participle": "hliuþidaz"
+    }
+  },
+  "to meet": {
+    "type": "verb",
+    "germanic": "mōtijaną",
+    "english1": "to encounter",
+    "english2": "",
+    "pronunciation": "/ˈmɔː.ti.jɑ.nɑ̃/",
+    "options": {
+      "act_pres_ind_1st_sing": "mōtijō",
+      "act_pres_sub_1st_sing": "mōtijaų",
+      "act_pres_imp_1st_sing": "-",
+      
+      "act_pres_ind_2nd_sing": "mōtīsi",
+      "act_pres_sub_2nd_sing": "mōtijais",
+      "act_pres_imp_2nd_sing": "mōtī",
+      
+      "act_pres_ind_3rd_sing": "mōtīþi",
+      "act_pres_sub_3rd_sing": "mōtijai",
+      "act_pres_imp_3rd_sing": "mōtijaþau",
+      
+      "act_pres_ind_1st_dual": "mōtijōs",
+      "act_pres_sub_1st_dual": "mōtijaiw",
+      "act_pres_imp_1st_dual": "-",
+      
+      "act_pres_ind_2nd_dual": "mōtijaþiz",
+      "act_pres_sub_2nd_dual": "mōtijaiþiz",
+      "act_pres_imp_2nd_dual": "mōtijaþiz",
+      
+      "act_pres_ind_1st_plural": "mōtijamaz",
+      "act_pres_sub_1st_plural": "mōtijaim",
+      "act_pres_imp_1st_plural": "-",
+      
+      "act_pres_ind_2nd_plural": "mōtīþ",
+      "act_pres_sub_2nd_plural": "mōtijaiþ",
+      "act_pres_imp_2nd_plural": "mōtīþ",
+      
+      "act_pres_ind_3rd_plural": "mōtijanþi",
+      "act_pres_sub_3rd_plural": "mōtijain",
+      "act_pres_imp_3rd_plural": "mōtijanþau",
+      
+      "pass_pres_ind_1st_sing": "mōtijai",
+      "pass_pres_sub_1st_sing": "?",
+      
+      "pass_pres_ind_2nd_sing": "mōtijasai",
+      "pass_pres_sub_2nd_sing": "mōtijaisau",
+      
+      "pass_pres_ind_3rd_sing": "mōtijaþai",
+      "pass_pres_sub_3rd_sing": "mōtijaiþau",
+      
+      "pass_pres_ind_1st_dual": "-",
+      "pass_pres_sub_1st_dual": "-",
+      
+      "pass_pres_ind_2nd_dual": "-",
+      "pass_pres_sub_2nd_dual": "-",
+      
+      "pass_pres_ind_1st_plural": "mōtijanþai",
+      "pass_pres_sub_1st_plural": "mōtijainþau",
+      
+      "pass_pres_ind_2nd_plural": "mōtijanþai",
+      "pass_pres_sub_2nd_plural": "mōtijainþau",
+      
+      "pass_pres_ind_3rd_plural": "mōtijanþai",
+      "pass_pres_sub_3rd_plural": "mōtijainþau",
+      
+      "act_past_ind_1st_sing": "mōtidǭ",
+      "act_past_sub_1st_sing": "mōtidēdį̄",
+      
+      "act_past_ind_2nd_sing": "mōtidēz",
+      "act_past_sub_2nd_sing": "mōtidēdīz",
+      
+      "act_past_ind_3rd_sing": "mōtidē",
+      "act_past_sub_3rd_sing": "mōtidēdī",
+      
+      "act_past_ind_1st_dual": "mōtidēdū",
+      "act_past_sub_1st_dual": "mōtidēdīw",
+      
+      "act_past_ind_2nd_dual": "mōtidēdudiz",
+      "act_past_sub_2nd_dual": "mōtidēdīdiz",
+      
+      "act_past_ind_1st_plural": "mōtidēdum",
+      "act_past_sub_1st_plural": "mōtidēdīm",
+      
+      "act_past_ind_2nd_plural": "mōtidēdud",
+      "act_past_sub_2nd_plural": "mōtidēdīd",
+      
+      "act_past_ind_3rd_plural": "mōtidēdun",
+      "act_past_sub_3rd_plural": "mōtidēdīn",
+      
+      "present_participle": "mōtijandz",
+      "past_participle": "mōtidaz"
+    }
+  },
+  "to play": {
+    "type": "verb",
+    "germanic": "gamanōną",
+    "english1": "to have fun",
+    "english2": "",
+    "pronunciation": "/ˈɣɑ.mɑ.nɔː.nɑ̃/",
+    "options": {
+      "act_pres_ind_1st_sing": "gamanō",
+      "act_pres_sub_1st_sing": "gamanǭ",
+      "act_pres_imp_1st_sing": "-",
+      
+      "act_pres_ind_2nd_sing": "gamanōsi",
+      "act_pres_sub_2nd_sing": "gamanōs",
+      "act_pres_imp_2nd_sing": "gamanō",
+      
+      "act_pres_ind_3rd_sing": "gamanōþi",
+      "act_pres_sub_3rd_sing": "gamanō",
+      "act_pres_imp_3rd_sing": "gamanōþau",
+      
+      "act_pres_ind_1st_dual": "gamanōs",
+      "act_pres_sub_1st_dual": "gamanōw",
+      "act_pres_imp_1st_dual": "-",
+      
+      "act_pres_ind_2nd_dual": "gamanōþiz",
+      "act_pres_sub_2nd_dual": "gamanōþiz",
+      "act_pres_imp_2nd_dual": "gamanōþiz",
+      
+      "act_pres_ind_1st_plural": "gamanōmaz",
+      "act_pres_sub_1st_plural": "gamanōm",
+      "act_pres_imp_1st_plural": "-",
+      
+      "act_pres_ind_2nd_plural": "gamanōþ",
+      "act_pres_sub_2nd_plural": "gamanōþ",
+      "act_pres_imp_2nd_plural": "gamanōþ",
+      
+      "act_pres_ind_3rd_plural": "gamanōnþi",
+      "act_pres_sub_3rd_plural": "gamanōn",
+      "act_pres_imp_3rd_plural": "gamanōnþau",
+      
+      "pass_pres_ind_1st_sing": "gamanōi",
+      "pass_pres_sub_1st_sing": "?",
+      
+      "pass_pres_ind_2nd_sing": "gamanōsai",
+      "pass_pres_sub_2nd_sing": "gamanōsau",
+      
+      "pass_pres_ind_3rd_sing": "gamanōþai",
+      "pass_pres_sub_3rd_sing": "gamanōþau",
+      
+      "pass_pres_ind_1st_dual": "-",
+      "pass_pres_sub_1st_dual": "-",
+      
+      "pass_pres_ind_2nd_dual": "-",
+      "pass_pres_sub_2nd_dual": "-",
+      
+      "pass_pres_ind_1st_plural": "gamanōnþai",
+      "pass_pres_sub_1st_plural": "gamanōnþau",
+      
+      "pass_pres_ind_2nd_plural": "gamanōnþai",
+      "pass_pres_sub_2nd_plural": "gamanōnþau",
+      
+      "pass_pres_ind_3rd_plural": "gamanōnþai",
+      "pass_pres_sub_3rd_plural": "gamanōnþau",
+      
+      "act_past_ind_1st_sing": "gamanōdǭ",
+      "act_past_sub_1st_sing": "gamanōdēdį̄",
+      
+      "act_past_ind_2nd_sing": "gamanōdēz",
+      "act_past_sub_2nd_sing": "gamanōdēdīz",
+      
+      "act_past_ind_3rd_sing": "gamanōdē",
+      "act_past_sub_3rd_sing": "gamanōdēdī",
+      
+      "act_past_ind_1st_dual": "gamanōdēdū",
+      "act_past_sub_1st_dual": "gamanōdēdīw",
+      
+      "act_past_ind_2nd_dual": "gamanōdēdudiz",
+      "act_past_sub_2nd_dual": "gamanōdēdīdiz",
+      
+      "act_past_ind_1st_plural": "gamanōdēdum",
+      "act_past_sub_1st_plural": "gamanōdēdīm",
+      
+      "act_past_ind_2nd_plural": "gamanōdēdud",
+      "act_past_sub_2nd_plural": "gamanōdēdīd",
+      
+      "act_past_ind_3rd_plural": "gamanōdēdun",
+      "act_past_sub_3rd_plural": "gamanōdēdīn",
+      
+      "present_participle": "gamanōndz",
+      "past_participle": "gamanōdaz"
+    }
+  },
+  "to break": {
+    "type": "verb",
+    "germanic": "brekaną",
+    "english1": "",
+    "english2": "",
+    "pronunciation": "/ˈbre.kɑ.nɑ̃/",
+    "options": {
+      "act_pres_ind_1st_sing": "brekō",
+      "act_pres_sub_1st_sing": "brekaų",
+      "act_pres_imp_1st_sing": "-",
+      
+      "act_pres_ind_2nd_sing": "brikizi",
+      "act_pres_sub_2nd_sing": "brekaiz",
+      "act_pres_imp_2nd_sing": "brek",
+      
+      "act_pres_ind_3rd_sing": "brikidi",
+      "act_pres_sub_3rd_sing": "brekai",
+      "act_pres_imp_3rd_sing": "brekadau",
+      
+      "act_pres_ind_1st_dual": "brekōz",
+      "act_pres_sub_1st_dual": "brekaiw",
+      "act_pres_imp_1st_dual": "-",
+      
+      "act_pres_ind_2nd_dual": "brekadiz",
+      "act_pres_sub_2nd_dual": "brekaidiz",
+      "act_pres_imp_2nd_dual": "brekadiz",
+      
+      "act_pres_ind_1st_plural": "brekamaz",
+      "act_pres_sub_1st_plural": "brekaim",
+      "act_pres_imp_1st_plural": "-",
+      
+      "act_pres_ind_2nd_plural": "brikid",
+      "act_pres_sub_2nd_plural": "brekaid",
+      "act_pres_imp_2nd_plural": "brikid",
+      
+      "act_pres_ind_3rd_plural": "brekandi",
+      "act_pres_sub_3rd_plural": "brekain",
+      "act_pres_imp_3rd_plural": "brekandau",
+      
+      "pass_pres_ind_1st_sing": "brekai",
+      "pass_pres_sub_1st_sing": "?",
+      
+      "pass_pres_ind_2nd_sing": "brekazai",
+      "pass_pres_sub_2nd_sing": "brekaizau",
+      
+      "pass_pres_ind_3rd_sing": "brekadai",
+      "pass_pres_sub_3rd_sing": "brekaidau",
+      
+      "pass_pres_ind_1st_dual": "-",
+      "pass_pres_sub_1st_dual": "-",
+      
+      "pass_pres_ind_2nd_dual": "-",
+      "pass_pres_sub_2nd_dual": "-",
+      
+      "pass_pres_ind_1st_plural": "brekandai",
+      "pass_pres_sub_1st_plural": "brekaindau",
+      
+      "pass_pres_ind_2nd_plural": "brekandai",
+      "pass_pres_sub_2nd_plural": "brekaindau",
+      
+      "pass_pres_ind_3rd_plural": "brekandai",
+      "pass_pres_sub_3rd_plural": "brekaindau",
+      
+      "act_past_ind_1st_sing": "brak",
+      "act_past_sub_1st_sing": "brēkį̄",
+      
+      "act_past_ind_2nd_sing": "braht",
+      "act_past_sub_2nd_sing": "brēkīz",
+      
+      "act_past_ind_3rd_sing": "brak",
+      "act_past_sub_3rd_sing": "brēkī",
+      
+      "act_past_ind_1st_dual": "brēkū",
+      "act_past_sub_1st_dual": "brēkīw",
+      
+      "act_past_ind_2nd_dual": "brēkudiz",
+      "act_past_sub_2nd_dual": "brēkīdiz",
+      
+      "act_past_ind_1st_plural": "brēkum",
+      "act_past_sub_1st_plural": "brēkīm",
+      
+      "act_past_ind_2nd_plural": "brēkud",
+      "act_past_sub_2nd_plural": "brēkīd",
+      
+      "act_past_ind_3rd_plural": "brēkun",
+      "act_past_sub_3rd_plural": "brēkīn",
+      
+      "present_participle": "brekandz",
+      "past_participle": "brukanaz"
+    }
+  },
+  "to bring": {
+    "type": "verb",
+    "germanic": "bringaną",
+    "english1": "",
+    "english2": "",
+    "pronunciation": "/ˈbriŋ.ɡɑ.nɑ̃/",
+    "options": {
+      "act_pres_ind_1st_sing": "bringō",
+      "act_pres_sub_1st_sing": "bringaų",
+      "act_pres_imp_1st_sing": "-",
+      
+      "act_pres_ind_2nd_sing": "bringizi",
+      "act_pres_sub_2nd_sing": "bringaiz",
+      "act_pres_imp_2nd_sing": "bring",
+      
+      "act_pres_ind_3rd_sing": "bringidi",
+      "act_pres_sub_3rd_sing": "bringai",
+      "act_pres_imp_3rd_sing": "bringadau",
+      
+      "act_pres_ind_1st_dual": "bringōz",
+      "act_pres_sub_1st_dual": "bringaiw",
+      "act_pres_imp_1st_dual": "-",
+      
+      "act_pres_ind_2nd_dual": "bringadiz",
+      "act_pres_sub_2nd_dual": "bringaidiz",
+      "act_pres_imp_2nd_dual": "bringadiz",
+      
+      "act_pres_ind_1st_plural": "bringamaz",
+      "act_pres_sub_1st_plural": "bringaim",
+      "act_pres_imp_1st_plural": "-",
+      
+      "act_pres_ind_2nd_plural": "bringid",
+      "act_pres_sub_2nd_plural": "bringaid",
+      "act_pres_imp_2nd_plural": "bringid",
+      
+      "act_pres_ind_3rd_plural": "bringandi",
+      "act_pres_sub_3rd_plural": "bringain",
+      "act_pres_imp_3rd_plural": "bringandau",
+      
+      "pass_pres_ind_1st_sing": "bringai",
+      "pass_pres_sub_1st_sing": "?",
+      
+      "pass_pres_ind_2nd_sing": "bringazai",
+      "pass_pres_sub_2nd_sing": "bringaizau",
+      
+      "pass_pres_ind_3rd_sing": "bringadai",
+      "pass_pres_sub_3rd_sing": "bringaidau",
+      
+      "pass_pres_ind_1st_dual": "-",
+      "pass_pres_sub_1st_dual": "-",
+      
+      "pass_pres_ind_2nd_dual": "-",
+      "pass_pres_sub_2nd_dual": "-",
+      
+      "pass_pres_ind_1st_plural": "bringandai",
+      "pass_pres_sub_1st_plural": "bringaindau",
+      
+      "pass_pres_ind_2nd_plural": "bringandai",
+      "pass_pres_sub_2nd_plural": "bringaindau",
+      
+      "pass_pres_ind_3rd_plural": "bringandai",
+      "pass_pres_sub_3rd_plural": "bringaindau",
+      
+      "act_past_ind_1st_sing": "branhtǭ",
+      "act_past_sub_1st_sing": "branhtēdį̄",
+      
+      "act_past_ind_2nd_sing": "branhtēz",
+      "act_past_sub_2nd_sing": "branhtēdīz",
+      
+      "act_past_ind_3rd_sing": "branhtē",
+      "act_past_sub_3rd_sing": "branhtēdī",
+      
+      "act_past_ind_1st_dual": "branhtēdū",
+      "act_past_sub_1st_dual": "branhtēdīw",
+      
+      "act_past_ind_2nd_dual": "branhtēdudiz",
+      "act_past_sub_2nd_dual": "branhtēdīdiz",
+      
+      "act_past_ind_1st_plural": "branhtēdum",
+      "act_past_sub_1st_plural": "branhtēdīm",
+      
+      "act_past_ind_2nd_plural": "branhtēdud",
+      "act_past_sub_2nd_plural": "branhtēdīd",
+      
+      "act_past_ind_3rd_plural": "branhtēdun",
+      "act_past_sub_3rd_plural": "branhtēdīn",
+      
+      "present_participle": "bringandz",
+      "past_participle": "branhtaz"
+    }
+  },
+  "to stand": {
+    "type": "verb",
+    "germanic": "stāną",
+    "english1": "",
+    "english2": "",
+    "pronunciation": "/ˈstɑː.nɑ̃/",
+    "options": {
+      "act_pres_ind_1st_sing": "stō",
+      "act_pres_sub_1st_sing": "?",
+      "act_pres_imp_1st_sing": "-",
+      
+      "act_pres_ind_2nd_sing": "staisi",
+      "act_pres_sub_2nd_sing": "?",
+      "act_pres_imp_2nd_sing": "stai",
+      
+      "act_pres_ind_3rd_sing": "staiþi",
+      "act_pres_sub_3rd_sing": "?",
+      "act_pres_imp_3rd_sing": "stāþau",
+      
+      "act_pres_ind_1st_dual": "stōs",
+      "act_pres_sub_1st_dual": "?",
+      "act_pres_imp_1st_dual": "-",
+      
+      "act_pres_ind_2nd_dual": "stāþiz",
+      "act_pres_sub_2nd_dual": "?",
+      "act_pres_imp_2nd_dual": "stāþiz",
+      
+      "act_pres_ind_1st_plural": "stāmaz",
+      "act_pres_sub_1st_plural": "?",
+      "act_pres_imp_1st_plural": "-",
+      
+      "act_pres_ind_2nd_plural": "staiþ",
+      "act_pres_sub_2nd_plural": "?",
+      "act_pres_imp_2nd_plural": "staiþ",
+      
+      "act_pres_ind_3rd_plural": "stānþi",
+      "act_pres_sub_3rd_plural": "?",
+      "act_pres_imp_3rd_plural": "stānþau",
+      
+      "pass_pres_ind_1st_sing": "—",
+      "pass_pres_sub_1st_sing": "?",
+      
+      "pass_pres_ind_2nd_sing": "—",
+      "pass_pres_sub_2nd_sing": "—",
+      
+      "pass_pres_ind_3rd_sing": "—",
+      "pass_pres_sub_3rd_sing": "—",
+      
+      "pass_pres_ind_1st_dual": "-",
+      "pass_pres_sub_1st_dual": "-",
+      
+      "pass_pres_ind_2nd_dual": "-",
+      "pass_pres_sub_2nd_dual": "-",
+      
+      "pass_pres_ind_1st_plural": "—",
+      "pass_pres_sub_1st_plural": "—",
+      
+      "pass_pres_ind_2nd_plural": "—",
+      "pass_pres_sub_2nd_plural": "—",
+      
+      "pass_pres_ind_3rd_plural": "—",
+      "pass_pres_sub_3rd_plural": "—",
+      
+      "act_past_ind_1st_sing": "stōþ",
+      "act_past_sub_1st_sing": "stōdį̄",
+      
+      "act_past_ind_2nd_sing": "stōst",
+      "act_past_sub_2nd_sing": "stōdīz",
+      
+      "act_past_ind_3rd_sing": "stōþ",
+      "act_past_sub_3rd_sing": "stōdī",
+      
+      "act_past_ind_1st_dual": "stōdū",
+      "act_past_sub_1st_dual": "stōdīw",
+      
+      "act_past_ind_2nd_dual": "stōdudiz",
+      "act_past_sub_2nd_dual": "stōdīdiz",
+      
+      "act_past_ind_1st_plural": "stōdum",
+      "act_past_sub_1st_plural": "stōdīm",
+      
+      "act_past_ind_2nd_plural": "stōdud",
+      "act_past_sub_2nd_plural": "stōdīd",
+      
+      "act_past_ind_3rd_plural": "stōdun",
+      "act_past_sub_3rd_plural": "stōdīn",
+      
+      "present_participle": "stāndz",
+      "past_participle": "stadanaz"
+    }
+  },
+  "to name": {
+    "type": "verb",
+    "germanic": "namnijaną",
+    "english1": "",
+    "english2": "",
+    "pronunciation": "/ˈnɑm.ni.jɑ.nɑ̃/",
+    "options": {
+      "act_pres_ind_1st_sing": "namnijō",
+      "act_pres_sub_1st_sing": "namnijaų",
+      "act_pres_imp_1st_sing": "-",
+      
+      "act_pres_ind_2nd_sing": "namnīsi",
+      "act_pres_sub_2nd_sing": "namnijais",
+      "act_pres_imp_2nd_sing": "namnī",
+      
+      "act_pres_ind_3rd_sing": "namnīþi",
+      "act_pres_sub_3rd_sing": "namnijai",
+      "act_pres_imp_3rd_sing": "namnijaþau",
+      
+      "act_pres_ind_1st_dual": "namnijōs",
+      "act_pres_sub_1st_dual": "namnijaiw",
+      "act_pres_imp_1st_dual": "-",
+      
+      "act_pres_ind_2nd_dual": "namnijaþiz",
+      "act_pres_sub_2nd_dual": "namnijaiþiz",
+      "act_pres_imp_2nd_dual": "namnijaþiz",
+      
+      "act_pres_ind_1st_plural": "namnijamaz",
+      "act_pres_sub_1st_plural": "namnijaim",
+      "act_pres_imp_1st_plural": "-",
+      
+      "act_pres_ind_2nd_plural": "namnīþ",
+      "act_pres_sub_2nd_plural": "namnijaiþ",
+      "act_pres_imp_2nd_plural": "namnīþ",
+      
+      "act_pres_ind_3rd_plural": "namnijanþi",
+      "act_pres_sub_3rd_plural": "namnijain",
+      "act_pres_imp_3rd_plural": "namnijanþau",
+      
+      "pass_pres_ind_1st_sing": "namnijai",
+      "pass_pres_sub_1st_sing": "?",
+      
+      "pass_pres_ind_2nd_sing": "namnijasai",
+      "pass_pres_sub_2nd_sing": "namnijaisau",
+      
+      "pass_pres_ind_3rd_sing": "namnijaþai",
+      "pass_pres_sub_3rd_sing": "namnijaiþau",
+      
+      "pass_pres_ind_1st_dual": "-",
+      "pass_pres_sub_1st_dual": "-",
+      
+      "pass_pres_ind_2nd_dual": "-",
+      "pass_pres_sub_2nd_dual": "-",
+      
+      "pass_pres_ind_1st_plural": "namnijanþai",
+      "pass_pres_sub_1st_plural": "namnijainþau",
+      
+      "pass_pres_ind_2nd_plural": "namnijanþai",
+      "pass_pres_sub_2nd_plural": "namnijainþau",
+      
+      "pass_pres_ind_3rd_plural": "namnijanþai",
+      "pass_pres_sub_3rd_plural": "namnijainþau",
+      
+      "act_past_ind_1st_sing": "namnidǭ",
+      "act_past_sub_1st_sing": "namnidēdį̄",
+      
+      "act_past_ind_2nd_sing": "namnidēz",
+      "act_past_sub_2nd_sing": "namnidēdīz",
+      
+      "act_past_ind_3rd_sing": "namnidē",
+      "act_past_sub_3rd_sing": "namnidēdī",
+      
+      "act_past_ind_1st_dual": "namnidēdū",
+      "act_past_sub_1st_dual": "namnidēdīw",
+      
+      "act_past_ind_2nd_dual": "namnidēdudiz",
+      "act_past_sub_2nd_dual": "namnidēdīdiz",
+      
+      "act_past_ind_1st_plural": "namnidēdum",
+      "act_past_sub_1st_plural": "namnidēdīm",
+      
+      "act_past_ind_2nd_plural": "namnidēdud",
+      "act_past_sub_2nd_plural": "namnidēdīd",
+      
+      "act_past_ind_3rd_plural": "namnidēdun",
+      "act_past_sub_3rd_plural": "namnidēdīn",
+      
+      "present_participle": "namnijandz",
+      "past_participle": "namnidaz"
+    }
+  },
+  "to throw": {
+    "type": "verb",
+    "germanic": "werpaną",
+    "english1": "to cast",
+    "english2": "",
+    "pronunciation": "/ˈwer.pɑ.nɑ̃/",
+    "options": {
+      "act_pres_ind_1st_sing": "werpō",
+      "act_pres_sub_1st_sing": "werpaų",
+      "act_pres_imp_1st_sing": "-",
+      
+      "act_pres_ind_2nd_sing": "wirpizi",
+      "act_pres_sub_2nd_sing": "werpaiz",
+      "act_pres_imp_2nd_sing": "werp",
+      
+      "act_pres_ind_3rd_sing": "wirpidi",
+      "act_pres_sub_3rd_sing": "werpai",
+      "act_pres_imp_3rd_sing": "werpadau",
+      
+      "act_pres_ind_1st_dual": "werpōz",
+      "act_pres_sub_1st_dual": "werpaiw",
+      "act_pres_imp_1st_dual": "-",
+      
+      "act_pres_ind_2nd_dual": "werpadiz",
+      "act_pres_sub_2nd_dual": "werpaidiz",
+      "act_pres_imp_2nd_dual": "werpadiz",
+      
+      "act_pres_ind_1st_plural": "werpamaz",
+      "act_pres_sub_1st_plural": "werpaim",
+      "act_pres_imp_1st_plural": "-",
+      
+      "act_pres_ind_2nd_plural": "wirpid",
+      "act_pres_sub_2nd_plural": "werpaid",
+      "act_pres_imp_2nd_plural": "wirpid",
+      
+      "act_pres_ind_3rd_plural": "werpandi",
+      "act_pres_sub_3rd_plural": "werpain",
+      "act_pres_imp_3rd_plural": "werpandau",
+      
+      "pass_pres_ind_1st_sing": "werpai",
+      "pass_pres_sub_1st_sing": "?",
+      
+      "pass_pres_ind_2nd_sing": "werpazai",
+      "pass_pres_sub_2nd_sing": "werpaizau",
+      
+      "pass_pres_ind_3rd_sing": "werpadai",
+      "pass_pres_sub_3rd_sing": "werpaidau",
+      
+      "pass_pres_ind_1st_dual": "-",
+      "pass_pres_sub_1st_dual": "-",
+      
+      "pass_pres_ind_2nd_dual": "-",
+      "pass_pres_sub_2nd_dual": "-",
+      
+      "pass_pres_ind_1st_plural": "werpandai",
+      "pass_pres_sub_1st_plural": "werpaindau",
+      
+      "pass_pres_ind_2nd_plural": "werpandai",
+      "pass_pres_sub_2nd_plural": "werpaindau",
+      
+      "pass_pres_ind_3rd_plural": "werpandai",
+      "pass_pres_sub_3rd_plural": "werpaindau",
+      
+      "act_past_ind_1st_sing": "warp",
+      "act_past_sub_1st_sing": "wurpį̄",
+      
+      "act_past_ind_2nd_sing": "warft",
+      "act_past_sub_2nd_sing": "wurpīz",
+      
+      "act_past_ind_3rd_sing": "warp",
+      "act_past_sub_3rd_sing": "wurpī",
+      
+      "act_past_ind_1st_dual": "wurpū",
+      "act_past_sub_1st_dual": "wurpīw",
+      
+      "act_past_ind_2nd_dual": "wurpudiz",
+      "act_past_sub_2nd_dual": "wurpīdiz",
+      
+      "act_past_ind_1st_plural": "wurpum",
+      "act_past_sub_1st_plural": "wurpīm",
+      
+      "act_past_ind_2nd_plural": "wurpud",
+      "act_past_sub_2nd_plural": "wurpīd",
+      
+      "act_past_ind_3rd_plural": "wurpun",
+      "act_past_sub_3rd_plural": "wurpīn",
+      
+      "present_participle": "werpandz",
+      "past_participle": "wurpanaz"
+    }
+  },
+  "to write": {
+    "type": "verb",
+    "germanic": "skrībaną",
+    "english1": "",
+    "english2": "",
+    "pronunciation": "/ˈskriː.βɑ.nɑ̃/",
+    "options": {
+      "act_pres_ind_1st_sing": "skrībō",
+      "act_pres_sub_1st_sing": "skrībaų",
+      "act_pres_imp_1st_sing": "-",
+      
+      "act_pres_ind_2nd_sing": "skrībizi",
+      "act_pres_sub_2nd_sing": "skrībaiz",
+      "act_pres_imp_2nd_sing": "skrīb",
+      
+      "act_pres_ind_3rd_sing": "skrībidi",
+      "act_pres_sub_3rd_sing": "skrībai",
+      "act_pres_imp_3rd_sing": "skrībadau",
+      
+      "act_pres_ind_1st_dual": "skrībōz",
+      "act_pres_sub_1st_dual": "skrībaiw",
+      "act_pres_imp_1st_dual": "-",
+      
+      "act_pres_ind_2nd_dual": "skrībadiz",
+      "act_pres_sub_2nd_dual": "skrībaidiz",
+      "act_pres_imp_2nd_dual": "skrībadiz",
+      
+      "act_pres_ind_1st_plural": "skrībamaz",
+      "act_pres_sub_1st_plural": "skrībaim",
+      "act_pres_imp_1st_plural": "-",
+      
+      "act_pres_ind_2nd_plural": "skrībid",
+      "act_pres_sub_2nd_plural": "skrībaid",
+      "act_pres_imp_2nd_plural": "skrībid",
+      
+      "act_pres_ind_3rd_plural": "skrībandi",
+      "act_pres_sub_3rd_plural": "skrībain",
+      "act_pres_imp_3rd_plural": "skrībandau",
+      
+      "pass_pres_ind_1st_sing": "skrībai",
+      "pass_pres_sub_1st_sing": "?",
+      
+      "pass_pres_ind_2nd_sing": "skrībazai",
+      "pass_pres_sub_2nd_sing": "skrībaizau",
+      
+      "pass_pres_ind_3rd_sing": "skrībadai",
+      "pass_pres_sub_3rd_sing": "skrībaidau",
+      
+      "pass_pres_ind_1st_dual": "-",
+      "pass_pres_sub_1st_dual": "-",
+      
+      "pass_pres_ind_2nd_dual": "-",
+      "pass_pres_sub_2nd_dual": "-",
+      
+      "pass_pres_ind_1st_plural": "skrībandai",
+      "pass_pres_sub_1st_plural": "skrībaindau",
+      
+      "pass_pres_ind_2nd_plural": "skrībandai",
+      "pass_pres_sub_2nd_plural": "skrībaindau",
+      
+      "pass_pres_ind_3rd_plural": "skrībandai",
+      "pass_pres_sub_3rd_plural": "skrībaindau",
+      
+      "act_past_ind_1st_sing": "skraib",
+      "act_past_sub_1st_sing": "skribį̄",
+      
+      "act_past_ind_2nd_sing": "skraift",
+      "act_past_sub_2nd_sing": "skribīz",
+      
+      "act_past_ind_3rd_sing": "skraib",
+      "act_past_sub_3rd_sing": "skribī",
+      
+      "act_past_ind_1st_dual": "skribū",
+      "act_past_sub_1st_dual": "skribīw",
+      
+      "act_past_ind_2nd_dual": "skribudiz",
+      "act_past_sub_2nd_dual": "skribīdiz",
+      
+      "act_past_ind_1st_plural": "skribum",
+      "act_past_sub_1st_plural": "skribīm",
+      
+      "act_past_ind_2nd_plural": "skribud",
+      "act_past_sub_2nd_plural": "skribīd",
+      
+      "act_past_ind_3rd_plural": "skribun",
+      "act_past_sub_3rd_plural": "skribīn",
+      
+      "present_participle": "skrībandz",
+      "past_participle": "skribanaz"
+    }
+  },
+  "to carve": {
+    "type": "verb",
+    "germanic": "hrītaną",
+    "english1": "to scratch",
+    "english2": "to rip",
+    "pronunciation": "/ˈxriː.tɑ.nɑ̃/",
+    "options": {
+      "act_pres_ind_1st_sing": "hrītō",
+      "act_pres_sub_1st_sing": "hrītaų",
+      "act_pres_imp_1st_sing": "-",
+      
+      "act_pres_ind_2nd_sing": "hrītizi",
+      "act_pres_sub_2nd_sing": "hrītaiz",
+      "act_pres_imp_2nd_sing": "hrīt",
+      
+      "act_pres_ind_3rd_sing": "hrītidi",
+      "act_pres_sub_3rd_sing": "hrītai",
+      "act_pres_imp_3rd_sing": "hrītadau",
+      
+      "act_pres_ind_1st_dual": "hrītōz",
+      "act_pres_sub_1st_dual": "hrītaiw",
+      "act_pres_imp_1st_dual": "-",
+      
+      "act_pres_ind_2nd_dual": "hrītadiz",
+      "act_pres_sub_2nd_dual": "hrītaidiz",
+      "act_pres_imp_2nd_dual": "hrītadiz",
+      
+      "act_pres_ind_1st_plural": "hrītamaz",
+      "act_pres_sub_1st_plural": "hrītaim",
+      "act_pres_imp_1st_plural": "-",
+      
+      "act_pres_ind_2nd_plural": "hrītid",
+      "act_pres_sub_2nd_plural": "hrītaid",
+      "act_pres_imp_2nd_plural": "hrītid",
+      
+      "act_pres_ind_3rd_plural": "hrītandi",
+      "act_pres_sub_3rd_plural": "hrītain",
+      "act_pres_imp_3rd_plural": "hrītandau",
+      
+      "pass_pres_ind_1st_sing": "hrītai",
+      "pass_pres_sub_1st_sing": "?",
+      
+      "pass_pres_ind_2nd_sing": "hrītazai",
+      "pass_pres_sub_2nd_sing": "hrītaizau",
+      
+      "pass_pres_ind_3rd_sing": "hrītadai",
+      "pass_pres_sub_3rd_sing": "hrītaidau",
+      
+      "pass_pres_ind_1st_dual": "-",
+      "pass_pres_sub_1st_dual": "-",
+      
+      "pass_pres_ind_2nd_dual": "-",
+      "pass_pres_sub_2nd_dual": "-",
+      
+      "pass_pres_ind_1st_plural": "hrītandai",
+      "pass_pres_sub_1st_plural": "hrītaindau",
+      
+      "pass_pres_ind_2nd_plural": "hrītandai",
+      "pass_pres_sub_2nd_plural": "hrītaindau",
+      
+      "pass_pres_ind_3rd_plural": "hrītandai",
+      "pass_pres_sub_3rd_plural": "hrītaindau",
+      
+      "act_past_ind_1st_sing": "hrait",
+      "act_past_sub_1st_sing": "hritį̄",
+      
+      "act_past_ind_2nd_sing": "hraist",
+      "act_past_sub_2nd_sing": "hritīz",
+      
+      "act_past_ind_3rd_sing": "hrait",
+      "act_past_sub_3rd_sing": "hritī",
+      
+      "act_past_ind_1st_dual": "hritū",
+      "act_past_sub_1st_dual": "hritīw",
+      
+      "act_past_ind_2nd_dual": "hritudiz",
+      "act_past_sub_2nd_dual": "hritīdiz",
+      
+      "act_past_ind_1st_plural": "hritum",
+      "act_past_sub_1st_plural": "hritīm",
+      
+      "act_past_ind_2nd_plural": "hritud",
+      "act_past_sub_2nd_plural": "hritīd",
+      
+      "act_past_ind_3rd_plural": "hritun",
+      "act_past_sub_3rd_plural": "hritīn",
+      
+      "present_participle": "hrītandz",
+      "past_participle": "hritanaz"
+    }
+  },
+  "to open": {
+    "type": "verb",
+    "germanic": "upanōną",
+    "english1": "to lift",
+    "english2": "",
+    "pronunciation": "/ˈu.pɑ.nɔː.nɑ̃/",
+    "options": {
+      "act_pres_ind_1st_sing": "upanō",
+      "act_pres_sub_1st_sing": "upanǭ",
+      "act_pres_imp_1st_sing": "-",
+      
+      "act_pres_ind_2nd_sing": "upanōsi",
+      "act_pres_sub_2nd_sing": "upanōs",
+      "act_pres_imp_2nd_sing": "upanō",
+      
+      "act_pres_ind_3rd_sing": "upanōþi",
+      "act_pres_sub_3rd_sing": "upanō",
+      "act_pres_imp_3rd_sing": "upanōþau",
+      
+      "act_pres_ind_1st_dual": "upanōs",
+      "act_pres_sub_1st_dual": "upanōw",
+      "act_pres_imp_1st_dual": "-",
+      
+      "act_pres_ind_2nd_dual": "upanōþiz",
+      "act_pres_sub_2nd_dual": "upanōþiz",
+      "act_pres_imp_2nd_dual": "upanōþiz",
+      
+      "act_pres_ind_1st_plural": "upanōmaz",
+      "act_pres_sub_1st_plural": "upanōm",
+      "act_pres_imp_1st_plural": "-",
+      
+      "act_pres_ind_2nd_plural": "upanōþ",
+      "act_pres_sub_2nd_plural": "upanōþ",
+      "act_pres_imp_2nd_plural": "upanōþ",
+      
+      "act_pres_ind_3rd_plural": "upanōnþi",
+      "act_pres_sub_3rd_plural": "upanōn",
+      "act_pres_imp_3rd_plural": "upanōnþau",
+      
+      "pass_pres_ind_1st_sing": "upanōi",
+      "pass_pres_sub_1st_sing": "?",
+      
+      "pass_pres_ind_2nd_sing": "upanōsai",
+      "pass_pres_sub_2nd_sing": "upanōsau",
+      
+      "pass_pres_ind_3rd_sing": "upanōþai",
+      "pass_pres_sub_3rd_sing": "upanōþau",
+      
+      "pass_pres_ind_1st_dual": "-",
+      "pass_pres_sub_1st_dual": "-",
+      
+      "pass_pres_ind_2nd_dual": "-",
+      "pass_pres_sub_2nd_dual": "-",
+      
+      "pass_pres_ind_1st_plural": "upanōnþai",
+      "pass_pres_sub_1st_plural": "upanōnþau",
+      
+      "pass_pres_ind_2nd_plural": "upanōnþai",
+      "pass_pres_sub_2nd_plural": "upanōnþau",
+      
+      "pass_pres_ind_3rd_plural": "upanōnþai",
+      "pass_pres_sub_3rd_plural": "upanōnþau",
+      
+      "act_past_ind_1st_sing": "upanōdǭ",
+      "act_past_sub_1st_sing": "upanōdēdį̄",
+      
+      "act_past_ind_2nd_sing": "upanōdēz",
+      "act_past_sub_2nd_sing": "upanōdēdīz",
+      
+      "act_past_ind_3rd_sing": "upanōdē",
+      "act_past_sub_3rd_sing": "upanōdēdī",
+      
+      "act_past_ind_1st_dual": "upanōdēdū",
+      "act_past_sub_1st_dual": "upanōdēdīw",
+      
+      "act_past_ind_2nd_dual": "upanōdēdudiz",
+      "act_past_sub_2nd_dual": "upanōdēdīdiz",
+      
+      "act_past_ind_1st_plural": "upanōdēdum",
+      "act_past_sub_1st_plural": "upanōdēdīm",
+      
+      "act_past_ind_2nd_plural": "upanōdēdud",
+      "act_past_sub_2nd_plural": "upanōdēdīd",
+      
+      "act_past_ind_3rd_plural": "upanōdēdun",
+      "act_past_sub_3rd_plural": "upanōdēdīn",
+      
+      "present_participle": "upanōndz",
+      "past_participle": "upanōdaz"
+    }
+  },
+  "to win": {
+    "type": "verb",
+    "germanic": "winnaną",
+    "english1": "to gain",
+    "english2": "",
+    "pronunciation": "/ˈwin.nɑ.nɑ̃/",
+    "options": {
+      "act_pres_ind_1st_sing": "winnō",
+      "act_pres_sub_1st_sing": "winnaų",
+      "act_pres_imp_1st_sing": "-",
+      
+      "act_pres_ind_2nd_sing": "winnizi",
+      "act_pres_sub_2nd_sing": "winnaiz",
+      "act_pres_imp_2nd_sing": "winn",
+      
+      "act_pres_ind_3rd_sing": "winnidi",
+      "act_pres_sub_3rd_sing": "winnai",
+      "act_pres_imp_3rd_sing": "winnadau",
+      
+      "act_pres_ind_1st_dual": "winnōz",
+      "act_pres_sub_1st_dual": "winnaiw",
+      "act_pres_imp_1st_dual": "-",
+      
+      "act_pres_ind_2nd_dual": "winnadiz",
+      "act_pres_sub_2nd_dual": "winnaidiz",
+      "act_pres_imp_2nd_dual": "winnadiz",
+      
+      "act_pres_ind_1st_plural": "winnamaz",
+      "act_pres_sub_1st_plural": "winnaim",
+      "act_pres_imp_1st_plural": "-",
+      
+      "act_pres_ind_2nd_plural": "winnid",
+      "act_pres_sub_2nd_plural": "winnaid",
+      "act_pres_imp_2nd_plural": "winnid",
+      
+      "act_pres_ind_3rd_plural": "winnandi",
+      "act_pres_sub_3rd_plural": "winnain",
+      "act_pres_imp_3rd_plural": "winnandau",
+      
+      "pass_pres_ind_1st_sing": "winnai",
+      "pass_pres_sub_1st_sing": "?",
+      
+      "pass_pres_ind_2nd_sing": "winnazai",
+      "pass_pres_sub_2nd_sing": "winnaizau",
+      
+      "pass_pres_ind_3rd_sing": "winnadai",
+      "pass_pres_sub_3rd_sing": "winnaidau",
+      
+      "pass_pres_ind_1st_dual": "-",
+      "pass_pres_sub_1st_dual": "-",
+      
+      "pass_pres_ind_2nd_dual": "-",
+      "pass_pres_sub_2nd_dual": "-",
+      
+      "pass_pres_ind_1st_plural": "winnandai",
+      "pass_pres_sub_1st_plural": "winnaindau",
+      
+      "pass_pres_ind_2nd_plural": "winnandai",
+      "pass_pres_sub_2nd_plural": "winnaindau",
+      
+      "pass_pres_ind_3rd_plural": "winnandai",
+      "pass_pres_sub_3rd_plural": "winnaindau",
+      
+      "act_past_ind_1st_sing": "wann",
+      "act_past_sub_1st_sing": "wunnį̄",
+      
+      "act_past_ind_2nd_sing": "wannt",
+      "act_past_sub_2nd_sing": "wunnīz",
+      
+      "act_past_ind_3rd_sing": "wann",
+      "act_past_sub_3rd_sing": "wunnī",
+      
+      "act_past_ind_1st_dual": "wunnū",
+      "act_past_sub_1st_dual": "wunnīw",
+      
+      "act_past_ind_2nd_dual": "wunnudiz",
+      "act_past_sub_2nd_dual": "wunnīdiz",
+      
+      "act_past_ind_1st_plural": "wunnum",
+      "act_past_sub_1st_plural": "wunnīm",
+      
+      "act_past_ind_2nd_plural": "wunnud",
+      "act_past_sub_2nd_plural": "wunnīd",
+      
+      "act_past_ind_3rd_plural": "wunnun",
+      "act_past_sub_3rd_plural": "wunnīn",
+      
+      "present_participle": "winnandz",
+      "past_participle": "wunnanaz"
+    }
+  },
+  "to change": {
+    "type": "verb",
+    "germanic": "wihslōną",
+    "english1": "to exchange",
+    "english2": "to swap",
+    "pronunciation": "/ˈwix.slɔː.nɑ̃/",
+    "options": {
+      "act_pres_ind_1st_sing": "wihslō",
+      "act_pres_sub_1st_sing": "wihslǭ",
+      "act_pres_imp_1st_sing": "-",
+      
+      "act_pres_ind_2nd_sing": "wihslōsi",
+      "act_pres_sub_2nd_sing": "wihslōs",
+      "act_pres_imp_2nd_sing": "wihslō",
+      
+      "act_pres_ind_3rd_sing": "wihslōþi",
+      "act_pres_sub_3rd_sing": "wihslō",
+      "act_pres_imp_3rd_sing": "wihslōþau",
+      
+      "act_pres_ind_1st_dual": "wihslōs",
+      "act_pres_sub_1st_dual": "wihslōw",
+      "act_pres_imp_1st_dual": "-",
+      
+      "act_pres_ind_2nd_dual": "wihslōþiz",
+      "act_pres_sub_2nd_dual": "wihslōþiz",
+      "act_pres_imp_2nd_dual": "wihslōþiz",
+      
+      "act_pres_ind_1st_plural": "wihslōmaz",
+      "act_pres_sub_1st_plural": "wihslōm",
+      "act_pres_imp_1st_plural": "-",
+      
+      "act_pres_ind_2nd_plural": "wihslōþ",
+      "act_pres_sub_2nd_plural": "wihslōþ",
+      "act_pres_imp_2nd_plural": "wihslōþ",
+      
+      "act_pres_ind_3rd_plural": "wihslōnþi",
+      "act_pres_sub_3rd_plural": "wihslōn",
+      "act_pres_imp_3rd_plural": "wihslōnþau",
+      
+      "pass_pres_ind_1st_sing": "wihslōi",
+      "pass_pres_sub_1st_sing": "?",
+      
+      "pass_pres_ind_2nd_sing": "wihslōsai",
+      "pass_pres_sub_2nd_sing": "wihslōsau",
+      
+      "pass_pres_ind_3rd_sing": "wihslōþai",
+      "pass_pres_sub_3rd_sing": "wihslōþau",
+      
+      "pass_pres_ind_1st_dual": "-",
+      "pass_pres_sub_1st_dual": "-",
+      
+      "pass_pres_ind_2nd_dual": "-",
+      "pass_pres_sub_2nd_dual": "-",
+      
+      "pass_pres_ind_1st_plural": "wihslōnþai",
+      "pass_pres_sub_1st_plural": "wihslōnþau",
+      
+      "pass_pres_ind_2nd_plural": "wihslōnþai",
+      "pass_pres_sub_2nd_plural": "wihslōnþau",
+      
+      "pass_pres_ind_3rd_plural": "wihslōnþai",
+      "pass_pres_sub_3rd_plural": "wihslōnþau",
+      
+      "act_past_ind_1st_sing": "wihslōdǭ",
+      "act_past_sub_1st_sing": "wihslōdēdį̄",
+      
+      "act_past_ind_2nd_sing": "wihslōdēz",
+      "act_past_sub_2nd_sing": "wihslōdēdīz",
+      
+      "act_past_ind_3rd_sing": "wihslōdē",
+      "act_past_sub_3rd_sing": "wihslōdēdī",
+      
+      "act_past_ind_1st_dual": "wihslōdēdū",
+      "act_past_sub_1st_dual": "wihslōdēdīw",
+      
+      "act_past_ind_2nd_dual": "wihslōdēdudiz",
+      "act_past_sub_2nd_dual": "wihslōdēdīdiz",
+      
+      "act_past_ind_1st_plural": "wihslōdēdum",
+      "act_past_sub_1st_plural": "wihslōdēdīm",
+      
+      "act_past_ind_2nd_plural": "wihslōdēdud",
+      "act_past_sub_2nd_plural": "wihslōdēdīd",
+      
+      "act_past_ind_3rd_plural": "wihslōdēdun",
+      "act_past_sub_3rd_plural": "wihslōdēdīn",
+      
+      "present_participle": "wihslōndz",
+      "past_participle": "wihslōdaz"
+    }
+  },
+  "to pay": {
+    "type": "verb",
+    "germanic": "geldaną",
+    "english1": "to give value",
+    "english2": "to have value",
+    "pronunciation": "/ˈɣel.dɑ.nɑ̃/",
+    "options": {
+      "act_pres_ind_1st_sing": "geldō",
+      "act_pres_sub_1st_sing": "geldaų",
+      "act_pres_imp_1st_sing": "-",
+      
+      "act_pres_ind_2nd_sing": "gildizi",
+      "act_pres_sub_2nd_sing": "geldaiz",
+      "act_pres_imp_2nd_sing": "geld",
+      
+      "act_pres_ind_3rd_sing": "gildidi",
+      "act_pres_sub_3rd_sing": "geldai",
+      "act_pres_imp_3rd_sing": "geldadau",
+      
+      "act_pres_ind_1st_dual": "geldōz",
+      "act_pres_sub_1st_dual": "geldaiw",
+      "act_pres_imp_1st_dual": "-",
+      
+      "act_pres_ind_2nd_dual": "geldadiz",
+      "act_pres_sub_2nd_dual": "geldaidiz",
+      "act_pres_imp_2nd_dual": "geldadiz",
+      
+      "act_pres_ind_1st_plural": "geldamaz",
+      "act_pres_sub_1st_plural": "geldaim",
+      "act_pres_imp_1st_plural": "-",
+      
+      "act_pres_ind_2nd_plural": "gildid",
+      "act_pres_sub_2nd_plural": "geldaid",
+      "act_pres_imp_2nd_plural": "gildid",
+      
+      "act_pres_ind_3rd_plural": "geldandi",
+      "act_pres_sub_3rd_plural": "geldain",
+      "act_pres_imp_3rd_plural": "geldandau",
+      
+      "pass_pres_ind_1st_sing": "geldai",
+      "pass_pres_sub_1st_sing": "?",
+      
+      "pass_pres_ind_2nd_sing": "geldazai",
+      "pass_pres_sub_2nd_sing": "geldaizau",
+      
+      "pass_pres_ind_3rd_sing": "geldadai",
+      "pass_pres_sub_3rd_sing": "geldaidau",
+      
+      "pass_pres_ind_1st_dual": "-",
+      "pass_pres_sub_1st_dual": "-",
+      
+      "pass_pres_ind_2nd_dual": "-",
+      "pass_pres_sub_2nd_dual": "-",
+      
+      "pass_pres_ind_1st_plural": "geldandai",
+      "pass_pres_sub_1st_plural": "geldaindau",
+      
+      "pass_pres_ind_2nd_plural": "geldandai",
+      "pass_pres_sub_2nd_plural": "geldaindau",
+      
+      "pass_pres_ind_3rd_plural": "geldandai",
+      "pass_pres_sub_3rd_plural": "geldaindau",
+      
+      "act_past_ind_1st_sing": "gald",
+      "act_past_sub_1st_sing": "guldį̄",
+      
+      "act_past_ind_2nd_sing": "galst",
+      "act_past_sub_2nd_sing": "guldīz",
+      
+      "act_past_ind_3rd_sing": "gald",
+      "act_past_sub_3rd_sing": "guldī",
+      
+      "act_past_ind_1st_dual": "guldū",
+      "act_past_sub_1st_dual": "guldīw",
+      
+      "act_past_ind_2nd_dual": "guldudiz",
+      "act_past_sub_2nd_dual": "guldīdiz",
+      
+      "act_past_ind_1st_plural": "guldum",
+      "act_past_sub_1st_plural": "guldīm",
+      
+      "act_past_ind_2nd_plural": "guldud",
+      "act_past_sub_2nd_plural": "guldīd",
+      
+      "act_past_ind_3rd_plural": "guldun",
+      "act_past_sub_3rd_plural": "guldīn",
+      
+      "present_participle": "geldandz",
+      "past_participle": "guldanaz"
+    }
+  },
+  "to marry": {
+    "type": "verb",
+    "germanic": "leugāną",
+    "english1": "",
+    "english2": "",
+    "pronunciation": "",
+    "options": {
+      "act_pres_ind_1st_sing": "leugō",
+      "act_pres_sub_1st_sing": "?",
+      "act_pres_imp_1st_sing": "-",
+      
+      "act_pres_ind_2nd_sing": "leugaisi",
+      "act_pres_sub_2nd_sing": "?",
+      "act_pres_imp_2nd_sing": "leugai",
+      
+      "act_pres_ind_3rd_sing": "leugaiþi",
+      "act_pres_sub_3rd_sing": "?",
+      "act_pres_imp_3rd_sing": "leugāþau",
+      
+      "act_pres_ind_1st_dual": "leugōs",
+      "act_pres_sub_1st_dual": "?",
+      "act_pres_imp_1st_dual": "-",
+      
+      "act_pres_ind_2nd_dual": "leugāþiz",
+      "act_pres_sub_2nd_dual": "?",
+      "act_pres_imp_2nd_dual": "leugāþiz",
+      
+      "act_pres_ind_1st_plural": "leugāmaz",
+      "act_pres_sub_1st_plural": "?",
+      "act_pres_imp_1st_plural": "-",
+      
+      "act_pres_ind_2nd_plural": "leugaiþ",
+      "act_pres_sub_2nd_plural": "?",
+      "act_pres_imp_2nd_plural": "leugaiþ",
+      
+      "act_pres_ind_3rd_plural": "leugānþi",
+      "act_pres_sub_3rd_plural": "?",
+      "act_pres_imp_3rd_plural": "leugānþau",
+      
+      "pass_pres_ind_1st_sing": "?",
+      "pass_pres_sub_1st_sing": "?",
+      
+      "pass_pres_ind_2nd_sing": "leugāsai",
+      "pass_pres_sub_2nd_sing": "?",
+      
+      "pass_pres_ind_3rd_sing": "leugāþai",
+      "pass_pres_sub_3rd_sing": "?",
+      
+      "pass_pres_ind_1st_dual": "-",
+      "pass_pres_sub_1st_dual": "-",
+      
+      "pass_pres_ind_2nd_dual": "-",
+      "pass_pres_sub_2nd_dual": "-",
+      
+      "pass_pres_ind_1st_plural": "leugānþai",
+      "pass_pres_sub_1st_plural": "?",
+      
+      "pass_pres_ind_2nd_plural": "leugānþai",
+      "pass_pres_sub_2nd_plural": "?",
+      
+      "pass_pres_ind_3rd_plural": "leugānþai",
+      "pass_pres_sub_3rd_plural": "?",
+      
+      "act_past_ind_1st_sing": "leugadǭ",
+      "act_past_sub_1st_sing": "leugadēdį̄",
+      
+      "act_past_ind_2nd_sing": "leugadēz",
+      "act_past_sub_2nd_sing": "leugadēdīz",
+      
+      "act_past_ind_3rd_sing": "leugadē",
+      "act_past_sub_3rd_sing": "leugadēdī",
+      
+      "act_past_ind_1st_dual": "leugadēdū",
+      "act_past_sub_1st_dual": "leugadēdīw",
+      
+      "act_past_ind_2nd_dual": "leugadēdudiz",
+      "act_past_sub_2nd_dual": "leugadēdīdiz",
+      
+      "act_past_ind_1st_plural": "leugadēdum",
+      "act_past_sub_1st_plural": "leugadēdīm",
+      
+      "act_past_ind_2nd_plural": "leugadēdud",
+      "act_past_sub_2nd_plural": "leugadēdīd",
+      
+      "act_past_ind_3rd_plural": "leugadēdun",
+      "act_past_sub_3rd_plural": "leugadēdīn",
+      
+      "present_participle": "leugāndz",
+      "past_participle": "leugadaz"
+    }
+  },
+  "to hate": {
+    "type": "verb",
+    "germanic": "hatāną",
+    "english1": "",
+    "english2": "",
+    "pronunciation": "",
+    "options": {
+      "act_pres_ind_1st_sing": "hatō",
+      "act_pres_sub_1st_sing": "?",
+      "act_pres_imp_1st_sing": "-",
+      
+      "act_pres_ind_2nd_sing": "hataisi",
+      "act_pres_sub_2nd_sing": "?",
+      "act_pres_imp_2nd_sing": "hatai",
+      
+      "act_pres_ind_3rd_sing": "hataiþi",
+      "act_pres_sub_3rd_sing": "?",
+      "act_pres_imp_3rd_sing": "hatāþau",
+      
+      "act_pres_ind_1st_dual": "hatōs",
+      "act_pres_sub_1st_dual": "?",
+      "act_pres_imp_1st_dual": "-",
+      
+      "act_pres_ind_2nd_dual": "hatāþiz",
+      "act_pres_sub_2nd_dual": "?",
+      "act_pres_imp_2nd_dual": "hatāþiz",
+      
+      "act_pres_ind_1st_plural": "hatāmaz",
+      "act_pres_sub_1st_plural": "?",
+      "act_pres_imp_1st_plural": "-",
+      
+      "act_pres_ind_2nd_plural": "hataiþ",
+      "act_pres_sub_2nd_plural": "?",
+      "act_pres_imp_2nd_plural": "hataiþ",
+      
+      "act_pres_ind_3rd_plural": "hatānþi",
+      "act_pres_sub_3rd_plural": "?",
+      "act_pres_imp_3rd_plural": "hatānþau",
+      
+      "pass_pres_ind_1st_sing": "?",
+      "pass_pres_sub_1st_sing": "?",
+      
+      "pass_pres_ind_2nd_sing": "hatāsai",
+      "pass_pres_sub_2nd_sing": "?",
+      
+      "pass_pres_ind_3rd_sing": "hatāþai",
+      "pass_pres_sub_3rd_sing": "?",
+      
+      "pass_pres_ind_1st_dual": "-",
+      "pass_pres_sub_1st_dual": "-",
+      
+      "pass_pres_ind_2nd_dual": "-",
+      "pass_pres_sub_2nd_dual": "-",
+      
+      "pass_pres_ind_1st_plural": "hatānþai",
+      "pass_pres_sub_1st_plural": "?",
+      
+      "pass_pres_ind_2nd_plural": "hatānþai",
+      "pass_pres_sub_2nd_plural": "?",
+      
+      "pass_pres_ind_3rd_plural": "hatānþai",
+      "pass_pres_sub_3rd_plural": "?",
+      
+      "act_past_ind_1st_sing": "hatadǭ",
+      "act_past_sub_1st_sing": "hatadēdį̄",
+      
+      "act_past_ind_2nd_sing": "hatadēz",
+      "act_past_sub_2nd_sing": "hatadēdīz",
+      
+      "act_past_ind_3rd_sing": "hatadē",
+      "act_past_sub_3rd_sing": "hatadēdī",
+      
+      "act_past_ind_1st_dual": "hatadēdū",
+      "act_past_sub_1st_dual": "hatadēdīw",
+      
+      "act_past_ind_2nd_dual": "hatadēdudiz",
+      "act_past_sub_2nd_dual": "hatadēdīdiz",
+      
+      "act_past_ind_1st_plural": "hatadēdum",
+      "act_past_sub_1st_plural": "hatadēdīm",
+      
+      "act_past_ind_2nd_plural": "hatadēdud",
+      "act_past_sub_2nd_plural": "hatadēdīd",
+      
+      "act_past_ind_3rd_plural": "hatadēdun",
+      "act_past_sub_3rd_plural": "hatadēdīn",
+      
+      "present_participle": "hatāndz",
+      "past_participle": "hatadaz"
+    }
+  },
+  "to die": {
+    "type": "verb",
+    "germanic": "dewaną",
+    "english1": "",
+    "english2": "",
+    "pronunciation": "/ˈde.wɑ.nɑ̃/",
+    "options": {
+      "act_pres_ind_1st_sing": "dewō",
+      "act_pres_sub_1st_sing": "dewaų",
+      "act_pres_imp_1st_sing": "-",
+      
+      "act_pres_ind_2nd_sing": "diwizi",
+      "act_pres_sub_2nd_sing": "dewaiz",
+      "act_pres_imp_2nd_sing": "dew",
+      
+      "act_pres_ind_3rd_sing": "diwidi",
+      "act_pres_sub_3rd_sing": "dewai",
+      "act_pres_imp_3rd_sing": "dewadau",
+      
+      "act_pres_ind_1st_dual": "dewōz",
+      "act_pres_sub_1st_dual": "dewaiw",
+      "act_pres_imp_1st_dual": "-",
+      
+      "act_pres_ind_2nd_dual": "dewadiz",
+      "act_pres_sub_2nd_dual": "dewaidiz",
+      "act_pres_imp_2nd_dual": "dewadiz",
+      
+      "act_pres_ind_1st_plural": "dewamaz",
+      "act_pres_sub_1st_plural": "dewaim",
+      "act_pres_imp_1st_plural": "-",
+      
+      "act_pres_ind_2nd_plural": "diwid",
+      "act_pres_sub_2nd_plural": "dewaid",
+      "act_pres_imp_2nd_plural": "diwid",
+      
+      "act_pres_ind_3rd_plural": "dewandi",
+      "act_pres_sub_3rd_plural": "dewain",
+      "act_pres_imp_3rd_plural": "dewandau",
+      
+      "pass_pres_ind_1st_sing": "dewai",
+      "pass_pres_sub_1st_sing": "?",
+      
+      "pass_pres_ind_2nd_sing": "dewazai",
+      "pass_pres_sub_2nd_sing": "dewaizau",
+      
+      "pass_pres_ind_3rd_sing": "dewadai",
+      "pass_pres_sub_3rd_sing": "dewaidau",
+      
+      "pass_pres_ind_1st_dual": "-",
+      "pass_pres_sub_1st_dual": "-",
+      
+      "pass_pres_ind_2nd_dual": "-",
+      "pass_pres_sub_2nd_dual": "-",
+      
+      "pass_pres_ind_1st_plural": "dewandai",
+      "pass_pres_sub_1st_plural": "dewaindau",
+      
+      "pass_pres_ind_2nd_plural": "dewandai",
+      "pass_pres_sub_2nd_plural": "dewaindau",
+      
+      "pass_pres_ind_3rd_plural": "dewandai",
+      "pass_pres_sub_3rd_plural": "dewaindau",
+      
+      "act_past_ind_1st_sing": "daw",
+      "act_past_sub_1st_sing": "dēwį̄",
+      
+      "act_past_ind_2nd_sing": "dawt",
+      "act_past_sub_2nd_sing": "dēwīz",
+      
+      "act_past_ind_3rd_sing": "daw",
+      "act_past_sub_3rd_sing": "dēwī",
+      
+      "act_past_ind_1st_dual": "dēwū",
+      "act_past_sub_1st_dual": "dēwīw",
+      
+      "act_past_ind_2nd_dual": "dēwudiz",
+      "act_past_sub_2nd_dual": "dēwīdiz",
+      
+      "act_past_ind_1st_plural": "dēwum",
+      "act_past_sub_1st_plural": "dēwīm",
+      
+      "act_past_ind_2nd_plural": "dēwud",
+      "act_past_sub_2nd_plural": "dēwīd",
+      
+      "act_past_ind_3rd_plural": "dēwun",
+      "act_past_sub_3rd_plural": "dēwīn",
+      
+      "present_participle": "dewandz",
+      "past_participle": "dewanaz"
+    }
+  },
+  "to forget": {
+    "type": "verb",
+    "germanic": "marzijaną",
+    "english1": "to neglect",
+    "english2": "",
+    "pronunciation": "/ˈmɑr.zi.jɑ.nɑ̃/",
+    "options": {
+      "act_pres_ind_1st_sing": "marzijō",
+      "act_pres_sub_1st_sing": "marzijaų",
+      "act_pres_imp_1st_sing": "-",
+      
+      "act_pres_ind_2nd_sing": "marzīsi",
+      "act_pres_sub_2nd_sing": "marzijais",
+      "act_pres_imp_2nd_sing": "marzī",
+      
+      "act_pres_ind_3rd_sing": "marzīþi",
+      "act_pres_sub_3rd_sing": "marzijai",
+      "act_pres_imp_3rd_sing": "marzijaþau",
+      
+      "act_pres_ind_1st_dual": "marzijōs",
+      "act_pres_sub_1st_dual": "marzijaiw",
+      "act_pres_imp_1st_dual": "-",
+      
+      "act_pres_ind_2nd_dual": "marzijaþiz",
+      "act_pres_sub_2nd_dual": "marzijaiþiz",
+      "act_pres_imp_2nd_dual": "marzijaþiz",
+      
+      "act_pres_ind_1st_plural": "marzijamaz",
+      "act_pres_sub_1st_plural": "marzijaim",
+      "act_pres_imp_1st_plural": "-",
+      
+      "act_pres_ind_2nd_plural": "marzīþ",
+      "act_pres_sub_2nd_plural": "marzijaiþ",
+      "act_pres_imp_2nd_plural": "marzīþ",
+      
+      "act_pres_ind_3rd_plural": "marzijanþi",
+      "act_pres_sub_3rd_plural": "marzijain",
+      "act_pres_imp_3rd_plural": "marzijanþau",
+      
+      "pass_pres_ind_1st_sing": "marzijai",
+      "pass_pres_sub_1st_sing": "?",
+      
+      "pass_pres_ind_2nd_sing": "marzijasai",
+      "pass_pres_sub_2nd_sing": "marzijaisau",
+      
+      "pass_pres_ind_3rd_sing": "marzijaþai",
+      "pass_pres_sub_3rd_sing": "marzijaiþau",
+      
+      "pass_pres_ind_1st_dual": "-",
+      "pass_pres_sub_1st_dual": "-",
+      
+      "pass_pres_ind_2nd_dual": "-",
+      "pass_pres_sub_2nd_dual": "-",
+      
+      "pass_pres_ind_1st_plural": "marzijanþai",
+      "pass_pres_sub_1st_plural": "marzijainþau",
+      
+      "pass_pres_ind_2nd_plural": "marzijanþai",
+      "pass_pres_sub_2nd_plural": "marzijainþau",
+      
+      "pass_pres_ind_3rd_plural": "marzijanþai",
+      "pass_pres_sub_3rd_plural": "marzijainþau",
+      
+      "act_past_ind_1st_sing": "marzidǭ",
+      "act_past_sub_1st_sing": "marzidēdį̄",
+      
+      "act_past_ind_2nd_sing": "marzidēz",
+      "act_past_sub_2nd_sing": "marzidēdīz",
+      
+      "act_past_ind_3rd_sing": "marzidē",
+      "act_past_sub_3rd_sing": "marzidēdī",
+      
+      "act_past_ind_1st_dual": "marzidēdū",
+      "act_past_sub_1st_dual": "marzidēdīw",
+      
+      "act_past_ind_2nd_dual": "marzidēdudiz",
+      "act_past_sub_2nd_dual": "marzidēdīdiz",
+      
+      "act_past_ind_1st_plural": "marzidēdum",
+      "act_past_sub_1st_plural": "marzidēdīm",
+      
+      "act_past_ind_2nd_plural": "marzidēdud",
+      "act_past_sub_2nd_plural": "marzidēdīd",
+      
+      "act_past_ind_3rd_plural": "marzidēdun",
+      "act_past_sub_3rd_plural": "marzidēdīn",
+      
+      "present_participle": "marzijandz",
+      "past_participle": "marzidaz"
+    }
+  },
+  "to lose": {
+    "type": "verb",
+    "germanic": "leusaną",
+    "english1": "",
+    "english2": "",
+    "pronunciation": "/ˈleu̯.sɑ.nɑ̃/",
+    "options": {
+      "act_pres_ind_1st_sing": "leusō",
+      "act_pres_sub_1st_sing": "leusaų",
+      "act_pres_imp_1st_sing": "-",
+      
+      "act_pres_ind_2nd_sing": "liusizi",
+      "act_pres_sub_2nd_sing": "leusaiz",
+      "act_pres_imp_2nd_sing": "leus",
+      
+      "act_pres_ind_3rd_sing": "liusidi",
+      "act_pres_sub_3rd_sing": "leusai",
+      "act_pres_imp_3rd_sing": "leusadau",
+      
+      "act_pres_ind_1st_dual": "leusōz",
+      "act_pres_sub_1st_dual": "leusaiw",
+      "act_pres_imp_1st_dual": "-",
+      
+      "act_pres_ind_2nd_dual": "leusadiz",
+      "act_pres_sub_2nd_dual": "leusaidiz",
+      "act_pres_imp_2nd_dual": "leusadiz",
+      
+      "act_pres_ind_1st_plural": "leusamaz",
+      "act_pres_sub_1st_plural": "leusaim",
+      "act_pres_imp_1st_plural": "-",
+      
+      "act_pres_ind_2nd_plural": "liusid",
+      "act_pres_sub_2nd_plural": "leusaid",
+      "act_pres_imp_2nd_plural": "liusid",
+      
+      "act_pres_ind_3rd_plural": "leusandi",
+      "act_pres_sub_3rd_plural": "leusain",
+      "act_pres_imp_3rd_plural": "leusandau",
+      
+      "pass_pres_ind_1st_sing": "leusai",
+      "pass_pres_sub_1st_sing": "?",
+      
+      "pass_pres_ind_2nd_sing": "leusazai",
+      "pass_pres_sub_2nd_sing": "leusaizau",
+      
+      "pass_pres_ind_3rd_sing": "leusadai",
+      "pass_pres_sub_3rd_sing": "leusaidau",
+      
+      "pass_pres_ind_1st_dual": "-",
+      "pass_pres_sub_1st_dual": "-",
+      
+      "pass_pres_ind_2nd_dual": "-",
+      "pass_pres_sub_2nd_dual": "-",
+      
+      "pass_pres_ind_1st_plural": "leusandai",
+      "pass_pres_sub_1st_plural": "leusaindau",
+      
+      "pass_pres_ind_2nd_plural": "leusandai",
+      "pass_pres_sub_2nd_plural": "leusaindau",
+      
+      "pass_pres_ind_3rd_plural": "leusandai",
+      "pass_pres_sub_3rd_plural": "leusaindau",
+      
+      "act_past_ind_1st_sing": "laus",
+      "act_past_sub_1st_sing": "luzį̄",
+      
+      "act_past_ind_2nd_sing": "laust",
+      "act_past_sub_2nd_sing": "luzīz",
+      
+      "act_past_ind_3rd_sing": "laus",
+      "act_past_sub_3rd_sing": "luzī",
+      
+      "act_past_ind_1st_dual": "luzū",
+      "act_past_sub_1st_dual": "luzīw",
+      
+      "act_past_ind_2nd_dual": "luzudiz",
+      "act_past_sub_2nd_dual": "luzīdiz",
+      
+      "act_past_ind_1st_plural": "luzum",
+      "act_past_sub_1st_plural": "luzīm",
+      
+      "act_past_ind_2nd_plural": "luzud",
+      "act_past_sub_2nd_plural": "luzīd",
+      
+      "act_past_ind_3rd_plural": "luzun",
+      "act_past_sub_3rd_plural": "luzīn",
+      
+      "present_participle": "leusandz",
+      "past_participle": "luzanaz"
+    }
+  },
   "": {
     "type": "verb",
     "germanic": "",
@@ -9187,6 +11371,55 @@
       "plur_masc_inst": "þaimiz",
       "plur_fem_inst": "þaimiz",
       "plur_neut_inst": "þaimiz"
+    }
+  },
+  "who": {
+    "type": "word",
+    "germanic": "hwaz",
+    "english1": "what",
+    "english2": "whos",
+    "gender": "",
+    "pronunciation": "/xʷɑz/",
+    "options": {
+      "sing_masc_nomi": "hwaz",
+      "sing_fem_nomi": "hwō",
+      "sing_neut_nomi": "hwat",
+
+      "sing_masc_acc": "hwanǭ",
+      "sing_fem_acc": "hwǭ",
+      "sing_neut_acc": "hwat",
+
+      "sing_masc_gen": "hwes",
+      "sing_fem_gen": "hwezōz",
+      "sing_neut_gen": "hwes",
+
+      "sing_masc_dat": "hwammai",
+      "sing_fem_dat": "hwezōi",
+      "sing_neut_dat": "hwammai",
+
+      "sing_masc_inst": "hwē, hwī, hwō",
+      "sing_fem_inst": "hwezō",
+      "sing_neut_inst": "hwē, hwī, hwō",
+
+      "plur_masc_nomi": "-",
+      "plur_fem_nomi": "-",
+      "plur_neut_nomi": "-",
+
+      "plur_masc_acc": "-",
+      "plur_fem_acc": "-",
+      "plur_neut_acc": "-",
+
+      "plur_masc_gen": "-",
+      "plur_fem_gen": "-",
+      "plur_neut_gen": "-",
+
+      "plur_masc_dat": "-",
+      "plur_fem_dat": "-",
+      "plur_neut_dat": "-",
+
+      "plur_masc_inst": "-",
+      "plur_fem_inst": "-",
+      "plur_neut_inst": "-"
     }
   },
 

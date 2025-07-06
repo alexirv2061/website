@@ -4,6 +4,8 @@ window.onload = function () {
   fetch('data.json')
     .then(response => response.json())
     .then(data => {
+      const numberOfEntries = Object.keys(data).length;
+      console.log('Number of entries:', numberOfEntries);
       wordData = data;
       console.log("Data loaded");
     })
