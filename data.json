@@ -11323,6 +11323,2060 @@
       "weak_plur_neut_inst": "raudammiz"
     }
   },
+  "good": {
+    "type": "adjective",
+    "germanic": "gōdaz",
+    "english1": "",
+    "english2": "",
+    "gender": "",
+    "pronunciation": "/ˈɣɔː.ðɑz/",
+    "options": {
+      "strong_sing_masc_nom": "gōdaz",
+      "strong_sing_fem_nom": "gōdō",
+      "strong_sing_neut_nom": "gōdą,-atō",
+
+      "strong_sing_masc_acc": "gōdanǭ",
+      "strong_sing_fem_acc": "gōdǭ",
+      "strong_sing_neut_acc": "gōdą,-atō",
+
+      "strong_sing_masc_gen": "gōdas,-is",
+      "strong_sing_fem_gen": "gōdaizōz",
+      "strong_sing_neut_gen": "gōdas,-is",
+
+      "strong_sing_masc_dat": "gōdammai",
+      "strong_sing_fem_dat": "gōdaizōi",
+      "strong_sing_neut_dat": "gōdammai",
+
+      "strong_sing_masc_inst": "gōdanō",
+      "strong_sing_fem_inst": "gōdaizō",
+      "strong_sing_neut_inst": "gōdanō",
+
+      "strong_plur_masc_nom": "gōdai",
+      "strong_plur_fem_nom": "gōdôz",
+      "strong_plur_neut_nom": "gōdō",
+
+      "strong_plur_masc_acc": "gōdanz",
+      "strong_plur_fem_acc": "gōdōz",
+      "strong_plur_neut_acc": "gōdō",
+
+      "strong_plur_masc_gen": "gōdaizǫ̂",
+      "strong_plur_fem_gen": "gōdaizǫ̂",
+      "strong_plur_neut_gen": "gōdaizǫ̂",
+
+      "strong_plur_masc_dat": "gōdaimaz",
+      "strong_plur_fem_dat": "gōdaimaz",
+      "strong_plur_neut_dat": "gōdaimaz",
+
+      "strong_plur_masc_inst": "gōdaimiz",
+      "strong_plur_fem_inst": "gōdaimiz",
+      "strong_plur_neut_inst": "gōdaimiz",
+
+      "weak_sing_masc_nom": "gōdǭ",
+      "weak_sing_fem_nom": "gōdô",
+      "weak_sing_neut_nom": "gōdaniz",
+
+      "weak_sing_masc_acc": "gōdanų",
+      "weak_sing_fem_acc": "gōdōnų",
+      "weak_sing_neut_acc": "gōdô",
+
+      "weak_sing_masc_gen": "gōdiniz",
+      "weak_sing_fem_gen": "gōdōniz",
+      "weak_sing_neut_gen": "gōdiniz",
+
+      "weak_sing_masc_dat": "gōdini",
+      "weak_sing_fem_dat": "gōdōni",
+      "weak_sing_neut_dat": "gōdini",
+
+      "weak_sing_masc_inst": "gōdinē",
+      "weak_sing_fem_inst": "gōdōnē",
+      "weak_sing_neut_inst": "gōdinē",
+
+      "weak_plur_masc_nom": "gōdaniz",
+      "weak_plur_fem_nom": "gōdōniz",
+      "weak_plur_neut_nom": "gōdōnō",
+
+      "weak_plur_masc_acc": "gōdanunz",
+      "weak_plur_fem_acc": "gōdô",
+      "weak_plur_neut_acc": "gōdōnų",
+
+      "weak_plur_masc_gen": "gōdanǫ̂",
+      "weak_plur_fem_gen": "gōdōnǫ̂",
+      "weak_plur_neut_gen": "gōdanǫ̂",
+
+      "weak_plur_masc_dat": "gōdammaz",
+      "weak_plur_fem_dat": "gōdōmaz",
+      "weak_plur_neut_dat": "gōdammaz",
+
+      "weak_plur_masc_inst": "gōdammiz",
+      "weak_plur_fem_inst": "gōdōmiz",
+      "weak_plur_neut_inst": "gōdammiz"
+    }
+  },
+  "best": {
+    "type": "adjective",
+    "germanic": "batistaz",
+    "english1": "",
+    "english2": "",
+    "gender": "",
+    "pronunciation": "/ˈbɑ.tis.tɑz/",
+    "options": {
+      "strong_sing_masc_nom": "batistaz",
+      "strong_sing_fem_nom": "batistō",
+      "strong_sing_neut_nom": "batistą,-atō",
+
+      "strong_sing_masc_acc": "batistanǭ",
+      "strong_sing_fem_acc": "batistǭ",
+      "strong_sing_neut_acc": "batistą,-atō",
+
+      "strong_sing_masc_gen": "batistas,-is",
+      "strong_sing_fem_gen": "batistaizōz",
+      "strong_sing_neut_gen": "batistas,-is",
+
+      "strong_sing_masc_dat": "batistammai",
+      "strong_sing_fem_dat": "batistaizōi",
+      "strong_sing_neut_dat": "batistammai",
+
+      "strong_sing_masc_inst": "batistanō",
+      "strong_sing_fem_inst": "batistaizō",
+      "strong_sing_neut_inst": "batistanō",
+
+      "strong_plur_masc_nom": "batistai",
+      "strong_plur_fem_nom": "batistôz",
+      "strong_plur_neut_nom": "batistō",
+
+      "strong_plur_masc_acc": "batistanz",
+      "strong_plur_fem_acc": "batistōz",
+      "strong_plur_neut_acc": "batistō",
+
+      "strong_plur_masc_gen": "batistaizǫ̂",
+      "strong_plur_fem_gen": "batistaizǫ̂",
+      "strong_plur_neut_gen": "batistaizǫ̂",
+
+      "strong_plur_masc_dat": "batistaimaz",
+      "strong_plur_fem_dat": "batistaimaz",
+      "strong_plur_neut_dat": "batistaimaz",
+
+      "strong_plur_masc_inst": "batistaimiz",
+      "strong_plur_fem_inst": "batistaimiz",
+      "strong_plur_neut_inst": "batistaimiz",
+
+      "weak_sing_masc_nom": "batistǭ",
+      "weak_sing_fem_nom": "batistô",
+      "weak_sing_neut_nom": "batistaniz",
+
+      "weak_sing_masc_acc": "batistanų",
+      "weak_sing_fem_acc": "batistōnų",
+      "weak_sing_neut_acc": "batistô",
+
+      "weak_sing_masc_gen": "batistiniz",
+      "weak_sing_fem_gen": "batistōniz",
+      "weak_sing_neut_gen": "batistiniz",
+
+      "weak_sing_masc_dat": "batistini",
+      "weak_sing_fem_dat": "batistōni",
+      "weak_sing_neut_dat": "batistini",
+
+      "weak_sing_masc_inst": "batistinē",
+      "weak_sing_fem_inst": "batistōnē",
+      "weak_sing_neut_inst": "batistinē",
+
+      "weak_plur_masc_nom": "batistaniz",
+      "weak_plur_fem_nom": "batistōniz",
+      "weak_plur_neut_nom": "batistōnō",
+
+      "weak_plur_masc_acc": "batistanunz",
+      "weak_plur_fem_acc": "batistô",
+      "weak_plur_neut_acc": "batistōnų",
+
+      "weak_plur_masc_gen": "batistanǫ̂",
+      "weak_plur_fem_gen": "batistōnǫ̂",
+      "weak_plur_neut_gen": "batistanǫ̂",
+
+      "weak_plur_masc_dat": "batistammaz",
+      "weak_plur_fem_dat": "batistōmaz",
+      "weak_plur_neut_dat": "batistammaz",
+
+      "weak_plur_masc_inst": "batistammiz",
+      "weak_plur_fem_inst": "batistōmiz",
+      "weak_plur_neut_inst": "batistammiz"
+    }
+  },
+  "big": {
+    "type": "adjective",
+    "germanic": "mikilaz",
+    "english1": "large",
+    "english2": "many",
+    "gender": "",
+    "pronunciation": "/ˈmi.ki.lɑz/",
+    "options": {
+      "strong_sing_masc_nom": "mikilaz",
+      "strong_sing_fem_nom": "mikilō",
+      "strong_sing_neut_nom": "mikilą,-atō",
+
+      "strong_sing_masc_acc": "mikilanǭ",
+      "strong_sing_fem_acc": "mikilǭ",
+      "strong_sing_neut_acc": "mikilą,-atō",
+
+      "strong_sing_masc_gen": "mikilas,-is",
+      "strong_sing_fem_gen": "mikilaizōz",
+      "strong_sing_neut_gen": "mikilas,-is",
+
+      "strong_sing_masc_dat": "mikilammai",
+      "strong_sing_fem_dat": "mikilaizōi",
+      "strong_sing_neut_dat": "mikilammai",
+
+      "strong_sing_masc_inst": "mikilanō",
+      "strong_sing_fem_inst": "mikilaizō",
+      "strong_sing_neut_inst": "mikilanō",
+
+      "strong_plur_masc_nom": "mikilai",
+      "strong_plur_fem_nom": "mikilôz",
+      "strong_plur_neut_nom": "mikilō",
+
+      "strong_plur_masc_acc": "mikilanz",
+      "strong_plur_fem_acc": "mikilōz",
+      "strong_plur_neut_acc": "mikilō",
+
+      "strong_plur_masc_gen": "mikilaizǫ̂",
+      "strong_plur_fem_gen": "mikilaizǫ̂",
+      "strong_plur_neut_gen": "mikilaizǫ̂",
+
+      "strong_plur_masc_dat": "mikilaimaz",
+      "strong_plur_fem_dat": "mikilaimaz",
+      "strong_plur_neut_dat": "mikilaimaz",
+
+      "strong_plur_masc_inst": "mikilaimiz",
+      "strong_plur_fem_inst": "mikilaimiz",
+      "strong_plur_neut_inst": "mikilaimiz",
+
+      "weak_sing_masc_nom": "mikilǭ",
+      "weak_sing_fem_nom": "mikilô",
+      "weak_sing_neut_nom": "mikilaniz",
+
+      "weak_sing_masc_acc": "mikilanų",
+      "weak_sing_fem_acc": "mikilōnų",
+      "weak_sing_neut_acc": "mikilô",
+
+      "weak_sing_masc_gen": "mikiliniz",
+      "weak_sing_fem_gen": "mikilōniz",
+      "weak_sing_neut_gen": "mikiliniz",
+
+      "weak_sing_masc_dat": "mikilini",
+      "weak_sing_fem_dat": "mikilōni",
+      "weak_sing_neut_dat": "mikilini",
+
+      "weak_sing_masc_inst": "mikilinē",
+      "weak_sing_fem_inst": "mikilōnē",
+      "weak_sing_neut_inst": "mikilinē",
+
+      "weak_plur_masc_nom": "mikilaniz",
+      "weak_plur_fem_nom": "mikilōniz",
+      "weak_plur_neut_nom": "mikilōnō",
+
+      "weak_plur_masc_acc": "mikilanunz",
+      "weak_plur_fem_acc": "mikilô",
+      "weak_plur_neut_acc": "mikilōnų",
+
+      "weak_plur_masc_gen": "mikilanǫ̂",
+      "weak_plur_fem_gen": "mikilōnǫ̂",
+      "weak_plur_neut_gen": "mikilanǫ̂",
+
+      "weak_plur_masc_dat": "mikilammaz",
+      "weak_plur_fem_dat": "mikilōmaz",
+      "weak_plur_neut_dat": "mikilammaz",
+
+      "weak_plur_masc_inst": "mikilammiz",
+      "weak_plur_fem_inst": "mikilōmiz",
+      "weak_plur_neut_inst": "mikilammiz"
+    }
+  },
+  "biggest": {
+    "type": "adjective",
+    "germanic": "maistaz",
+    "english1": "largest",
+    "english2": "most",
+    "gender": "",
+    "pronunciation": "/ˈmɑi̯s.tɑz/",
+    "options": {
+      "strong_sing_masc_nom": "maistaz",
+      "strong_sing_fem_nom": "maistō",
+      "strong_sing_neut_nom": "maistą,-atō",
+
+      "strong_sing_masc_acc": "maistanǭ",
+      "strong_sing_fem_acc": "maistǭ",
+      "strong_sing_neut_acc": "maistą,-atō",
+
+      "strong_sing_masc_gen": "maistas,-is",
+      "strong_sing_fem_gen": "maistaizōz",
+      "strong_sing_neut_gen": "maistas,-is",
+
+      "strong_sing_masc_dat": "maistammai",
+      "strong_sing_fem_dat": "maistaizōi",
+      "strong_sing_neut_dat": "maistammai",
+
+      "strong_sing_masc_inst": "maistanō",
+      "strong_sing_fem_inst": "maistaizō",
+      "strong_sing_neut_inst": "maistanō",
+
+      "strong_plur_masc_nom": "maistai",
+      "strong_plur_fem_nom": "maistôz",
+      "strong_plur_neut_nom": "maistō",
+
+      "strong_plur_masc_acc": "maistanz",
+      "strong_plur_fem_acc": "maistōz",
+      "strong_plur_neut_acc": "maistō",
+
+      "strong_plur_masc_gen": "maistaizǫ̂",
+      "strong_plur_fem_gen": "maistaizǫ̂",
+      "strong_plur_neut_gen": "maistaizǫ̂",
+
+      "strong_plur_masc_dat": "maistaimaz",
+      "strong_plur_fem_dat": "maistaimaz",
+      "strong_plur_neut_dat": "maistaimaz",
+
+      "strong_plur_masc_inst": "maistaimiz",
+      "strong_plur_fem_inst": "maistaimiz",
+      "strong_plur_neut_inst": "maistaimiz",
+
+      "weak_sing_masc_nom": "maistǭ",
+      "weak_sing_fem_nom": "maistô",
+      "weak_sing_neut_nom": "maistaniz",
+
+      "weak_sing_masc_acc": "maistanų",
+      "weak_sing_fem_acc": "maistōnų",
+      "weak_sing_neut_acc": "maistô",
+
+      "weak_sing_masc_gen": "maistiniz",
+      "weak_sing_fem_gen": "maistōniz",
+      "weak_sing_neut_gen": "maistiniz",
+
+      "weak_sing_masc_dat": "maistini",
+      "weak_sing_fem_dat": "maistōni",
+      "weak_sing_neut_dat": "maistini",
+
+      "weak_sing_masc_inst": "maistinē",
+      "weak_sing_fem_inst": "maistōnē",
+      "weak_sing_neut_inst": "maistinē",
+
+      "weak_plur_masc_nom": "maistaniz",
+      "weak_plur_fem_nom": "maistōniz",
+      "weak_plur_neut_nom": "maistōnō",
+
+      "weak_plur_masc_acc": "maistanunz",
+      "weak_plur_fem_acc": "maistô",
+      "weak_plur_neut_acc": "maistōnų",
+
+      "weak_plur_masc_gen": "maistanǫ̂",
+      "weak_plur_fem_gen": "maistōnǫ̂",
+      "weak_plur_neut_gen": "maistanǫ̂",
+
+      "weak_plur_masc_dat": "maistammaz",
+      "weak_plur_fem_dat": "maistōmaz",
+      "weak_plur_neut_dat": "maistammaz",
+
+      "weak_plur_masc_inst": "maistammiz",
+      "weak_plur_fem_inst": "maistōmiz",
+      "weak_plur_neut_inst": "maistammiz"
+    }
+  },
+  "small": {
+    "type": "adjective",
+    "germanic": "lītilaz",
+    "english1": "little",
+    "english2": "few",
+    "gender": "",
+    "pronunciation": "/ˈliː.ti.lɑz/",
+    "options": {
+      "strong_sing_masc_nom": "lītilaz",
+      "strong_sing_fem_nom": "lītilō",
+      "strong_sing_neut_nom": "lītilą,-atō",
+
+      "strong_sing_masc_acc": "lītilanǭ",
+      "strong_sing_fem_acc": "lītilǭ",
+      "strong_sing_neut_acc": "lītilą,-atō",
+
+      "strong_sing_masc_gen": "lītilas,-is",
+      "strong_sing_fem_gen": "lītilaizōz",
+      "strong_sing_neut_gen": "lītilas,-is",
+
+      "strong_sing_masc_dat": "lītilammai",
+      "strong_sing_fem_dat": "lītilaizōi",
+      "strong_sing_neut_dat": "lītilammai",
+
+      "strong_sing_masc_inst": "lītilanō",
+      "strong_sing_fem_inst": "lītilaizō",
+      "strong_sing_neut_inst": "lītilanō",
+
+      "strong_plur_masc_nom": "lītilai",
+      "strong_plur_fem_nom": "lītilôz",
+      "strong_plur_neut_nom": "lītilō",
+
+      "strong_plur_masc_acc": "lītilanz",
+      "strong_plur_fem_acc": "lītilōz",
+      "strong_plur_neut_acc": "lītilō",
+
+      "strong_plur_masc_gen": "lītilaizǫ̂",
+      "strong_plur_fem_gen": "lītilaizǫ̂",
+      "strong_plur_neut_gen": "lītilaizǫ̂",
+
+      "strong_plur_masc_dat": "lītilaimaz",
+      "strong_plur_fem_dat": "lītilaimaz",
+      "strong_plur_neut_dat": "lītilaimaz",
+
+      "strong_plur_masc_inst": "lītilaimiz",
+      "strong_plur_fem_inst": "lītilaimiz",
+      "strong_plur_neut_inst": "lītilaimiz",
+
+      "weak_sing_masc_nom": "lītilǭ",
+      "weak_sing_fem_nom": "lītilô",
+      "weak_sing_neut_nom": "lītilaniz",
+
+      "weak_sing_masc_acc": "lītilanų",
+      "weak_sing_fem_acc": "lītilōnų",
+      "weak_sing_neut_acc": "lītilô",
+
+      "weak_sing_masc_gen": "lītiliniz",
+      "weak_sing_fem_gen": "lītilōniz",
+      "weak_sing_neut_gen": "lītiliniz",
+
+      "weak_sing_masc_dat": "lītilini",
+      "weak_sing_fem_dat": "lītilōni",
+      "weak_sing_neut_dat": "lītilini",
+
+      "weak_sing_masc_inst": "lītilinē",
+      "weak_sing_fem_inst": "lītilōnē",
+      "weak_sing_neut_inst": "lītilinē",
+
+      "weak_plur_masc_nom": "lītilaniz",
+      "weak_plur_fem_nom": "lītilōniz",
+      "weak_plur_neut_nom": "lītilōnō",
+
+      "weak_plur_masc_acc": "lītilanunz",
+      "weak_plur_fem_acc": "lītilô",
+      "weak_plur_neut_acc": "lītilōnų",
+
+      "weak_plur_masc_gen": "lītilanǫ̂",
+      "weak_plur_fem_gen": "lītilōnǫ̂",
+      "weak_plur_neut_gen": "lītilanǫ̂",
+
+      "weak_plur_masc_dat": "lītilammaz",
+      "weak_plur_fem_dat": "lītilōmaz",
+      "weak_plur_neut_dat": "lītilammaz",
+
+      "weak_plur_masc_inst": "lītilammiz",
+      "weak_plur_fem_inst": "lītilōmiz",
+      "weak_plur_neut_inst": "lītilammiz"
+    }
+  },
+  "smallest": {
+    "type": "adjective",
+    "germanic": "minnistaz",
+    "english1": "littlest",
+    "english2": "fewest",
+    "gender": "",
+    "pronunciation": "/ˈmin.nis.tɑzː/",
+    "options": {
+      "strong_sing_masc_nom": "minnistaz",
+      "strong_sing_fem_nom": "minnistō",
+      "strong_sing_neut_nom": "minnistą,-atō",
+
+      "strong_sing_masc_acc": "minnistanǭ",
+      "strong_sing_fem_acc": "minnistǭ",
+      "strong_sing_neut_acc": "minnistą,-atō",
+
+      "strong_sing_masc_gen": "minnistas,-is",
+      "strong_sing_fem_gen": "minnistaizōz",
+      "strong_sing_neut_gen": "minnistas,-is",
+
+      "strong_sing_masc_dat": "minnistammai",
+      "strong_sing_fem_dat": "minnistaizōi",
+      "strong_sing_neut_dat": "minnistammai",
+
+      "strong_sing_masc_inst": "minnistanō",
+      "strong_sing_fem_inst": "minnistaizō",
+      "strong_sing_neut_inst": "minnistanō",
+
+      "strong_plur_masc_nom": "minnistai",
+      "strong_plur_fem_nom": "minnistôz",
+      "strong_plur_neut_nom": "minnistō",
+
+      "strong_plur_masc_acc": "minnistanz",
+      "strong_plur_fem_acc": "minnistōz",
+      "strong_plur_neut_acc": "minnistō",
+
+      "strong_plur_masc_gen": "minnistaizǫ̂",
+      "strong_plur_fem_gen": "minnistaizǫ̂",
+      "strong_plur_neut_gen": "minnistaizǫ̂",
+
+      "strong_plur_masc_dat": "minnistaimaz",
+      "strong_plur_fem_dat": "minnistaimaz",
+      "strong_plur_neut_dat": "minnistaimaz",
+
+      "strong_plur_masc_inst": "minnistaimiz",
+      "strong_plur_fem_inst": "minnistaimiz",
+      "strong_plur_neut_inst": "minnistaimiz",
+
+      "weak_sing_masc_nom": "minnistǭ",
+      "weak_sing_fem_nom": "minnistô",
+      "weak_sing_neut_nom": "minnistaniz",
+
+      "weak_sing_masc_acc": "minnistanų",
+      "weak_sing_fem_acc": "minnistōnų",
+      "weak_sing_neut_acc": "minnistô",
+
+      "weak_sing_masc_gen": "minnistiniz",
+      "weak_sing_fem_gen": "minnistōniz",
+      "weak_sing_neut_gen": "minnistiniz",
+
+      "weak_sing_masc_dat": "minnistini",
+      "weak_sing_fem_dat": "minnistōni",
+      "weak_sing_neut_dat": "minnistini",
+
+      "weak_sing_masc_inst": "minnistinē",
+      "weak_sing_fem_inst": "minnistōnē",
+      "weak_sing_neut_inst": "minnistinē",
+
+      "weak_plur_masc_nom": "minnistaniz",
+      "weak_plur_fem_nom": "minnistōniz",
+      "weak_plur_neut_nom": "minnistōnō",
+
+      "weak_plur_masc_acc": "minnistanunz",
+      "weak_plur_fem_acc": "minnistô",
+      "weak_plur_neut_acc": "minnistōnų",
+
+      "weak_plur_masc_gen": "minnistanǫ̂",
+      "weak_plur_fem_gen": "minnistōnǫ̂",
+      "weak_plur_neut_gen": "minnistanǫ̂",
+
+      "weak_plur_masc_dat": "minnistammaz",
+      "weak_plur_fem_dat": "minnistōmaz",
+      "weak_plur_neut_dat": "minnistammaz",
+
+      "weak_plur_masc_inst": "minnistammiz",
+      "weak_plur_fem_inst": "minnistōmiz",
+      "weak_plur_neut_inst": "minnistammiz"
+    }
+  },
+  "beautiful": {
+    "type": "adjective",
+    "germanic": "skauniz",
+    "english1": "shining",
+    "english2": "",
+    "gender": "",
+    "pronunciation": "/ˈskɑu̯.niz/",
+    "options": {
+      "strong_sing_masc_acc": "skaunijanǭ",
+      "strong_sing_fem_acc": "skaunijǭ",
+      "strong_sing_neut_acc": "skaunį,-jatō",
+
+      "strong_sing_masc_gen": "skaunijas,skaunīs",
+      "strong_sing_fem_gen": "skaunijaizōz",
+      "strong_sing_neut_gen": "skaunijas,skaunīs",
+
+      "strong_sing_masc_dat": "skaunijammai",
+      "strong_sing_fem_dat": "skaunijaizōi",
+      "strong_sing_neut_dat": "skaunijammai",
+
+      "strong_sing_masc_inst": "skaunijanō",
+      "strong_sing_fem_inst": "skaunijaizō",
+      "strong_sing_neut_inst": "skaunijanō",
+
+      "strong_plur_masc_nom": "skaunijai",
+      "strong_plur_fem_nom": "skaunijôz",
+      "strong_plur_neut_nom": "skaunijō",
+
+      "strong_plur_masc_acc": "skaunijanz",
+      "strong_plur_fem_acc": "skaunijōz",
+      "strong_plur_neut_acc": "skaunijō",
+
+      "strong_plur_masc_gen": "skaunijaizǫ̂",
+      "strong_plur_fem_gen": "skaunijaizǫ̂",
+      "strong_plur_neut_gen": "skaunijaizǫ̂",
+
+      "strong_plur_masc_dat": "skaunijaimaz",
+      "strong_plur_fem_dat": "skaunijaimaz",
+      "strong_plur_neut_dat": "skaunijaimaz",
+
+      "strong_plur_masc_inst": "skaunijaimiz",
+      "strong_plur_fem_inst": "skaunijaimiz",
+      "strong_plur_neut_inst": "skaunijaimiz",
+
+      "weak_sing_masc_nom": "skaunijǭ",
+      "weak_sing_fem_nom": "skaunijô",
+      "weak_sing_neut_nom": "skaunijaniz",
+
+      "weak_sing_masc_acc": "skaunijanų",
+      "weak_sing_fem_acc": "skaunijōnų",
+      "weak_sing_neut_acc": "skaunijô",
+
+      "weak_sing_masc_gen": "skaunīniz",
+      "weak_sing_fem_gen": "skaunijōniz",
+      "weak_sing_neut_gen": "skaunīniz",
+
+      "weak_sing_masc_dat": "skaunīni",
+      "weak_sing_fem_dat": "skaunijōni",
+      "weak_sing_neut_dat": "skaunīni",
+
+      "weak_sing_masc_inst": "skaunīnē",
+      "weak_sing_fem_inst": "skaunijōnē",
+      "weak_sing_neut_inst": "skaunīnē",
+
+      "weak_plur_masc_nom": "skaunijaniz",
+      "weak_plur_fem_nom": "skaunijōniz",
+      "weak_plur_neut_nom": "skaunijōnō",
+
+      "weak_plur_masc_acc": "skaunijanunz",
+      "weak_plur_fem_acc": "skaunijô",
+      "weak_plur_neut_acc": "skaunijōnų",
+
+      "weak_plur_masc_gen": "skaunijanǫ̂",
+      "weak_plur_fem_gen": "skaunijōnǫ̂",
+      "weak_plur_neut_gen": "skaunijanǫ̂",
+
+      "weak_plur_masc_dat": "skaunijammaz",
+      "weak_plur_fem_dat": "skaunijōmaz",
+      "weak_plur_neut_dat": "skaunijammaz",
+
+      "weak_plur_masc_inst": "skaunijammiz",
+      "weak_plur_fem_inst": "skaunijōmiz",
+      "weak_plur_neut_inst": "skaunijammiz"
+    }
+  },
+  "most beautiful": {
+    "type": "adjective",
+    "germanic": "skaunistaz",
+    "english1": "beautifullest",
+    "english2": "",
+    "gender": "",
+    "pronunciation": "/ˈskɑu̯.nis.taz/",
+    "options": {
+      "strong_sing_masc_nom": "skaunistaz",
+      "strong_sing_fem_nom": "skaunistō",
+      "strong_sing_neut_nom": "skaunistą,-atō",
+
+      "strong_sing_masc_acc": "skaunistanǭ",
+      "strong_sing_fem_acc": "skaunistǭ",
+      "strong_sing_neut_acc": "skaunistą,-atō",
+
+      "strong_sing_masc_gen": "skaunistas,-is",
+      "strong_sing_fem_gen": "skaunistaizōz",
+      "strong_sing_neut_gen": "skaunistas,-is",
+
+      "strong_sing_masc_dat": "skaunistammai",
+      "strong_sing_fem_dat": "skaunistaizōi",
+      "strong_sing_neut_dat": "skaunistammai",
+
+      "strong_sing_masc_inst": "skaunistanō",
+      "strong_sing_fem_inst": "skaunistaizō",
+      "strong_sing_neut_inst": "skaunistanō",
+
+      "strong_plur_masc_nom": "skaunistai",
+      "strong_plur_fem_nom": "skaunistôz",
+      "strong_plur_neut_nom": "skaunistō",
+
+      "strong_plur_masc_acc": "skaunistanz",
+      "strong_plur_fem_acc": "skaunistōz",
+      "strong_plur_neut_acc": "skaunistō",
+
+      "strong_plur_masc_gen": "skaunistaizǫ̂",
+      "strong_plur_fem_gen": "skaunistaizǫ̂",
+      "strong_plur_neut_gen": "skaunistaizǫ̂",
+
+      "strong_plur_masc_dat": "skaunistaimaz",
+      "strong_plur_fem_dat": "skaunistaimaz",
+      "strong_plur_neut_dat": "skaunistaimaz",
+
+      "strong_plur_masc_inst": "skaunistaimiz",
+      "strong_plur_fem_inst": "skaunistaimiz",
+      "strong_plur_neut_inst": "skaunistaimiz",
+
+      "weak_sing_masc_nom": "skaunistǭ",
+      "weak_sing_fem_nom": "skaunistô",
+      "weak_sing_neut_nom": "skaunistaniz",
+
+      "weak_sing_masc_acc": "skaunistanų",
+      "weak_sing_fem_acc": "skaunistōnų",
+      "weak_sing_neut_acc": "skaunistô",
+
+      "weak_sing_masc_gen": "skaunistiniz",
+      "weak_sing_fem_gen": "skaunistōniz",
+      "weak_sing_neut_gen": "skaunistiniz",
+
+      "weak_sing_masc_dat": "skaunistini",
+      "weak_sing_fem_dat": "skaunistōni",
+      "weak_sing_neut_dat": "skaunistini",
+
+      "weak_sing_masc_inst": "skaunistinē",
+      "weak_sing_fem_inst": "skaunistōnē",
+      "weak_sing_neut_inst": "skaunistinē",
+
+      "weak_plur_masc_nom": "skaunistaniz",
+      "weak_plur_fem_nom": "skaunistōniz",
+      "weak_plur_neut_nom": "skaunistōnō",
+
+      "weak_plur_masc_acc": "skaunistanunz",
+      "weak_plur_fem_acc": "skaunistô",
+      "weak_plur_neut_acc": "skaunistōnų",
+
+      "weak_plur_masc_gen": "skaunistanǫ̂",
+      "weak_plur_fem_gen": "skaunistōnǫ̂",
+      "weak_plur_neut_gen": "skaunistanǫ̂",
+
+      "weak_plur_masc_dat": "skaunistammaz",
+      "weak_plur_fem_dat": "skaunistōmaz",
+      "weak_plur_neut_dat": "skaunistammaz",
+
+      "weak_plur_masc_inst": "skaunistammiz",
+      "weak_plur_fem_inst": "skaunistōmiz",
+      "weak_plur_neut_inst": "skaunistammiz"
+    }
+  },
+  "lovely": {
+    "type": "adjective",
+    "germanic": "wōþijaz",
+    "english1": "pleasant",
+    "english2": "",
+    "gender": "",
+    "pronunciation": "/ˈwɔː.θi.jɑz/",
+    "options": {
+      "strong_sing_masc_nom": "wōþijaz",
+      "strong_sing_fem_nom": "wōþijō",
+      "strong_sing_neut_nom": "wōþiją,-atō",
+
+      "strong_sing_masc_acc": "wōþijanǭ",
+      "strong_sing_fem_acc": "wōþijǭ",
+      "strong_sing_neut_acc": "wōþiją,-atō",
+
+      "strong_sing_masc_gen": "wōþijas,-īs",
+      "strong_sing_fem_gen": "wōþijaizōz",
+      "strong_sing_neut_gen": "wōþijas,-īs",
+
+      "strong_sing_masc_dat": "wōþijammai",
+      "strong_sing_fem_dat": "wōþijaizōi",
+      "strong_sing_neut_dat": "wōþijammai",
+
+      "strong_sing_masc_inst": "wōþijanō",
+      "strong_sing_fem_inst": "wōþijaizō",
+      "strong_sing_neut_inst": "wōþijanō",
+
+      "strong_plur_masc_nom": "wōþijai",
+      "strong_plur_fem_nom": "wōþijôz",
+      "strong_plur_neut_nom": "wōþijō",
+
+      "strong_plur_masc_acc": "wōþijanz",
+      "strong_plur_fem_acc": "wōþijōz",
+      "strong_plur_neut_acc": "wōþijō",
+
+      "strong_plur_masc_gen": "wōþijaizǫ̂",
+      "strong_plur_fem_gen": "wōþijaizǫ̂",
+      "strong_plur_neut_gen": "wōþijaizǫ̂",
+
+      "strong_plur_masc_dat": "wōþijaimaz",
+      "strong_plur_fem_dat": "wōþijaimaz",
+      "strong_plur_neut_dat": "wōþijaimaz",
+
+      "strong_plur_masc_inst": "wōþijaimiz",
+      "strong_plur_fem_inst": "wōþijaimiz",
+      "strong_plur_neut_inst": "wōþijaimiz",
+
+      "weak_sing_masc_nom": "wōþijǭ",
+      "weak_sing_fem_nom": "wōþijô",
+      "weak_sing_neut_nom": "wōþijaniz",
+
+      "weak_sing_masc_acc": "wōþijanų",
+      "weak_sing_fem_acc": "wōþijōnų",
+      "weak_sing_neut_acc": "wōþijô",
+
+      "weak_sing_masc_gen": "wōþīniz",
+      "weak_sing_fem_gen": "wōþijōniz",
+      "weak_sing_neut_gen": "wōþīniz",
+
+      "weak_sing_masc_dat": "wōþīni",
+      "weak_sing_fem_dat": "wōþijōni",
+      "weak_sing_neut_dat": "wōþīni",
+
+      "weak_sing_masc_inst": "wōþīnē",
+      "weak_sing_fem_inst": "wōþijōnē",
+      "weak_sing_neut_inst": "wōþīnē",
+
+      "weak_plur_masc_nom": "wōþijaniz",
+      "weak_plur_fem_nom": "wōþijōniz",
+      "weak_plur_neut_nom": "wōþijōnō",
+
+      "weak_plur_masc_acc": "wōþijanunz",
+      "weak_plur_fem_acc": "wōþijô",
+      "weak_plur_neut_acc": "wōþijōnų",
+
+      "weak_plur_masc_gen": "wōþijanǫ̂",
+      "weak_plur_fem_gen": "wōþijōnǫ̂",
+      "weak_plur_neut_gen": "wōþijanǫ̂",
+
+      "weak_plur_masc_dat": "wōþijammaz",
+      "weak_plur_fem_dat": "wōþijōmaz",
+      "weak_plur_neut_dat": "wōþijammaz",
+
+      "weak_plur_masc_inst": "wōþijammiz",
+      "weak_plur_fem_inst": "wōþijōmiz",
+      "weak_plur_neut_inst": "wōþijammiz"
+    }
+  },
+  "evil": {
+    "type": "adjective",
+    "germanic": "ubilaz",
+    "english1": "bad",
+    "english2": "",
+    "gender": "",
+    "pronunciation": "/ˈu.βi.lɑz/",
+    "options": {
+      "strong_sing_masc_nom": "ubilaz",
+      "strong_sing_fem_nom": "ubilō",
+      "strong_sing_neut_nom": "ubilą,-atō",
+
+      "strong_sing_masc_acc": "ubilanǭ",
+      "strong_sing_fem_acc": "ubilǭ",
+      "strong_sing_neut_acc": "ubilą,-atō",
+
+      "strong_sing_masc_gen": "ubilas,-is",
+      "strong_sing_fem_gen": "ubilaizōz",
+      "strong_sing_neut_gen": "ubilas,-is",
+
+      "strong_sing_masc_dat": "ubilammai",
+      "strong_sing_fem_dat": "ubilaizōi",
+      "strong_sing_neut_dat": "ubilammai",
+
+      "strong_sing_masc_inst": "ubilanō",
+      "strong_sing_fem_inst": "ubilaizō",
+      "strong_sing_neut_inst": "ubilanō",
+
+      "strong_plur_masc_nom": "ubilai",
+      "strong_plur_fem_nom": "ubilôz",
+      "strong_plur_neut_nom": "ubilō",
+
+      "strong_plur_masc_acc": "ubilanz",
+      "strong_plur_fem_acc": "ubilōz",
+      "strong_plur_neut_acc": "ubilō",
+
+      "strong_plur_masc_gen": "ubilaizǫ̂",
+      "strong_plur_fem_gen": "ubilaizǫ̂",
+      "strong_plur_neut_gen": "ubilaizǫ̂",
+
+      "strong_plur_masc_dat": "ubilaimaz",
+      "strong_plur_fem_dat": "ubilaimaz",
+      "strong_plur_neut_dat": "ubilaimaz",
+
+      "strong_plur_masc_inst": "ubilaimiz",
+      "strong_plur_fem_inst": "ubilaimiz",
+      "strong_plur_neut_inst": "ubilaimiz",
+
+      "weak_sing_masc_nom": "ubilǭ",
+      "weak_sing_fem_nom": "ubilô",
+      "weak_sing_neut_nom": "ubilaniz",
+
+      "weak_sing_masc_acc": "ubilanų",
+      "weak_sing_fem_acc": "ubilōnų",
+      "weak_sing_neut_acc": "ubilô",
+
+      "weak_sing_masc_gen": "ubiliniz",
+      "weak_sing_fem_gen": "ubilōniz",
+      "weak_sing_neut_gen": "ubiliniz",
+
+      "weak_sing_masc_dat": "ubilini",
+      "weak_sing_fem_dat": "ubilōni",
+      "weak_sing_neut_dat": "ubilini",
+
+      "weak_sing_masc_inst": "ubilinē",
+      "weak_sing_fem_inst": "ubilōnē",
+      "weak_sing_neut_inst": "ubilinē",
+
+      "weak_plur_masc_nom": "ubilaniz",
+      "weak_plur_fem_nom": "ubilōniz",
+      "weak_plur_neut_nom": "ubilōnō",
+
+      "weak_plur_masc_acc": "ubilanunz",
+      "weak_plur_fem_acc": "ubilô",
+      "weak_plur_neut_acc": "ubilōnų",
+
+      "weak_plur_masc_gen": "ubilanǫ̂",
+      "weak_plur_fem_gen": "ubilōnǫ̂",
+      "weak_plur_neut_gen": "ubilanǫ̂",
+
+      "weak_plur_masc_dat": "ubilammaz",
+      "weak_plur_fem_dat": "ubilōmaz",
+      "weak_plur_neut_dat": "ubilammaz",
+
+      "weak_plur_masc_inst": "ubilammiz",
+      "weak_plur_fem_inst": "ubilōmiz",
+      "weak_plur_neut_inst": "ubilammiz"
+    }
+  },
+  "evillest": {
+    "type": "adjective",
+    "germanic": "wirsistaz",
+    "english1": "most evil",
+    "english2": "worst",
+    "gender": "",
+    "pronunciation": "/ˈwir.sis.tɑz/",
+    "options": {
+      "strong_sing_masc_nom": "wirsistaz",
+      "strong_sing_fem_nom": "wirsistō",
+      "strong_sing_neut_nom": "wirsistą,-atō",
+
+      "strong_sing_masc_acc": "wirsistanǭ",
+      "strong_sing_fem_acc": "wirsistǭ",
+      "strong_sing_neut_acc": "wirsistą,-atō",
+
+      "strong_sing_masc_gen": "wirsistas,-is",
+      "strong_sing_fem_gen": "wirsistaizōz",
+      "strong_sing_neut_gen": "wirsistas,-is",
+
+      "strong_sing_masc_dat": "wirsistammai",
+      "strong_sing_fem_dat": "wirsistaizōi",
+      "strong_sing_neut_dat": "wirsistammai",
+
+      "strong_sing_masc_inst": "wirsistanō",
+      "strong_sing_fem_inst": "wirsistaizō",
+      "strong_sing_neut_inst": "wirsistanō",
+
+      "strong_plur_masc_nom": "wirsistai",
+      "strong_plur_fem_nom": "wirsistôz",
+      "strong_plur_neut_nom": "wirsistō",
+
+      "strong_plur_masc_acc": "wirsistanz",
+      "strong_plur_fem_acc": "wirsistōz",
+      "strong_plur_neut_acc": "wirsistō",
+
+      "strong_plur_masc_gen": "wirsistaizǫ̂",
+      "strong_plur_fem_gen": "wirsistaizǫ̂",
+      "strong_plur_neut_gen": "wirsistaizǫ̂",
+
+      "strong_plur_masc_dat": "wirsistaimaz",
+      "strong_plur_fem_dat": "wirsistaimaz",
+      "strong_plur_neut_dat": "wirsistaimaz",
+
+      "strong_plur_masc_inst": "wirsistaimiz",
+      "strong_plur_fem_inst": "wirsistaimiz",
+      "strong_plur_neut_inst": "wirsistaimiz",
+
+      "weak_sing_masc_nom": "wirsistǭ",
+      "weak_sing_fem_nom": "wirsistô",
+      "weak_sing_neut_nom": "wirsistaniz",
+
+      "weak_sing_masc_acc": "wirsistanų",
+      "weak_sing_fem_acc": "wirsistōnų",
+      "weak_sing_neut_acc": "wirsistô",
+
+      "weak_sing_masc_gen": "wirsistiniz",
+      "weak_sing_fem_gen": "wirsistōniz",
+      "weak_sing_neut_gen": "wirsistiniz",
+
+      "weak_sing_masc_dat": "wirsistini",
+      "weak_sing_fem_dat": "wirsistōni",
+      "weak_sing_neut_dat": "wirsistini",
+
+      "weak_sing_masc_inst": "wirsistinē",
+      "weak_sing_fem_inst": "wirsistōnē",
+      "weak_sing_neut_inst": "wirsistinē",
+
+      "weak_plur_masc_nom": "wirsistaniz",
+      "weak_plur_fem_nom": "wirsistōniz",
+      "weak_plur_neut_nom": "wirsistōnō",
+
+      "weak_plur_masc_acc": "wirsistanunz",
+      "weak_plur_fem_acc": "wirsistô",
+      "weak_plur_neut_acc": "wirsistōnų",
+
+      "weak_plur_masc_gen": "wirsistanǫ̂",
+      "weak_plur_fem_gen": "wirsistōnǫ̂",
+      "weak_plur_neut_gen": "wirsistanǫ̂",
+
+      "weak_plur_masc_dat": "wirsistammaz",
+      "weak_plur_fem_dat": "wirsistōmaz",
+      "weak_plur_neut_dat": "wirsistammaz",
+
+      "weak_plur_masc_inst": "wirsistammiz",
+      "weak_plur_fem_inst": "wirsistōmiz",
+      "weak_plur_neut_inst": "wirsistammiz"
+    }
+  },
+  "yellow": {
+    "type": "adjective",
+    "germanic": "gelwaz",
+    "english1": "",
+    "english2": "",
+    "gender": "",
+    "pronunciation": "/ˈɣel.wɑz/",
+    "options": {
+      "strong_sing_masc_nom": "gelwaz",
+      "strong_sing_fem_nom": "gelwō",
+      "strong_sing_neut_nom": "gelwą,-atō",
+
+      "strong_sing_masc_acc": "gelwanǭ",
+      "strong_sing_fem_acc": "gelwǭ",
+      "strong_sing_neut_acc": "gelwą,-atō",
+
+      "strong_sing_masc_gen": "gelwas,-is",
+      "strong_sing_fem_gen": "gelwaizōz",
+      "strong_sing_neut_gen": "gelwas,-is",
+
+      "strong_sing_masc_dat": "gelwammai",
+      "strong_sing_fem_dat": "gelwaizōi",
+      "strong_sing_neut_dat": "gelwammai",
+
+      "strong_sing_masc_inst": "gelwanō",
+      "strong_sing_fem_inst": "gelwaizō",
+      "strong_sing_neut_inst": "gelwanō",
+
+      "strong_plur_masc_nom": "gelwai",
+      "strong_plur_fem_nom": "gelwôz",
+      "strong_plur_neut_nom": "gelwō",
+
+      "strong_plur_masc_acc": "gelwanz",
+      "strong_plur_fem_acc": "gelwōz",
+      "strong_plur_neut_acc": "gelwō",
+
+      "strong_plur_masc_gen": "gelwaizǫ̂",
+      "strong_plur_fem_gen": "gelwaizǫ̂",
+      "strong_plur_neut_gen": "gelwaizǫ̂",
+
+      "strong_plur_masc_dat": "gelwaimaz",
+      "strong_plur_fem_dat": "gelwaimaz",
+      "strong_plur_neut_dat": "gelwaimaz",
+
+      "strong_plur_masc_inst": "gelwaimiz",
+      "strong_plur_fem_inst": "gelwaimiz",
+      "strong_plur_neut_inst": "gelwaimiz",
+
+      "weak_sing_masc_nom": "gelwǭ",
+      "weak_sing_fem_nom": "gelwô",
+      "weak_sing_neut_nom": "gelwaniz",
+
+      "weak_sing_masc_acc": "gelwanų",
+      "weak_sing_fem_acc": "gelwōnų",
+      "weak_sing_neut_acc": "gelwô",
+
+      "weak_sing_masc_gen": "gelwiniz",
+      "weak_sing_fem_gen": "gelwōniz",
+      "weak_sing_neut_gen": "gelwiniz",
+
+      "weak_sing_masc_dat": "gelwini",
+      "weak_sing_fem_dat": "gelwōni",
+      "weak_sing_neut_dat": "gelwini",
+
+      "weak_sing_masc_inst": "gelwinē",
+      "weak_sing_fem_inst": "gelwōnē",
+      "weak_sing_neut_inst": "gelwinē",
+
+      "weak_plur_masc_nom": "gelwaniz",
+      "weak_plur_fem_nom": "gelwōniz",
+      "weak_plur_neut_nom": "gelwōnō",
+
+      "weak_plur_masc_acc": "gelwanunz",
+      "weak_plur_fem_acc": "gelwô",
+      "weak_plur_neut_acc": "gelwōnų",
+
+      "weak_plur_masc_gen": "gelwanǫ̂",
+      "weak_plur_fem_gen": "gelwōnǫ̂",
+      "weak_plur_neut_gen": "gelwanǫ̂",
+
+      "weak_plur_masc_dat": "gelwammaz",
+      "weak_plur_fem_dat": "gelwōmaz",
+      "weak_plur_neut_dat": "gelwammaz",
+
+      "weak_plur_masc_inst": "gelwammiz",
+      "weak_plur_fem_inst": "gelwōmiz",
+      "weak_plur_neut_inst": "gelwammiz"
+    }
+  },
+  "black": {
+    "type": "adjective",
+    "germanic": "swartaz",
+    "english1": "",
+    "english2": "",
+    "gender": "",
+    "pronunciation": "/ˈswɑr.tɑz/",
+    "options": {
+      "strong_sing_masc_nom": "swartaz",
+      "strong_sing_fem_nom": "swartō",
+      "strong_sing_neut_nom": "swartą,-atō",
+
+      "strong_sing_masc_acc": "swartanǭ",
+      "strong_sing_fem_acc": "swartǭ",
+      "strong_sing_neut_acc": "swartą,-atō",
+
+      "strong_sing_masc_gen": "swartas,-is",
+      "strong_sing_fem_gen": "swartaizōz",
+      "strong_sing_neut_gen": "swartas,-is",
+
+      "strong_sing_masc_dat": "swartammai",
+      "strong_sing_fem_dat": "swartaizōi",
+      "strong_sing_neut_dat": "swartammai",
+
+      "strong_sing_masc_inst": "swartanō",
+      "strong_sing_fem_inst": "swartaizō",
+      "strong_sing_neut_inst": "swartanō",
+
+      "strong_plur_masc_nom": "swartai",
+      "strong_plur_fem_nom": "swartôz",
+      "strong_plur_neut_nom": "swartō",
+
+      "strong_plur_masc_acc": "swartanz",
+      "strong_plur_fem_acc": "swartōz",
+      "strong_plur_neut_acc": "swartō",
+
+      "strong_plur_masc_gen": "swartaizǫ̂",
+      "strong_plur_fem_gen": "swartaizǫ̂",
+      "strong_plur_neut_gen": "swartaizǫ̂",
+
+      "strong_plur_masc_dat": "swartaimaz",
+      "strong_plur_fem_dat": "swartaimaz",
+      "strong_plur_neut_dat": "swartaimaz",
+
+      "strong_plur_masc_inst": "swartaimiz",
+      "strong_plur_fem_inst": "swartaimiz",
+      "strong_plur_neut_inst": "swartaimiz",
+
+      "weak_sing_masc_nom": "swartǭ",
+      "weak_sing_fem_nom": "swartô",
+      "weak_sing_neut_nom": "swartaniz",
+
+      "weak_sing_masc_acc": "swartanų",
+      "weak_sing_fem_acc": "swartōnų",
+      "weak_sing_neut_acc": "swartô",
+
+      "weak_sing_masc_gen": "swartiniz",
+      "weak_sing_fem_gen": "swartōniz",
+      "weak_sing_neut_gen": "swartiniz",
+
+      "weak_sing_masc_dat": "swartini",
+      "weak_sing_fem_dat": "swartōni",
+      "weak_sing_neut_dat": "swartini",
+
+      "weak_sing_masc_inst": "swartinē",
+      "weak_sing_fem_inst": "swartōnē",
+      "weak_sing_neut_inst": "swartinē",
+
+      "weak_plur_masc_nom": "swartaniz",
+      "weak_plur_fem_nom": "swartōniz",
+      "weak_plur_neut_nom": "swartōnō",
+
+      "weak_plur_masc_acc": "swartanunz",
+      "weak_plur_fem_acc": "swartô",
+      "weak_plur_neut_acc": "swartōnų",
+
+      "weak_plur_masc_gen": "swartanǫ̂",
+      "weak_plur_fem_gen": "swartōnǫ̂",
+      "weak_plur_neut_gen": "swartanǫ̂",
+
+      "weak_plur_masc_dat": "swartammaz",
+      "weak_plur_fem_dat": "swartōmaz",
+      "weak_plur_neut_dat": "swartammaz",
+
+      "weak_plur_masc_inst": "swartammiz",
+      "weak_plur_fem_inst": "swartōmiz",
+      "weak_plur_neut_inst": "swartammiz"
+    }
+  },
+  "brown": {
+    "type": "adjective",
+    "germanic": "brūnaz",
+    "english1": "",
+    "english2": "",
+    "gender": "",
+    "pronunciation": "/ˈbruː.nɑz/",
+    "options": {
+      "strong_sing_masc_nom": "brūnaz",
+      "strong_sing_fem_nom": "brūnō",
+      "strong_sing_neut_nom": "brūną,-atō",
+
+      "strong_sing_masc_acc": "brūnanǭ",
+      "strong_sing_fem_acc": "brūnǭ",
+      "strong_sing_neut_acc": "brūną,-atō",
+
+      "strong_sing_masc_gen": "brūnas,-is",
+      "strong_sing_fem_gen": "brūnaizōz",
+      "strong_sing_neut_gen": "brūnas,-is",
+
+      "strong_sing_masc_dat": "brūnammai",
+      "strong_sing_fem_dat": "brūnaizōi",
+      "strong_sing_neut_dat": "brūnammai",
+
+      "strong_sing_masc_inst": "brūnanō",
+      "strong_sing_fem_inst": "brūnaizō",
+      "strong_sing_neut_inst": "brūnanō",
+
+      "strong_plur_masc_nom": "brūnai",
+      "strong_plur_fem_nom": "brūnôz",
+      "strong_plur_neut_nom": "brūnō",
+
+      "strong_plur_masc_acc": "brūnanz",
+      "strong_plur_fem_acc": "brūnōz",
+      "strong_plur_neut_acc": "brūnō",
+
+      "strong_plur_masc_gen": "brūnaizǫ̂",
+      "strong_plur_fem_gen": "brūnaizǫ̂",
+      "strong_plur_neut_gen": "brūnaizǫ̂",
+
+      "strong_plur_masc_dat": "brūnaimaz",
+      "strong_plur_fem_dat": "brūnaimaz",
+      "strong_plur_neut_dat": "brūnaimaz",
+
+      "strong_plur_masc_inst": "brūnaimiz",
+      "strong_plur_fem_inst": "brūnaimiz",
+      "strong_plur_neut_inst": "brūnaimiz",
+
+      "weak_sing_masc_nom": "brūnǭ",
+      "weak_sing_fem_nom": "brūnô",
+      "weak_sing_neut_nom": "brūnaniz",
+
+      "weak_sing_masc_acc": "brūnanų",
+      "weak_sing_fem_acc": "brūnōnų",
+      "weak_sing_neut_acc": "brūnô",
+
+      "weak_sing_masc_gen": "brūniniz",
+      "weak_sing_fem_gen": "brūnōniz",
+      "weak_sing_neut_gen": "brūniniz",
+
+      "weak_sing_masc_dat": "brūnini",
+      "weak_sing_fem_dat": "brūnōni",
+      "weak_sing_neut_dat": "brūnini",
+
+      "weak_sing_masc_inst": "brūninē",
+      "weak_sing_fem_inst": "brūnōnē",
+      "weak_sing_neut_inst": "brūninē",
+
+      "weak_plur_masc_nom": "brūnaniz",
+      "weak_plur_fem_nom": "brūnōniz",
+      "weak_plur_neut_nom": "brūnōnō",
+
+      "weak_plur_masc_acc": "brūnanunz",
+      "weak_plur_fem_acc": "brūnô",
+      "weak_plur_neut_acc": "brūnōnų",
+
+      "weak_plur_masc_gen": "brūnanǫ̂",
+      "weak_plur_fem_gen": "brūnōnǫ̂",
+      "weak_plur_neut_gen": "brūnanǫ̂",
+
+      "weak_plur_masc_dat": "brūnammaz",
+      "weak_plur_fem_dat": "brūnōmaz",
+      "weak_plur_neut_dat": "brūnammaz",
+
+      "weak_plur_masc_inst": "brūnammiz",
+      "weak_plur_fem_inst": "brūnōmiz",
+      "weak_plur_neut_inst": "brūnammiz"
+    }
+  },
+  "grey": {
+    "type": "adjective",
+    "germanic": "grēwaz",
+    "english1": "",
+    "english2": "",
+    "gender": "",
+    "pronunciation": "/ˈɣrɛː.wɑz/",
+    "options": {
+      "strong_sing_masc_nom": "grēwaz",
+      "strong_sing_fem_nom": "grēwō",
+      "strong_sing_neut_nom": "grēwą,-atō",
+
+      "strong_sing_masc_acc": "grēwanǭ",
+      "strong_sing_fem_acc": "grēwǭ",
+      "strong_sing_neut_acc": "grēwą,-atō",
+
+      "strong_sing_masc_gen": "grēwas,-is",
+      "strong_sing_fem_gen": "grēwaizōz",
+      "strong_sing_neut_gen": "grēwas,-is",
+
+      "strong_sing_masc_dat": "grēwammai",
+      "strong_sing_fem_dat": "grēwaizōi",
+      "strong_sing_neut_dat": "grēwammai",
+
+      "strong_sing_masc_inst": "grēwanō",
+      "strong_sing_fem_inst": "grēwaizō",
+      "strong_sing_neut_inst": "grēwanō",
+
+      "strong_plur_masc_nom": "grēwai",
+      "strong_plur_fem_nom": "grēwôz",
+      "strong_plur_neut_nom": "grēwō",
+
+      "strong_plur_masc_acc": "grēwanz",
+      "strong_plur_fem_acc": "grēwōz",
+      "strong_plur_neut_acc": "grēwō",
+
+      "strong_plur_masc_gen": "grēwaizǫ̂",
+      "strong_plur_fem_gen": "grēwaizǫ̂",
+      "strong_plur_neut_gen": "grēwaizǫ̂",
+
+      "strong_plur_masc_dat": "grēwaimaz",
+      "strong_plur_fem_dat": "grēwaimaz",
+      "strong_plur_neut_dat": "grēwaimaz",
+
+      "strong_plur_masc_inst": "grēwaimiz",
+      "strong_plur_fem_inst": "grēwaimiz",
+      "strong_plur_neut_inst": "grēwaimiz",
+
+      "weak_sing_masc_nom": "grēwǭ",
+      "weak_sing_fem_nom": "grēwô",
+      "weak_sing_neut_nom": "grēwaniz",
+
+      "weak_sing_masc_acc": "grēwanų",
+      "weak_sing_fem_acc": "grēwōnų",
+      "weak_sing_neut_acc": "grēwô",
+
+      "weak_sing_masc_gen": "grēwiniz",
+      "weak_sing_fem_gen": "grēwōniz",
+      "weak_sing_neut_gen": "grēwiniz",
+
+      "weak_sing_masc_dat": "grēwini",
+      "weak_sing_fem_dat": "grēwōni",
+      "weak_sing_neut_dat": "grēwini",
+
+      "weak_sing_masc_inst": "grēwinē",
+      "weak_sing_fem_inst": "grēwōnē",
+      "weak_sing_neut_inst": "grēwinē",
+
+      "weak_plur_masc_nom": "grēwaniz",
+      "weak_plur_fem_nom": "grēwōniz",
+      "weak_plur_neut_nom": "grēwōnō",
+
+      "weak_plur_masc_acc": "grēwanunz",
+      "weak_plur_fem_acc": "grēwô",
+      "weak_plur_neut_acc": "grēwōnų",
+
+      "weak_plur_masc_gen": "grēwanǫ̂",
+      "weak_plur_fem_gen": "grēwōnǫ̂",
+      "weak_plur_neut_gen": "grēwanǫ̂",
+
+      "weak_plur_masc_dat": "grēwammaz",
+      "weak_plur_fem_dat": "grēwōmaz",
+      "weak_plur_neut_dat": "grēwammaz",
+
+      "weak_plur_masc_inst": "grēwammiz",
+      "weak_plur_fem_inst": "grēwōmiz",
+      "weak_plur_neut_inst": "grēwammiz"
+    }
+  },
+  "purple": {
+    "type": "adjective",
+    "germanic": "hēwijaz",
+    "english1": "darkish blue",
+    "english2": "",
+    "gender": "",
+    "pronunciation": "/ˈxɛː.wi.jɑz/",
+    "options": {
+      "strong_sing_masc_nom": "hēwijaz",
+      "strong_sing_fem_nom": "hēwijō",
+      "strong_sing_neut_nom": "hēwiją,-atō",
+
+      "strong_sing_masc_acc": "hēwijanǭ",
+      "strong_sing_fem_acc": "hēwijǭ",
+      "strong_sing_neut_acc": "hēwiją,-atō",
+
+      "strong_sing_masc_gen": "hēwijas,-īs",
+      "strong_sing_fem_gen": "hēwijaizōz",
+      "strong_sing_neut_gen": "hēwijas,-īs",
+
+      "strong_sing_masc_dat": "hēwijammai",
+      "strong_sing_fem_dat": "hēwijaizōi",
+      "strong_sing_neut_dat": "hēwijammai",
+
+      "strong_sing_masc_inst": "hēwijanō",
+      "strong_sing_fem_inst": "hēwijaizō",
+      "strong_sing_neut_inst": "hēwijanō",
+
+      "strong_plur_masc_nom": "hēwijai",
+      "strong_plur_fem_nom": "hēwijôz",
+      "strong_plur_neut_nom": "hēwijō",
+
+      "strong_plur_masc_acc": "hēwijanz",
+      "strong_plur_fem_acc": "hēwijōz",
+      "strong_plur_neut_acc": "hēwijō",
+
+      "strong_plur_masc_gen": "hēwijaizǫ̂",
+      "strong_plur_fem_gen": "hēwijaizǫ̂",
+      "strong_plur_neut_gen": "hēwijaizǫ̂",
+
+      "strong_plur_masc_dat": "hēwijaimaz",
+      "strong_plur_fem_dat": "hēwijaimaz",
+      "strong_plur_neut_dat": "hēwijaimaz",
+
+      "strong_plur_masc_inst": "hēwijaimiz",
+      "strong_plur_fem_inst": "hēwijaimiz",
+      "strong_plur_neut_inst": "hēwijaimiz",
+
+      "weak_sing_masc_nom": "hēwijǭ",
+      "weak_sing_fem_nom": "hēwijô",
+      "weak_sing_neut_nom": "hēwijaniz",
+
+      "weak_sing_masc_acc": "hēwijanų",
+      "weak_sing_fem_acc": "hēwijōnų",
+      "weak_sing_neut_acc": "hēwijô",
+
+      "weak_sing_masc_gen": "hēwīniz",
+      "weak_sing_fem_gen": "hēwijōniz",
+      "weak_sing_neut_gen": "hēwīniz",
+
+      "weak_sing_masc_dat": "hēwīni",
+      "weak_sing_fem_dat": "hēwijōni",
+      "weak_sing_neut_dat": "hēwīni",
+
+      "weak_sing_masc_inst": "hēwīnē",
+      "weak_sing_fem_inst": "hēwijōnē",
+      "weak_sing_neut_inst": "hēwīnē",
+
+      "weak_plur_masc_nom": "hēwijaniz",
+      "weak_plur_fem_nom": "hēwijōniz",
+      "weak_plur_neut_nom": "hēwijōnō",
+
+      "weak_plur_masc_acc": "hēwijanunz",
+      "weak_plur_fem_acc": "hēwijô",
+      "weak_plur_neut_acc": "hēwijōnų",
+
+      "weak_plur_masc_gen": "hēwijanǫ̂",
+      "weak_plur_fem_gen": "hēwijōnǫ̂",
+      "weak_plur_neut_gen": "hēwijanǫ̂",
+
+      "weak_plur_masc_dat": "hēwijammaz",
+      "weak_plur_fem_dat": "hēwijōmaz",
+      "weak_plur_neut_dat": "hēwijammaz",
+
+      "weak_plur_masc_inst": "hēwijammiz",
+      "weak_plur_fem_inst": "hēwijōmiz",
+      "weak_plur_neut_inst": "hēwijammiz"
+    }
+  },
+  "pale": {
+    "type": "adjective",
+    "germanic": "blaikaz",
+    "english1": "",
+    "english2": "",
+    "gender": "",
+    "pronunciation": "/ˈblɑi̯.kɑz/",
+    "options": {
+      "strong_sing_masc_nom": "blaikaz",
+      "strong_sing_fem_nom": "blaikō",
+      "strong_sing_neut_nom": "blaiką,-atō",
+
+      "strong_sing_masc_acc": "blaikanǭ",
+      "strong_sing_fem_acc": "blaikǭ",
+      "strong_sing_neut_acc": "blaiką,-atō",
+
+      "strong_sing_masc_gen": "blaikas,-is",
+      "strong_sing_fem_gen": "blaikaizōz",
+      "strong_sing_neut_gen": "blaikas,-is",
+
+      "strong_sing_masc_dat": "blaikammai",
+      "strong_sing_fem_dat": "blaikaizōi",
+      "strong_sing_neut_dat": "blaikammai",
+
+      "strong_sing_masc_inst": "blaikanō",
+      "strong_sing_fem_inst": "blaikaizō",
+      "strong_sing_neut_inst": "blaikanō",
+
+      "strong_plur_masc_nom": "blaikai",
+      "strong_plur_fem_nom": "blaikôz",
+      "strong_plur_neut_nom": "blaikō",
+
+      "strong_plur_masc_acc": "blaikanz",
+      "strong_plur_fem_acc": "blaikōz",
+      "strong_plur_neut_acc": "blaikō",
+
+      "strong_plur_masc_gen": "blaikaizǫ̂",
+      "strong_plur_fem_gen": "blaikaizǫ̂",
+      "strong_plur_neut_gen": "blaikaizǫ̂",
+
+      "strong_plur_masc_dat": "blaikaimaz",
+      "strong_plur_fem_dat": "blaikaimaz",
+      "strong_plur_neut_dat": "blaikaimaz",
+
+      "strong_plur_masc_inst": "blaikaimiz",
+      "strong_plur_fem_inst": "blaikaimiz",
+      "strong_plur_neut_inst": "blaikaimiz",
+
+      "weak_sing_masc_nom": "blaikǭ",
+      "weak_sing_fem_nom": "blaikô",
+      "weak_sing_neut_nom": "blaikaniz",
+
+      "weak_sing_masc_acc": "blaikanų",
+      "weak_sing_fem_acc": "blaikōnų",
+      "weak_sing_neut_acc": "blaikô",
+
+      "weak_sing_masc_gen": "blaikiniz",
+      "weak_sing_fem_gen": "blaikōniz",
+      "weak_sing_neut_gen": "blaikiniz",
+
+      "weak_sing_masc_dat": "blaikini",
+      "weak_sing_fem_dat": "blaikōni",
+      "weak_sing_neut_dat": "blaikini",
+
+      "weak_sing_masc_inst": "blaikinē",
+      "weak_sing_fem_inst": "blaikōnē",
+      "weak_sing_neut_inst": "blaikinē",
+
+      "weak_plur_masc_nom": "blaikaniz",
+      "weak_plur_fem_nom": "blaikōniz",
+      "weak_plur_neut_nom": "blaikōnō",
+
+      "weak_plur_masc_acc": "blaikanunz",
+      "weak_plur_fem_acc": "blaikô",
+      "weak_plur_neut_acc": "blaikōnų",
+
+      "weak_plur_masc_gen": "blaikanǫ̂",
+      "weak_plur_fem_gen": "blaikōnǫ̂",
+      "weak_plur_neut_gen": "blaikanǫ̂",
+
+      "weak_plur_masc_dat": "blaikammaz",
+      "weak_plur_fem_dat": "blaikōmaz",
+      "weak_plur_neut_dat": "blaikammaz",
+
+      "weak_plur_masc_inst": "blaikammiz",
+      "weak_plur_fem_inst": "blaikōmiz",
+      "weak_plur_neut_inst": "blaikammiz"
+    }
+  },
+  "blue": {
+    "type": "adjective",
+    "germanic": "blēwaz",
+    "english1": "",
+    "english2": "",
+    "gender": "",
+    "pronunciation": "/ˈblɛː.wɑz/",
+    "options": {
+      "strong_sing_masc_nom": "blēwaz",
+      "strong_sing_fem_nom": "blēwō",
+      "strong_sing_neut_nom": "blēwą,-atō",
+
+      "strong_sing_masc_acc": "blēwanǭ",
+      "strong_sing_fem_acc": "blēwǭ",
+      "strong_sing_neut_acc": "blēwą,-atō",
+
+      "strong_sing_masc_gen": "blēwas,-is",
+      "strong_sing_fem_gen": "blēwaizōz",
+      "strong_sing_neut_gen": "blēwas,-is",
+
+      "strong_sing_masc_dat": "blēwammai",
+      "strong_sing_fem_dat": "blēwaizōi",
+      "strong_sing_neut_dat": "blēwammai",
+
+      "strong_sing_masc_inst": "blēwanō",
+      "strong_sing_fem_inst": "blēwaizō",
+      "strong_sing_neut_inst": "blēwanō",
+
+      "strong_plur_masc_nom": "blēwai",
+      "strong_plur_fem_nom": "blēwôz",
+      "strong_plur_neut_nom": "blēwō",
+
+      "strong_plur_masc_acc": "blēwanz",
+      "strong_plur_fem_acc": "blēwōz",
+      "strong_plur_neut_acc": "blēwō",
+
+      "strong_plur_masc_gen": "blēwaizǫ̂",
+      "strong_plur_fem_gen": "blēwaizǫ̂",
+      "strong_plur_neut_gen": "blēwaizǫ̂",
+
+      "strong_plur_masc_dat": "blēwaimaz",
+      "strong_plur_fem_dat": "blēwaimaz",
+      "strong_plur_neut_dat": "blēwaimaz",
+
+      "strong_plur_masc_inst": "blēwaimiz",
+      "strong_plur_fem_inst": "blēwaimiz",
+      "strong_plur_neut_inst": "blēwaimiz",
+
+      "weak_sing_masc_nom": "blēwǭ",
+      "weak_sing_fem_nom": "blēwô",
+      "weak_sing_neut_nom": "blēwaniz",
+
+      "weak_sing_masc_acc": "blēwanų",
+      "weak_sing_fem_acc": "blēwōnų",
+      "weak_sing_neut_acc": "blēwô",
+
+      "weak_sing_masc_gen": "blēwiniz",
+      "weak_sing_fem_gen": "blēwōniz",
+      "weak_sing_neut_gen": "blēwiniz",
+
+      "weak_sing_masc_dat": "blēwini",
+      "weak_sing_fem_dat": "blēwōni",
+      "weak_sing_neut_dat": "blēwini",
+
+      "weak_sing_masc_inst": "blēwinē",
+      "weak_sing_fem_inst": "blēwōnē",
+      "weak_sing_neut_inst": "blēwinē",
+
+      "weak_plur_masc_nom": "blēwaniz",
+      "weak_plur_fem_nom": "blēwōniz",
+      "weak_plur_neut_nom": "blēwōnō",
+
+      "weak_plur_masc_acc": "blēwanunz",
+      "weak_plur_fem_acc": "blēwô",
+      "weak_plur_neut_acc": "blēwōnų",
+
+      "weak_plur_masc_gen": "blēwanǫ̂",
+      "weak_plur_fem_gen": "blēwōnǫ̂",
+      "weak_plur_neut_gen": "blēwanǫ̂",
+
+      "weak_plur_masc_dat": "blēwammaz",
+      "weak_plur_fem_dat": "blēwōmaz",
+      "weak_plur_neut_dat": "blēwammaz",
+
+      "weak_plur_masc_inst": "blēwammiz",
+      "weak_plur_fem_inst": "blēwōmiz",
+      "weak_plur_neut_inst": "blēwammiz"
+    }
+  },
+  "grass-green": {
+    "type": "adjective",
+    "germanic": "grasagrōniz",
+    "english1": "",
+    "english2": "",
+    "gender": "",
+    "pronunciation": "/ˈɣrɑ.sɑ.ˌɣrɔː.niz/",
+    "options": {
+      "strong_sing_masc_nom": "grasagrōniz",
+      "strong_sing_fem_nom": "grasagrōnī",
+      "strong_sing_neut_nom": "grasagrōnį,-jatō",
+
+      "strong_sing_masc_acc": "grasagrōnijanǭ",
+      "strong_sing_fem_acc": "grasagrōnijǭ",
+      "strong_sing_neut_acc": "grasagrōnį,-jatō",
+
+      "strong_sing_masc_gen": "grasagrōnijas,grasagrōnīs",
+      "strong_sing_fem_gen": "grasagrōnijaizōz",
+      "strong_sing_neut_gen": "grasagrōnijas,grasagrōnīs",
+
+      "strong_sing_masc_dat": "grasagrōnijammai",
+      "strong_sing_fem_dat": "grasagrōnijaizōi",
+      "strong_sing_neut_dat": "grasagrōnijammai",
+
+      "strong_sing_masc_inst": "grasagrōnijanō",
+      "strong_sing_fem_inst": "grasagrōnijaizō",
+      "strong_sing_neut_inst": "grasagrōnijanō",
+
+      "strong_plur_masc_nom": "grasagrōnijai",
+      "strong_plur_fem_nom": "grasagrōnijôz",
+      "strong_plur_neut_nom": "grasagrōnijō",
+
+      "strong_plur_masc_acc": "grasagrōnijanz",
+      "strong_plur_fem_acc": "grasagrōnijōz",
+      "strong_plur_neut_acc": "grasagrōnijō",
+
+      "strong_plur_masc_gen": "grasagrōnijaizǫ̂",
+      "strong_plur_fem_gen": "grasagrōnijaizǫ̂",
+      "strong_plur_neut_gen": "grasagrōnijaizǫ̂",
+
+      "strong_plur_masc_dat": "grasagrōnijaimaz",
+      "strong_plur_fem_dat": "grasagrōnijaimaz",
+      "strong_plur_neut_dat": "grasagrōnijaimaz",
+
+      "strong_plur_masc_inst": "grasagrōnijaimiz",
+      "strong_plur_fem_inst": "grasagrōnijaimiz",
+      "strong_plur_neut_inst": "grasagrōnijaimiz",
+
+      "weak_sing_masc_nom": "grasagrōnijǭ",
+      "weak_sing_fem_nom": "grasagrōnijô",
+      "weak_sing_neut_nom": "grasagrōnijaniz",
+
+      "weak_sing_masc_acc": "grasagrōnijanų",
+      "weak_sing_fem_acc": "grasagrōnijōnų",
+      "weak_sing_neut_acc": "grasagrōnijô",
+
+      "weak_sing_masc_gen": "grasagrōnīniz",
+      "weak_sing_fem_gen": "grasagrōnijōniz",
+      "weak_sing_neut_gen": "grasagrōnīniz",
+
+      "weak_sing_masc_dat": "grasagrōnīni",
+      "weak_sing_fem_dat": "grasagrōnijōni",
+      "weak_sing_neut_dat": "grasagrōnīni",
+
+      "weak_sing_masc_inst": "grasagrōnīnē",
+      "weak_sing_fem_inst": "grasagrōnijōnē",
+      "weak_sing_neut_inst": "grasagrōnīnē",
+
+      "weak_plur_masc_nom": "grasagrōnijaniz",
+      "weak_plur_fem_nom": "grasagrōnijōniz",
+      "weak_plur_neut_nom": "grasagrōnijōnō",
+
+      "weak_plur_masc_acc": "grasagrōnijanunz",
+      "weak_plur_fem_acc": "grasagrōnijô",
+      "weak_plur_neut_acc": "grasagrōnijōnų",
+
+      "weak_plur_masc_gen": "grasagrōnijanǫ̂",
+      "weak_plur_fem_gen": "grasagrōnijōnǫ̂",
+      "weak_plur_neut_gen": "grasagrōnijanǫ̂",
+
+      "weak_plur_masc_dat": "grasagrōnijammaz",
+      "weak_plur_fem_dat": "grasagrōnijōmaz",
+      "weak_plur_neut_dat": "grasagrōnijammaz",
+
+      "weak_plur_masc_inst": "grasagrōnijammiz",
+      "weak_plur_fem_inst": "grasagrōnijōmiz",
+      "weak_plur_neut_inst": "grasagrōnijammiz"
+    }
+  },
+  "green": {
+    "type": "adjective",
+    "germanic": "grōniz",
+    "english1": "",
+    "english2": "",
+    "gender": "",
+    "pronunciation": "/ˈɣrɔː.niz/",
+    "options": {
+      "strong_sing_masc_nom": "grōniz",
+      "strong_sing_fem_nom": "grōnī",
+      "strong_sing_neut_nom": "grōnį,-jatō",
+
+      "strong_sing_masc_acc": "grōnijanǭ",
+      "strong_sing_fem_acc": "grōnijǭ",
+      "strong_sing_neut_acc": "grōnį,-jatō",
+
+      "strong_sing_masc_gen": "grōnijas,grōnīs",
+      "strong_sing_fem_gen": "grōnijaizōz",
+      "strong_sing_neut_gen": "grōnijas,grōnīs",
+
+      "strong_sing_masc_dat": "grōnijammai",
+      "strong_sing_fem_dat": "grōnijaizōi",
+      "strong_sing_neut_dat": "grōnijammai",
+
+      "strong_sing_masc_inst": "grōnijanō",
+      "strong_sing_fem_inst": "grōnijaizō",
+      "strong_sing_neut_inst": "grōnijanō",
+
+      "strong_plur_masc_nom": "grōnijai",
+      "strong_plur_fem_nom": "grōnijôz",
+      "strong_plur_neut_nom": "grōnijō",
+
+      "strong_plur_masc_acc": "grōnijanz",
+      "strong_plur_fem_acc": "grōnijōz",
+      "strong_plur_neut_acc": "grōnijō",
+
+      "strong_plur_masc_gen": "grōnijaizǫ̂",
+      "strong_plur_fem_gen": "grōnijaizǫ̂",
+      "strong_plur_neut_gen": "grōnijaizǫ̂",
+
+      "strong_plur_masc_dat": "grōnijaimaz",
+      "strong_plur_fem_dat": "grōnijaimaz",
+      "strong_plur_neut_dat": "grōnijaimaz",
+
+      "strong_plur_masc_inst": "grōnijaimiz",
+      "strong_plur_fem_inst": "grōnijaimiz",
+      "strong_plur_neut_inst": "grōnijaimiz",
+
+      "weak_sing_masc_nom": "grōnijǭ",
+      "weak_sing_fem_nom": "grōnijô",
+      "weak_sing_neut_nom": "grōnijaniz",
+
+      "weak_sing_masc_acc": "grōnijanų",
+      "weak_sing_fem_acc": "grōnijōnų",
+      "weak_sing_neut_acc": "grōnijô",
+
+      "weak_sing_masc_gen": "grōnīniz",
+      "weak_sing_fem_gen": "grōnijōniz",
+      "weak_sing_neut_gen": "grōnīniz",
+
+      "weak_sing_masc_dat": "grōnīni",
+      "weak_sing_fem_dat": "grōnijōni",
+      "weak_sing_neut_dat": "grōnīni",
+
+      "weak_sing_masc_inst": "grōnīnē",
+      "weak_sing_fem_inst": "grōnijōnē",
+      "weak_sing_neut_inst": "grōnīnē",
+
+      "weak_plur_masc_nom": "grōnijaniz",
+      "weak_plur_fem_nom": "grōnijōniz",
+      "weak_plur_neut_nom": "grōnijōnō",
+
+      "weak_plur_masc_acc": "grōnijanunz",
+      "weak_plur_fem_acc": "grōnijô",
+      "weak_plur_neut_acc": "grōnijōnų",
+
+      "weak_plur_masc_gen": "grōnijanǫ̂",
+      "weak_plur_fem_gen": "grōnijōnǫ̂",
+      "weak_plur_neut_gen": "grōnijanǫ̂",
+
+      "weak_plur_masc_dat": "grōnijammaz",
+      "weak_plur_fem_dat": "grōnijōmaz",
+      "weak_plur_neut_dat": "grōnijammaz",
+
+      "weak_plur_masc_inst": "grōnijammiz",
+      "weak_plur_fem_inst": "grōnijōmiz",
+      "weak_plur_neut_inst": "grōnijammiz"
+    }
+  },
+  "blood-red": {
+    "type": "adjective",
+    "germanic": "blōþaraudaz",
+    "english1": "",
+    "english2": "",
+    "gender": "",
+    "pronunciation": "/ˈblɔː.θɑ.ˌrɑu̯.ðɑz/",
+    "options": {
+      "strong_sing_masc_nom": "blōþraudaz",
+      "strong_sing_fem_nom": "blōþraudō",
+      "strong_sing_neut_nom": "blōþraudą,-atō",
+
+      "strong_sing_masc_acc": "blōþraudanǭ",
+      "strong_sing_fem_acc": "blōþraudǭ",
+      "strong_sing_neut_acc": "blōþraudą,-atō",
+
+      "strong_sing_masc_gen": "blōþraudas,-is",
+      "strong_sing_fem_gen": "blōþraudaizōz",
+      "strong_sing_neut_gen": "blōþraudas,-is",
+
+      "strong_sing_masc_dat": "blōþraudammai",
+      "strong_sing_fem_dat": "blōþraudaizōi",
+      "strong_sing_neut_dat": "blōþraudammai",
+
+      "strong_sing_masc_inst": "blōþraudanō",
+      "strong_sing_fem_inst": "blōþraudaizō",
+      "strong_sing_neut_inst": "blōþraudanō",
+
+      "strong_plur_masc_nom": "blōþraudai",
+      "strong_plur_fem_nom": "blōþraudôz",
+      "strong_plur_neut_nom": "blōþraudō",
+
+      "strong_plur_masc_acc": "blōþraudanz",
+      "strong_plur_fem_acc": "blōþraudōz",
+      "strong_plur_neut_acc": "blōþraudō",
+
+      "strong_plur_masc_gen": "blōþraudaizǫ̂",
+      "strong_plur_fem_gen": "blōþraudaizǫ̂",
+      "strong_plur_neut_gen": "blōþraudaizǫ̂",
+
+      "strong_plur_masc_dat": "blōþraudaimaz",
+      "strong_plur_fem_dat": "blōþraudaimaz",
+      "strong_plur_neut_dat": "blōþraudaimaz",
+
+      "strong_plur_masc_inst": "blōþraudaimiz",
+      "strong_plur_fem_inst": "blōþraudaimiz",
+      "strong_plur_neut_inst": "blōþraudaimiz",
+
+      "weak_sing_masc_nom": "blōþraudǭ",
+      "weak_sing_fem_nom": "blōþraudô",
+      "weak_sing_neut_nom": "blōþraudaniz",
+
+      "weak_sing_masc_acc": "blōþraudanų",
+      "weak_sing_fem_acc": "blōþraudōnų",
+      "weak_sing_neut_acc": "blōþraudô",
+
+      "weak_sing_masc_gen": "blōþraudiniz",
+      "weak_sing_fem_gen": "blōþraudōniz",
+      "weak_sing_neut_gen": "blōþraudiniz",
+
+      "weak_sing_masc_dat": "blōþraudini",
+      "weak_sing_fem_dat": "blōþraudōni",
+      "weak_sing_neut_dat": "blōþraudini",
+
+      "weak_sing_masc_inst": "blōþraudinē",
+      "weak_sing_fem_inst": "blōþraudōnē",
+      "weak_sing_neut_inst": "blōþraudinē",
+
+      "weak_plur_masc_nom": "blōþraudaniz",
+      "weak_plur_fem_nom": "blōþraudōniz",
+      "weak_plur_neut_nom": "blōþraudōnō",
+
+      "weak_plur_masc_acc": "blōþraudanunz",
+      "weak_plur_fem_acc": "blōþraudô",
+      "weak_plur_neut_acc": "blōþraudōnų",
+
+      "weak_plur_masc_gen": "blōþraudanǫ̂",
+      "weak_plur_fem_gen": "blōþraudōnǫ̂",
+      "weak_plur_neut_gen": "blōþraudanǫ̂",
+
+      "weak_plur_masc_dat": "blōþraudammaz",
+      "weak_plur_fem_dat": "blōþraudōmaz",
+      "weak_plur_neut_dat": "blōþraudammaz",
+
+      "weak_plur_masc_inst": "blōþraudammiz",
+      "weak_plur_fem_inst": "blōþraudōmiz",
+      "weak_plur_neut_inst": "blōþraudammiz"
+    }
+  },
+  "white": {
+    "type": "adjective",
+    "germanic": "hwītaz",
+    "english1": "",
+    "english2": "",
+    "gender": "",
+    "pronunciation": "/ˈxʷiː.tɑz/",
+    "options": {
+      "strong_sing_masc_nom": "hwītaz",
+      "strong_sing_fem_nom": "hwītō",
+      "strong_sing_neut_nom": "hwītą,-atō",
+
+      "strong_sing_masc_acc": "hwītanǭ",
+      "strong_sing_fem_acc": "hwītǭ",
+      "strong_sing_neut_acc": "hwītą,-atō",
+
+      "strong_sing_masc_gen": "hwītas,-is",
+      "strong_sing_fem_gen": "hwītaizōz",
+      "strong_sing_neut_gen": "hwītas,-is",
+
+      "strong_sing_masc_dat": "hwītammai",
+      "strong_sing_fem_dat": "hwītaizōi",
+      "strong_sing_neut_dat": "hwītammai",
+
+      "strong_sing_masc_inst": "hwītanō",
+      "strong_sing_fem_inst": "hwītaizō",
+      "strong_sing_neut_inst": "hwītanō",
+
+      "strong_plur_masc_nom": "hwītai",
+      "strong_plur_fem_nom": "hwītôz",
+      "strong_plur_neut_nom": "hwītō",
+
+      "strong_plur_masc_acc": "hwītanz",
+      "strong_plur_fem_acc": "hwītōz",
+      "strong_plur_neut_acc": "hwītō",
+
+      "strong_plur_masc_gen": "hwītaizǫ̂",
+      "strong_plur_fem_gen": "hwītaizǫ̂",
+      "strong_plur_neut_gen": "hwītaizǫ̂",
+
+      "strong_plur_masc_dat": "hwītaimaz",
+      "strong_plur_fem_dat": "hwītaimaz",
+      "strong_plur_neut_dat": "hwītaimaz",
+
+      "strong_plur_masc_inst": "hwītaimiz",
+      "strong_plur_fem_inst": "hwītaimiz",
+      "strong_plur_neut_inst": "hwītaimiz",
+
+      "weak_sing_masc_nom": "hwītǭ",
+      "weak_sing_fem_nom": "hwītô",
+      "weak_sing_neut_nom": "hwītaniz",
+
+      "weak_sing_masc_acc": "hwītanų",
+      "weak_sing_fem_acc": "hwītōnų",
+      "weak_sing_neut_acc": "hwītô",
+
+      "weak_sing_masc_gen": "hwītiniz",
+      "weak_sing_fem_gen": "hwītōniz",
+      "weak_sing_neut_gen": "hwītiniz",
+
+      "weak_sing_masc_dat": "hwītini",
+      "weak_sing_fem_dat": "hwītōni",
+      "weak_sing_neut_dat": "hwītini",
+
+      "weak_sing_masc_inst": "hwītinē",
+      "weak_sing_fem_inst": "hwītōnē",
+      "weak_sing_neut_inst": "hwītinē",
+
+      "weak_plur_masc_nom": "hwītaniz",
+      "weak_plur_fem_nom": "hwītōniz",
+      "weak_plur_neut_nom": "hwītōnō",
+
+      "weak_plur_masc_acc": "hwītanunz",
+      "weak_plur_fem_acc": "hwītô",
+      "weak_plur_neut_acc": "hwītōnų",
+
+      "weak_plur_masc_gen": "hwītanǫ̂",
+      "weak_plur_fem_gen": "hwītōnǫ̂",
+      "weak_plur_neut_gen": "hwītanǫ̂",
+
+      "weak_plur_masc_dat": "hwītammaz",
+      "weak_plur_fem_dat": "hwītōmaz",
+      "weak_plur_neut_dat": "hwītammaz",
+
+      "weak_plur_masc_inst": "hwītammiz",
+      "weak_plur_fem_inst": "hwītōmiz",
+      "weak_plur_neut_inst": "hwītammiz"
+    }
+  },
+  "snow-white": {
+    "type": "adjective",
+    "germanic": "snaiwahwītaz",
+    "english1": "",
+    "english2": "",
+    "gender": "",
+    "pronunciation": "/ˈsnɑi̯.wɑ.ˌxʷiː.tɑz/",
+    "options": {
+      "strong_sing_masc_nom": "snaiwahwītaz",
+      "strong_sing_fem_nom": "snaiwahwītō",
+      "strong_sing_neut_nom": "snaiwahwītą,-atō",
+
+      "strong_sing_masc_acc": "snaiwahwītanǭ",
+      "strong_sing_fem_acc": "snaiwahwītǭ",
+      "strong_sing_neut_acc": "snaiwahwītą,-atō",
+
+      "strong_sing_masc_gen": "snaiwahwītas,-is",
+      "strong_sing_fem_gen": "snaiwahwītaizōz",
+      "strong_sing_neut_gen": "snaiwahwītas,-is",
+
+      "strong_sing_masc_dat": "snaiwahwītammai",
+      "strong_sing_fem_dat": "snaiwahwītaizōi",
+      "strong_sing_neut_dat": "snaiwahwītammai",
+
+      "strong_sing_masc_inst": "snaiwahwītanō",
+      "strong_sing_fem_inst": "snaiwahwītaizō",
+      "strong_sing_neut_inst": "snaiwahwītanō",
+
+      "strong_plur_masc_nom": "snaiwahwītai",
+      "strong_plur_fem_nom": "snaiwahwītôz",
+      "strong_plur_neut_nom": "snaiwahwītō",
+
+      "strong_plur_masc_acc": "snaiwahwītanz",
+      "strong_plur_fem_acc": "snaiwahwītōz",
+      "strong_plur_neut_acc": "snaiwahwītō",
+
+      "strong_plur_masc_gen": "snaiwahwītaizǫ̂",
+      "strong_plur_fem_gen": "snaiwahwītaizǫ̂",
+      "strong_plur_neut_gen": "snaiwahwītaizǫ̂",
+
+      "strong_plur_masc_dat": "snaiwahwītaimaz",
+      "strong_plur_fem_dat": "snaiwahwītaimaz",
+      "strong_plur_neut_dat": "snaiwahwītaimaz",
+
+      "strong_plur_masc_inst": "snaiwahwītaimiz",
+      "strong_plur_fem_inst": "snaiwahwītaimiz",
+      "strong_plur_neut_inst": "snaiwahwītaimiz",
+
+      "weak_sing_masc_nom": "snaiwahwītǭ",
+      "weak_sing_fem_nom": "snaiwahwītô",
+      "weak_sing_neut_nom": "snaiwahwītaniz",
+
+      "weak_sing_masc_acc": "snaiwahwītanų",
+      "weak_sing_fem_acc": "snaiwahwītōnų",
+      "weak_sing_neut_acc": "snaiwahwītô",
+
+      "weak_sing_masc_gen": "snaiwahwītiniz",
+      "weak_sing_fem_gen": "snaiwahwītōniz",
+      "weak_sing_neut_gen": "snaiwahwītiniz",
+
+      "weak_sing_masc_dat": "snaiwahwītini",
+      "weak_sing_fem_dat": "snaiwahwītōni",
+      "weak_sing_neut_dat": "snaiwahwītini",
+
+      "weak_sing_masc_inst": "snaiwahwītinē",
+      "weak_sing_fem_inst": "snaiwahwītōnē",
+      "weak_sing_neut_inst": "snaiwahwītinē",
+
+      "weak_plur_masc_nom": "snaiwahwītaniz",
+      "weak_plur_fem_nom": "snaiwahwītōniz",
+      "weak_plur_neut_nom": "snaiwahwītōnō",
+
+      "weak_plur_masc_acc": "snaiwahwītanunz",
+      "weak_plur_fem_acc": "snaiwahwītô",
+      "weak_plur_neut_acc": "snaiwahwītōnų",
+
+      "weak_plur_masc_gen": "snaiwahwītanǫ̂",
+      "weak_plur_fem_gen": "snaiwahwītōnǫ̂",
+      "weak_plur_neut_gen": "snaiwahwītanǫ̂",
+
+      "weak_plur_masc_dat": "snaiwahwītammaz",
+      "weak_plur_fem_dat": "snaiwahwītōmaz",
+      "weak_plur_neut_dat": "snaiwahwītammaz",
+
+      "weak_plur_masc_inst": "snaiwahwītammiz",
+      "weak_plur_fem_inst": "snaiwahwītōmiz",
+      "weak_plur_neut_inst": "snaiwahwītammiz"
+    }
+  },
+  "": {
+    "type": "adjective",
+    "germanic": "",
+    "english1": "",
+    "english2": "",
+    "gender": "",
+    "pronunciation": "",
+    "options": {
+      
+    }
+  },
 
   "that": {
     "type": "word",
@@ -11420,6 +13474,202 @@
       "plur_masc_inst": "-",
       "plur_fem_inst": "-",
       "plur_neut_inst": "-"
+    }
+  },
+  "better": {
+    "type": "word",
+    "germanic": "batizô",
+    "english1": "",
+    "english2": "",
+    "gender": "",
+    "pronunciation": "/ˈbɑ.ti.zɔːː/",
+    "options": {
+      "sing_masc_nomi": "batizô",
+      "sing_fem_nomi": "batizį̄",
+      "sing_neut_nomi": "batizô",
+
+      "sing_masc_acc": "batizanų",
+      "sing_fem_acc": "batizīnų",
+      "sing_neut_acc": "batizô",
+
+      "sing_masc_gen": "batiziniz",
+      "sing_fem_gen": "batizīniz",
+      "sing_neut_gen": "batiziniz",
+
+      "sing_masc_dat": "batizini",
+      "sing_fem_dat": "batizīni",
+      "sing_neut_dat": "batizini",
+
+      "sing_masc_inst": "batizinē",
+      "sing_fem_inst": "batizīnē",
+      "sing_neut_inst": "batizinē",
+
+      "plur_masc_nomi": "batizaniz",
+      "plur_fem_nomi": "batizīniz",
+      "plur_neut_nomi": "batizōnō",
+
+      "plur_masc_acc": "batizanunz",
+      "plur_fem_acc": "batizīnunz",
+      "plur_neut_acc": "batizōnō",
+
+      "plur_masc_gen": "batizanǫ̂",
+      "plur_fem_gen": "batizīnǫ̂",
+      "plur_neut_gen": "batizanǫ̂",
+
+      "plur_masc_dat": "batizammaz",
+      "plur_fem_dat": "batizīmaz",
+      "plur_neut_dat": "batizammaz",
+
+      "plur_masc_inst": "batizammiz",
+      "plur_fem_inst": "batizīmiz",
+      "plur_neut_inst": "batizammiz"
+    }
+  },
+  "smaller": {
+    "type": "word",
+    "germanic": "minnizô",
+    "english1": "littler",
+    "english2": "fewer",
+    "gender": "",
+    "pronunciation": "/ˈmin.ni.zɔːː/",
+    "options": {
+      "sing_masc_nomi": "minnizô",
+      "sing_fem_nomi": "minnizį̄",
+      "sing_neut_nomi": "minnizô",
+
+      "sing_masc_acc": "minnizanų",
+      "sing_fem_acc": "minnizīnų",
+      "sing_neut_acc": "minnizô",
+
+      "sing_masc_gen": "minniziniz",
+      "sing_fem_gen": "minnizīniz",
+      "sing_neut_gen": "minniziniz",
+
+      "sing_masc_dat": "minnizini",
+      "sing_fem_dat": "minnizīni",
+      "sing_neut_dat": "minnizini",
+
+      "sing_masc_inst": "minnizinē",
+      "sing_fem_inst": "minnizīnē",
+      "sing_neut_inst": "minnizinē",
+
+      "plur_masc_nomi": "minnizaniz",
+      "plur_fem_nomi": "minnizīniz",
+      "plur_neut_nomi": "minnizōnō",
+
+      "plur_masc_acc": "minnizanunz",
+      "plur_fem_acc": "minnizīnunz",
+      "plur_neut_acc": "minnizōnō",
+
+      "plur_masc_gen": "minnizanǫ̂",
+      "plur_fem_gen": "minnizīnǫ̂",
+      "plur_neut_gen": "minnizanǫ̂",
+
+      "plur_masc_dat": "minnizammaz",
+      "plur_fem_dat": "minnizīmaz",
+      "plur_neut_dat": "minnizammaz",
+
+      "plur_masc_inst": "minnizammiz",
+      "plur_fem_inst": "minnizīmiz",
+      "plur_neut_inst": "minnizammiz"
+    }
+  },
+  "bigger": {
+    "type": "word",
+    "germanic": "maizô",
+    "english1": "larger",
+    "english2": "more",
+    "gender": "",
+    "pronunciation": "/ˈmɑi̯.zɔːː/",
+    "options": {
+      "sing_masc_nomi": "maizô",
+      "sing_fem_nomi": "maizį̄",
+      "sing_neut_nomi": "maizô",
+
+      "sing_masc_acc": "maizanų",
+      "sing_fem_acc": "maizīnų",
+      "sing_neut_acc": "maizô",
+
+      "sing_masc_gen": "maiziniz",
+      "sing_fem_gen": "maizīniz",
+      "sing_neut_gen": "maiziniz",
+
+      "sing_masc_dat": "maizini",
+      "sing_fem_dat": "maizīni",
+      "sing_neut_dat": "maizini",
+
+      "sing_masc_inst": "maizinē",
+      "sing_fem_inst": "maizīnē",
+      "sing_neut_inst": "maizinē",
+
+      "plur_masc_nomi": "maizaniz",
+      "plur_fem_nomi": "maizīniz",
+      "plur_neut_nomi": "maizōnō",
+
+      "plur_masc_acc": "maizanunz",
+      "plur_fem_acc": "maizīnunz",
+      "plur_neut_acc": "maizōnō",
+
+      "plur_masc_gen": "maizanǫ̂",
+      "plur_fem_gen": "maizīnǫ̂",
+      "plur_neut_gen": "maizanǫ̂",
+
+      "plur_masc_dat": "maizammaz",
+      "plur_fem_dat": "maizīmaz",
+      "plur_neut_dat": "maizammaz",
+
+      "plur_masc_inst": "maizammiz",
+      "plur_fem_inst": "maizīmiz",
+      "plur_neut_inst": "maizammiz"
+    }
+  },
+  "": {
+    "type": "word",
+    "germanic": "",
+    "english1": "",
+    "english2": "",
+    "gender": "",
+    "pronunciation": "",
+    "options": {
+      "sing_masc_nomi": "",
+      "sing_fem_nomi": "",
+      "sing_neut_nomi": "",
+
+      "sing_masc_acc": "",
+      "sing_fem_acc": "",
+      "sing_neut_acc": "",
+
+      "sing_masc_gen": "",
+      "sing_fem_gen": "",
+      "sing_neut_gen": "",
+
+      "sing_masc_dat": "",
+      "sing_fem_dat": "",
+      "sing_neut_dat": "",
+
+      "sing_masc_inst": "",
+      "sing_fem_inst": "",
+      "sing_neut_inst": "",
+
+      "plur_masc_nomi": "",
+      "plur_fem_nomi": "",
+      "plur_neut_nomi": "",
+
+      "plur_masc_acc": "",
+      "plur_fem_acc": "",
+      "plur_neut_acc": "",
+
+      "plur_masc_gen": "",
+      "plur_fem_gen": "",
+      "plur_neut_gen": "",
+
+      "plur_masc_dat": "",
+      "plur_fem_dat": "",
+      "plur_neut_dat": "",
+
+      "plur_masc_inst": "",
+      "plur_fem_inst": "",
+      "plur_neut_inst": ""
     }
   },
 

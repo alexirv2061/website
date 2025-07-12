@@ -685,7 +685,7 @@ function checkWord() {
                 <th>neuter</th>
             </tr>
             <tr>
-                <td>nominative</td>
+                <th>nominative</th>
                 <td>${options.strong_sing_masc_nom}</td>
                 <td>${options.strong_sing_fem_nom}</td>
                 <td>${options.strong_sing_neut_nom}</td>
@@ -694,40 +694,40 @@ function checkWord() {
                 <td>${options.strong_plur_neut_nom}</td>
             </tr>
             <tr>
-                <td>accusative</td>
-                <td>${options.option2}</td>
-                <td>${options.option3}</td>
-                <td>${options.option1}</td>
-                <td>${options.option2}</td>
-                <td>${options.option3}</td>
-                <td>${options.option3}</td>
+                <th>accusative</th>
+                <td>${options.strong_sing_masc_acc}</td>
+                <td>${options.strong_sing_fem_acc}</td>
+                <td>${options.strong_sing_neut_acc}</td>
+                <td>${options.strong_plur_masc_acc}</td>
+                <td>${options.strong_plur_fem_acc}</td>
+                <td>${options.strong_plur_neut_acc}</td>
             </tr>
             <tr>
-                <td>genitive</td>
-                <td>${options.option2}</td>
-                <td>${options.option3}</td>
-                <td>${options.option1}</td>
-                <td>${options.option2}</td>
-                <td>${options.option3}</td>
-                <td>${options.option3}</td>
+                <th>genitive</th>
+                <td>${options.strong_sing_masc_gen}</td>
+                <td>${options.strong_sing_fem_gen}</td>
+                <td>${options.strong_sing_neut_gen}</td>
+                <td>${options.strong_plur_masc_gen}</td>
+                <td>${options.strong_plur_fem_gen}</td>
+                <td>${options.strong_plur_neut_gen}</td>
             </tr>
             <tr>
-                <td>dative</td>
-                <td>${options.option2}</td>
-                <td>${options.option3}</td>
-                <td>${options.option1}</td>
-                <td>${options.option2}</td>
-                <td>${options.option3}</td>
-                <td>${options.option3}</td>
+                <th>dative</th>
+                <td>${options.strong_sing_masc_dat}</td>
+                <td>${options.strong_sing_fem_dat}</td>
+                <td>${options.strong_sing_neut_dat}</td>
+                <td>${options.strong_plur_masc_dat}</td>
+                <td>${options.strong_plur_fem_dat}</td>
+                <td>${options.strong_plur_neut_dat}</td>
             </tr>
             <tr>
-                <td>instrumental</td>
-                <td>${options.option2}</td>
-                <td>${options.option3}</td>
-                <td>${options.option1}</td>
-                <td>${options.option2}</td>
-                <td>${options.option3}</td>
-                <td>${options.option3}</td>
+                <th>instrumental</th>
+                <td>${options.strong_sing_masc_inst}</td>
+                <td>${options.strong_sing_fem_inst}</td>
+                <td>${options.strong_sing_neut_inst}</td>
+                <td>${options.strong_plur_masc_inst}</td>
+                <td>${options.strong_plur_fem_inst}</td>
+                <td>${options.strong_plur_neut_inst}</td>
             </tr>
           </table>
 
@@ -750,49 +750,49 @@ function checkWord() {
                 <th>neuter</th>
             </tr>
             <tr>
-                <td>nominative</td>
-                <td>${options.option2}</td>
-                <td>${options.option3}</td>
-                <td>${options.option1}</td>
-                <td>${options.option2}</td>
-                <td>${options.option3}</td>
-                <td>${options.option3}</td>
+                <th>nominative</th>
+                <td>${options.weak_sing_masc_nom}</td>
+                <td>${options.weak_sing_fem_nom}</td>
+                <td>${options.weak_sing_neut_nom}</td>
+                <td>${options.weak_plur_masc_nom}</td>
+                <td>${options.weak_plur_fem_nom}</td>
+                <td>${options.weak_plur_neut_nom}</td>
             </tr>
             <tr>
-                <td>accusative</td>
-                <td>${options.option2}</td>
-                <td>${options.option3}</td>
-                <td>${options.option1}</td>
-                <td>${options.option2}</td>
-                <td>${options.option3}</td>
-                <td>${options.option3}</td>
+                <th>accusative</th>
+                <td>${options.weak_sing_masc_acc}</td>
+                <td>${options.weak_sing_fem_acc}</td>
+                <td>${options.weak_sing_neut_acc}</td>
+                <td>${options.weak_plur_masc_acc}</td>
+                <td>${options.weak_plur_fem_acc}</td>
+                <td>${options.weak_plur_neut_acc}</td>
             </tr>
             <tr>
-                <td>genitive</td>
-                <td>${options.option2}</td>
-                <td>${options.option3}</td>
-                <td>${options.option1}</td>
-                <td>${options.option2}</td>
-                <td>${options.option3}</td>
-                <td>${options.option3}</td>
+                <th>genitive</th>
+                <td>${options.weak_sing_masc_gen}</td>
+                <td>${options.weak_sing_fem_gen}</td>
+                <td>${options.weak_sing_neut_gen}</td>
+                <td>${options.weak_plur_masc_gen}</td>
+                <td>${options.weak_plur_fem_gen}</td>
+                <td>${options.weak_plur_neut_gen}</td>
             </tr>
             <tr>
-                <td>dative</td>
-                <td>${options.option2}</td>
-                <td>${options.option3}</td>
-                <td>${options.option1}</td>
-                <td>${options.option2}</td>
-                <td>${options.option3}</td>
-                <td>${options.option3}</td>
+                <th>dative</th>
+                <td>${options.weak_sing_masc_dat}</td>
+                <td>${options.weak_sing_fem_dat}</td>
+                <td>${options.weak_sing_neut_dat}</td>
+                <td>${options.weak_plur_masc_dat}</td>
+                <td>${options.weak_plur_fem_dat}</td>
+                <td>${options.weak_plur_neut_dat}</td>
             </tr>
             <tr>
-                <td>instrumental</td>
-                <td>${options.option2}</td>
-                <td>${options.option3}</td>
-                <td>${options.option1}</td>
-                <td>${options.option2}</td>
-                <td>${options.option3}</td>
-                <td>${options.option3}</td>
+                <th>instrumental</th>
+                <td>${options.weak_sing_masc_inst}</td>
+                <td>${options.weak_sing_fem_inst}</td>
+                <td>${options.weak_sing_neut_inst}</td>
+                <td>${options.weak_plur_masc_inst}</td>
+                <td>${options.weak_plur_fem_inst}</td>
+                <td>${options.weak_plur_neut_inst}</td>
             </tr>
           </table>
         `;
