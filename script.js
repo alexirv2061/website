@@ -1012,6 +1012,9 @@ function checkWord() {
         tableHTML += ` 
           <h3>${options.addition}</h3>
         `;
+      } else if (type === "conjunction") {
+        tableHTML += ` 
+        `;
       } else if (type === "numeral") {
         tableHTML += ` 
           <table>
